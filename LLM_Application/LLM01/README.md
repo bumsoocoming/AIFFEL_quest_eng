@@ -8,11 +8,14 @@
     - klue/bert-base 모델을 NSMC 데이터셋으로 fine-tuning하여 정상 작동을 확인했습니다.
          STEP 4와 STEP 5 모두 완성된 코드가 실행되었고, 최종 결과물이 출력되었습니다.
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
+        <img width="404" height="127" alt="image" src="https://github.com/user-attachments/assets/241f17d7-c2f2-4a3f-87f0-c657571e9703" />
+
     
 - [X]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
     transform_custom 함수와 DataCollatorWithPadding 적용 부분이
 가장 핵심적인 코드이며, 주석이 명확하게 작성되어 있습니다.
+
 
 **잘 작성된 주석 예시**
 ```python
@@ -27,7 +30,8 @@ def tokenize_nsmc_bucket(batch):
     )
 ```
 각 인자의 역할과 존재 이유가 명확하게 기술되어 있어 이해하기 쉬웠습니다.
-        
+     <img width="503" height="408" alt="image" src="https://github.com/user-attachments/assets/23620f3e-ed5b-4623-b3fa-56841eab98cd" />
+   
 - [X]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**
 여러 버전 충돌 문제를 직접 해결한 기록이 남아있습니다.
@@ -52,7 +56,8 @@ nsmc_dataset = load_dataset(
 )
 ```
 
-        
+    <img width="578" height="392" alt="image" src="https://github.com/user-attachments/assets/e2ff3854-3508-4df4-9e14-c2e97719e79b" />
+    
 - [X]  **4. 회고를 잘 작성했나요?**
  
 잘한 점, 배운 점, 어려웠던 점, 아쉬운 점, 느낀 점으로
@@ -80,6 +85,7 @@ def clean_text(text):
 ```
 전처리 함수가 모듈화되어 있고 docstring도 달려있어
 재사용성이 높습니다.
+<img width="411" height="187" alt="image" src="https://github.com/user-attachments/assets/51fb30a4-639b-4228-96e8-ca394304a71a" />
 
 
 # 회고(참고 링크 및 코드 개선)
