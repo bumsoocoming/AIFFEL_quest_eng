@@ -1,0 +1,179 @@
+/* ── 1단계: 인터뷰 탭 ── */
+
+.mic-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 14px;
+  padding: 12px 0;
+}
+
+.mic-btn {
+  width: 120px; height: 120px;
+  border-radius: 50%;
+  background: var(--terra);
+  color: #fff;
+  font-size: 44px;
+  border: none;
+  cursor: pointer;
+  position: relative;
+  transition: transform 0.2s, background 0.2s;
+  box-shadow: 0 8px 32px rgba(217,123,63,0.35);
+}
+.mic-btn:hover { transform: scale(1.06); }
+.mic-btn:active { transform: scale(0.95); }
+.mic-btn.recording { background: #e53e3e; animation: mic-pulse 1.2s ease infinite; }
+
+@keyframes mic-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(229,62,62,0.5); }
+  50% { box-shadow: 0 0 0 22px rgba(229,62,62,0); }
+}
+
+.mic-ripple {
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  border: 3px solid var(--terra);
+  animation: ripple 1.4s ease-out infinite;
+  opacity: 0;
+}
+.mic-btn.recording .mic-ripple { opacity: 1; }
+
+@keyframes ripple {
+  0% { transform: scale(1); opacity: 0.6; }
+  100% { transform: scale(1.7); opacity: 0; }
+}
+
+.mic-status {
+  font-size: 18px;
+  font-weight: 800;
+  color: var(--terra);
+  letter-spacing: 0.04em;
+}
+.mic-status.listening { color: #38a169; }
+.mic-status.done { color: #92400e; }
+
+/* 채팅 버블 */
+.chat-area {
+  background: var(--bg);
+  border: 2px solid var(--border);
+  border-radius: 20px;
+  padding: 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.bubble-row { display: flex; align-items: flex-start; gap: 14px; }
+.bubble-row.user { flex-direction: row-reverse; }
+
+.bubble-avatar {
+  width: 46px; height: 46px;
+  border-radius: 50%;
+  background: var(--terra);
+  color: #fff;
+  font-size: 20px;
+  font-weight: 900;
+  display: flex; align-items: center; justify-content: center;
+  flex-shrink: 0;
+}
+.bubble-row.user .bubble-avatar {
+  background: rgba(62,46,32,0.1);
+  border: 2px solid var(--brown);
+  font-size: 22px;
+}
+
+.bubble {
+  flex: 1;
+  max-width: 82%;
+  background: #fff;
+  border: 2px solid var(--terra);
+  border-radius: 18px;
+  border-top-left-radius: 4px;
+  padding: 14px 18px;
+}
+.bubble-row.user .bubble {
+  border-color: var(--border);
+  border-top-left-radius: 18px;
+  border-top-right-radius: 4px;
+  text-align: right;
+}
+
+.bubble-label {
+  font-size: 12px;
+  font-weight: 900;
+  color: var(--terra);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  display: block;
+  margin-bottom: 6px;
+}
+.bubble-row.user .bubble-label { color: rgba(62,46,32,0.5); }
+
+.bubble-text {
+  font-size: 21px;
+  font-weight: 700;
+  line-height: 1.65;
+  color: var(--brown);
+  font-family: 'Nanum Myeongjo', serif;
+}
+
+/* 프리셋 버튼 */
+.preset-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+}
+@media (min-width: 640px) {
+  .preset-grid { grid-template-columns: repeat(4, 1fr); }
+}
+
+.preset-btn {
+  height: 62px;
+  background: #fff;
+  border: 2px solid var(--brown);
+  color: var(--brown);
+  border-radius: 14px;
+  font-size: 15px;
+  font-weight: 800;
+  cursor: pointer;
+  padding: 8px 12px;
+  transition: all 0.2s;
+  text-align: center;
+  line-height: 1.3;
+}
+.preset-btn:hover { background: var(--bg); }
+.preset-btn.active {
+  background: var(--terra);
+  color: #fff;
+  border-color: var(--terra);
+}
+
+/* 기억 수집 목록 */
+.memory-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  max-height: 180px;
+  overflow-y: auto;
+}
+.memory-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 14px;
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  font-size: 15px;
+  font-weight: 700;
+}
+.memory-cat {
+  font-size: 11px;
+  font-weight: 900;
+  color: var(--terra);
+  background: rgba(217,123,63,0.1);
+  border-radius: 6px;
+  padding: 2px 8px;
+  white-space: nowrap;
+}

@@ -1,0 +1,1718 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,viewport-fit=cover"/>
+<title>HERO — 당신의 인생이 위인전이 되는 순간</title>
+<!-- PWA (홈 화면 설치형 앱) -->
+<link rel="manifest" href="/manifest.json"/>
+<meta name="theme-color" content="#7A4A18"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+<meta name="apple-mobile-web-app-title" content="HERO"/>
+<link rel="apple-touch-icon" href="/icon-192.png"/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700;800;900&display=swap" rel="stylesheet"/>
+<style>
+/* ================================================================
+   HERO 웹사이트 가이드 — PDF + COLOR DOCX 완전 적용
+   폰트: Pretendard > Noto Sans KR > sans-serif
+   컬러: 따뜻한 크림/브라운/골드 시스템
+================================================================ */
+:root {
+  /* ── 폰트 시스템 (PDF 4장) ── */
+  --hero-font-main: "Pretendard","Noto Sans KR","Apple SD Gothic Neo","Malgun Gothic",sans-serif;
+  --hero-title-size: clamp(72px, 8vw, 136px);
+  --hero-slogan-size: clamp(28px, 3vw, 44px);
+  --hero-message-size: clamp(26px, 2.8vw, 42px);
+  --hero-body-size: clamp(18px, 1.4vw, 22px);
+  --hero-button-size: clamp(20px, 1.6vw, 24px);
+  --hero-title-weight: 900;
+  --hero-heading-weight: 800;
+  --hero-body-weight: 500;
+  --hero-button-weight: 900;
+  --hero-line-height-title: 1.15;
+  --hero-line-height-body: 1.6;
+
+  /* ── 인트로 컬러 시스템 — 따뜻한 다크 브라운 카드 ── */
+  --hero-bg-main: #F6E8C8;
+  --hero-bg-card: rgba(44,24,8,0.94);
+  --hero-card-border: rgba(216,185,74,0.22);
+  --hero-gold: #D8B94A;
+  --hero-gold-light: #EAD274;
+  --hero-text-light: #FFF8E8;
+  --hero-text-muted: rgba(255,248,232,0.72);
+  --hero-primary: #D8B94A;
+  --hero-primary-hover: #EAD274;
+  --hero-dark: #2C1808;
+  --hero-input-bg: rgba(255,248,232,0.08);
+  --hero-input-border: rgba(216,185,74,0.25);
+
+  /* ── 인터뷰/그림책 화면 컬러 (DOCX 컬러 가이드) ── */
+  --w-bg: #F6E8C8;
+  --w-bg2: #FAF0D6;
+  --w-card: #FFF8E8;
+  --w-text: #3B2A14;
+  --w-text2: #7A6542;
+  --w-btn: #7A4A18;
+  --w-btn-hover: #5F3711;
+  --w-btn-text: #FFF8E8;
+  --w-sub-btn: #D8A24A;
+  --w-accent: #C96F32;
+  --w-green: #6F7A45;
+  --w-green2: #4F5A31;
+  --w-border: #D9C49A;
+  --w-border2: #B89A5F;
+  --w-danger: #A9472B;
+  --w-info: #6C7A89;
+}
+
+*{box-sizing:border-box;margin:0;padding:0;}
+html,body{min-height:100vh;font-family:var(--hero-font-main);-webkit-font-smoothing:antialiased;}
+
+/* ── 화면 전환 ── */
+.screen{display:none;min-height:100vh;flex-direction:column;}
+.screen.active{display:flex;}
+
+/* ── 공통 애니메이션 ── */
+@keyframes textFadeUp{from{opacity:0;transform:translate(-50%,18px);}to{opacity:1;transform:translate(-50%,0);}}
+@keyframes finalFadeIn{from{opacity:0;transform:translateY(22px);}to{opacity:1;transform:translateY(0);}}
+@keyframes cardScaleUp{from{opacity:0;transform:scale(0.96) translateY(18px);}to{opacity:1;transform:scale(1) translateY(0);}}
+@keyframes blink{0%,45%{opacity:1;}46%,100%{opacity:0;}}
+@keyframes spin{to{transform:rotate(360deg);}}
+@keyframes fadeUp{from{opacity:0;transform:translateY(20px);}to{opacity:1;transform:translateY(0);}}
+@keyframes pulse{0%,100%{opacity:1;}50%{opacity:.5;}}
+@keyframes slideIn{from{opacity:0;transform:translateX(-14px);}to{opacity:1;transform:translateX(0);}}
+
+/* ── 토스트 ── */
+#toast{position:fixed;bottom:28px;left:50%;transform:translateX(-50%) translateY(60px);
+  background:var(--w-btn);color:var(--w-btn-text);padding:12px 26px;border-radius:50px;
+  font-size:15px;font-weight:700;opacity:0;transition:all .3s;z-index:9999;pointer-events:none;white-space:nowrap;}
+#toast.show{opacity:1;transform:translateX(-50%) translateY(0);}
+
+/* ── 스크롤바 ── */
+::-webkit-scrollbar{width:5px;}
+::-webkit-scrollbar-track{background:transparent;}
+::-webkit-scrollbar-thumb{background:var(--w-border2);border-radius:4px;}
+
+
+/* ================================================================
+   SCREEN 0: HERO 인트로 (PDF 가이드 완전 적용)
+================================================================ */
+#screen-landing{display:block;min-height:100vh;}
+
+.hero-intro{
+  position:relative;width:100%;height:100vh;min-height:760px;
+  overflow:hidden;background:#000;
+}
+.hero-scene{
+  position:absolute;inset:0;opacity:0;visibility:hidden;
+  transition:opacity 0.75s ease,visibility 0.75s ease;
+  background-size:cover;background-position:center;
+}
+.hero-scene.active{opacity:1;visibility:visible;}
+
+.scene-1{background-image:url("images/input/ChatGPT_Image_2026_6_5_11_17_35.png");}
+.scene-2{background-image:url("images/input/ChatGPT_Image_2026_6_5_11_17_37.png");}
+.scene-3{background-image:url("images/input/ChatGPT_Image_2026_6_5_11_17_38.png");}
+.scene-4{background-image:url("images/input/ChatGPT_Image_2026_6_5_11_17_40.png");}
+.scene-5{background-image:url("images/input/ChatGPT_Image_2026_6_5_11_17_41.png");}
+
+.hero-overlay{
+  position:absolute;inset:0;
+  background:linear-gradient(to bottom,rgba(0,0,0,0.18),rgba(0,0,0,0.42));
+}
+.final-overlay{
+  background:linear-gradient(to bottom,rgba(0,0,0,0.34),rgba(0,0,0,0.58));
+}
+
+.hero-text{
+  position:absolute;z-index:5;
+  color:var(--hero-text-light);
+}
+/* Scene 1 — 중앙 하단 큰 흰색 라벨 (사진처럼) */
+.bottom-text{
+  left:50%;bottom:clamp(60px,12vh,130px);
+  text-align:center;transform:translateX(-50%);width:min(92%,1100px);
+  animation:textFadeUp 0.75s ease both;
+}
+/* Scene 2,3 — 좌하단 큰 카피 (영화 포스터 스타일) */
+.center-text{
+  left:clamp(32px,6vw,90px);bottom:clamp(60px,11vh,120px);
+  text-align:left;width:min(88%,900px);
+  animation:fadeUp 0.75s ease both;
+}
+/* Scene 3 — 중앙 (슬로건 + HERO, 사진처럼) */
+.scene-3 .center-text{
+  left:50%;top:38%;bottom:auto;
+  text-align:center;width:min(92%,1100px);
+  transform:translateX(-50%);
+  animation:textFadeUp 0.75s ease both;
+}
+/* Scene 4 — 중앙 하단 메시지 (사진처럼) */
+.scene-4 .center-text{
+  left:50%;bottom:clamp(56px,10vh,110px);
+  text-align:center;width:min(92%,1000px);
+  transform:translateX(-50%);
+  animation:textFadeUp 0.75s ease both;
+}
+
+.eyebrow{
+  margin:0 0 12px;font-size:clamp(18px,1.6vw,26px);font-weight:800;
+  letter-spacing:0.34em;color:#FFFFFF;text-transform:uppercase;
+  text-shadow:0 3px 16px rgba(0,0,0,0.55);
+  display:block;
+}
+/* Scene 1 전용 — 사진처럼 크고 흰 중앙 글씨 (골드/선 없음) */
+.scene-1 .eyebrow{
+  margin:0;font-size:clamp(40px,5.5vw,84px);font-weight:900;
+  letter-spacing:0.12em;color:#FFFFFF;
+  text-shadow:0 4px 28px rgba(0,0,0,0.55);
+  display:block;
+}
+.scene-1 .eyebrow::before{display:none;}
+.hero-logo,.typing-hero{
+  margin:0;font-size:clamp(58px,7vw,118px);line-height:1.08;
+  font-weight:900;letter-spacing:0.06em;color:var(--hero-gold);
+  text-shadow:0 6px 30px rgba(0,0,0,0.4);
+}
+.typing-hero::after{
+  content:"|";display:inline-block;margin-left:8px;
+  color:var(--hero-gold-light);animation:blink 0.7s infinite;
+}
+.hero-slogan{
+  margin:16px 0 0;font-size:clamp(24px,2.6vw,40px);line-height:1.3;
+  font-weight:800;color:var(--hero-text-light);
+  text-shadow:0 4px 24px rgba(0,0,0,0.55);
+}
+.hero-message{
+  margin:0;font-size:clamp(26px,2.8vw,44px);line-height:1.5;
+  font-weight:800;color:var(--hero-text-light);
+  text-shadow:0 4px 24px rgba(0,0,0,0.6);
+}
+
+/* Scene 5 — 입력 인터페이스 */
+.hero-final-content{
+  position:relative;z-index:10;width:min(92%,620px);margin:0 auto;
+  padding-top:9vh;text-align:center;color:var(--hero-text-light);
+  animation:finalFadeIn 1s ease both;
+}
+.hero-description{
+  margin:18px 0 28px;font-size:var(--hero-body-size);line-height:1.6;
+  font-weight:600;color:var(--hero-text-muted);
+}
+.hero-form-card{
+  width:100%;padding:32px 30px 28px;border-radius:26px;text-align:left;
+  background-color:rgba(46,26,10,0.95);border:1.5px solid rgba(216,185,74,0.35);
+  box-shadow:0 28px 80px rgba(0,0,0,0.5);
+  backdrop-filter:blur(12px);
+  animation:cardScaleUp 0.6s ease 0.15s both;
+}
+.hero-form-card h2{
+  margin:0 0 10px;font-size:clamp(22px,1.8vw,28px);line-height:1.35;
+  font-weight:800;color:var(--hero-gold-light);
+}
+.form-helper{margin:0 0 24px;font-size:clamp(16px,1.2vw,18px);color:var(--hero-text-muted);}
+.hero-form-card label{
+  display:block;margin:0 0 8px;font-size:16px;font-weight:700;
+  color:var(--hero-text-muted);text-align:left;
+}
+.hero-form-card input,
+.hero-form-card select{
+  width:100%;height:58px;margin-bottom:18px;padding:0 18px;
+  border-radius:14px;border:1.5px solid rgba(216,185,74,0.5);
+  background-color:rgba(20,12,4,0.55);color:var(--hero-text-light);
+  font-size:20px;font-weight:700;outline:none;font-family:var(--hero-font-main);
+}
+.hero-form-card input::placeholder{color:rgba(255,248,232,0.38);}
+.hero-form-card input:focus,
+.hero-form-card select:focus{
+  border-color:var(--hero-gold);
+  box-shadow:0 0 0 3px rgba(216,185,74,0.18);
+}
+.form-row{display:grid;grid-template-columns:1fr 1fr;gap:18px;}
+.primary-button{
+  width:100%;height:66px;margin-top:8px;border:none;border-radius:16px;
+  background-color:var(--hero-primary);color:var(--hero-dark);
+  font-size:var(--hero-button-size);font-weight:900;letter-spacing:-0.02em;
+  cursor:pointer;font-family:var(--hero-font-main);
+  transition:transform 0.22s ease,background-color 0.22s ease,box-shadow 0.22s ease;
+}
+.primary-button:hover{
+  background-color:var(--hero-primary-hover);transform:translateY(-2px);
+  box-shadow:0 14px 32px rgba(216,185,74,0.32);
+}
+.privacy-text{margin-top:22px;font-size:16px;line-height:1.5;color:rgba(255,248,232,0.62);}
+.skip-intro-button{
+  position:absolute;right:32px;bottom:32px;z-index:20;
+  background:rgba(255,248,232,0.14);color:#FFF8E8;
+  border:1px solid rgba(255,248,232,0.28);border-radius:999px;
+  padding:12px 20px;font-size:16px;font-weight:700;cursor:pointer;
+  backdrop-filter:blur(8px);font-family:var(--hero-font-main);
+  transition:background .2s;
+}
+.skip-intro-button:hover{background:rgba(255,248,232,0.24);}
+
+
+/* ================================================================
+   SCREEN 1: AI 인터뷰 (따뜻한 크림 배경)
+================================================================ */
+#screen-interview{background:var(--w-bg);}
+
+.warm-header{
+  background:var(--w-card);border-bottom:2px solid var(--w-border);
+  position:sticky;top:0;z-index:100;
+  box-shadow:0 2px 16px rgba(59,42,20,0.07);
+}
+.warm-header-inner{
+  max-width:820px;margin:0 auto;padding:16px 24px;
+  display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px;
+}
+.warm-logo{
+  font-size:26px;font-weight:900;letter-spacing:0.1em;color:var(--w-accent);cursor:pointer;
+}
+.warm-logo span{font-size:14px;font-weight:600;color:var(--w-text2);margin-left:10px;letter-spacing:0;}
+.step-dots{display:flex;align-items:center;gap:6px;}
+.sdot{
+  width:14px;height:14px;border-radius:50%;background:var(--w-border);
+  transition:all .2s;cursor:pointer;
+}
+.sdot:hover{transform:scale(1.25);box-shadow:0 0 0 4px rgba(217,123,63,0.18);}
+.sdot.done{background:var(--w-btn);}
+.sdot.active{background:var(--w-accent);transform:scale(1.4);}
+
+.interview-main{
+  max-width:820px;margin:0 auto;width:100%;padding:36px 24px 60px;flex:1;
+}
+.interview-top{text-align:center;margin-bottom:28px;animation:fadeUp .5s ease;}
+.step-eyebrow{
+  font-size:12px;font-weight:700;letter-spacing:.22em;color:var(--w-accent);
+  text-transform:uppercase;margin-bottom:12px;
+}
+.interview-title{
+  font-size:clamp(26px,4vw,40px);font-weight:900;color:var(--w-text);
+  line-height:1.25;margin-bottom:10px;
+}
+.interview-title span{color:var(--w-accent);}
+.interview-sub{font-size:16px;color:var(--w-text2);font-weight:500;}
+
+/* 카테고리 칩 */
+.chip-row{display:flex;gap:8px;flex-wrap:wrap;justify-content:center;margin-bottom:28px;}
+.chip{
+  padding:8px 18px;border-radius:50px;
+  border:1.5px solid var(--w-border);font-size:14px;font-weight:700;
+  color:var(--w-text2);cursor:pointer;transition:all .2s;
+  background:var(--w-card);white-space:nowrap;
+  font-family:var(--hero-font-main);
+}
+.chip:hover,.chip.active{
+  background:var(--w-btn);color:var(--w-btn-text);
+  border-color:var(--w-btn);
+}
+
+/* 채팅 카드 */
+.chat-card{
+  background:var(--w-card);border:1.5px solid var(--w-border);
+  border-radius:24px;overflow:hidden;margin-bottom:14px;
+  box-shadow:0 4px 24px rgba(59,42,20,0.08);
+}
+.chat-card-header{
+  padding:16px 22px;border-bottom:1px solid var(--w-border);
+  display:flex;align-items:center;justify-content:space-between;
+  background:var(--w-bg2);
+}
+.agent-info{display:flex;align-items:center;gap:12px;}
+.agent-avatar{
+  width:42px;height:42px;border-radius:50%;
+  background:linear-gradient(135deg,var(--w-btn),var(--w-accent));
+  display:flex;align-items:center;justify-content:center;font-size:20px;
+}
+.agent-name{font-size:15px;font-weight:800;color:var(--w-text);}
+.agent-desc{font-size:12px;color:var(--w-text2);}
+.q-counter{font-size:13px;font-weight:700;color:var(--w-accent);}
+
+.chat-area{
+  padding:20px 22px;display:flex;flex-direction:column;gap:16px;
+  max-height:320px;overflow-y:auto;min-height:160px;
+}
+.bubble-ai{
+  display:flex;align-items:flex-start;gap:12px;animation:slideIn .3s ease;
+}
+.b-avatar{
+  width:34px;height:34px;border-radius:50%;flex-shrink:0;
+  background:linear-gradient(135deg,var(--w-btn),var(--w-accent));
+  display:flex;align-items:center;justify-content:center;font-size:16px;
+}
+.b-text{
+  background:var(--w-bg2);border:1.5px solid var(--w-border);
+  border-radius:16px;border-top-left-radius:4px;
+  padding:14px 18px;max-width:82%;
+}
+.b-text p{font-size:17px;color:var(--w-text);line-height:1.75;font-weight:500;white-space:pre-line;}
+.b-time{font-size:11px;color:var(--w-text2);margin-top:6px;}
+
+.bubble-user-wrap{display:flex;justify-content:flex-end;}
+.b-text-user{
+  background:var(--w-btn);border-radius:16px;border-top-right-radius:4px;
+  padding:14px 18px;max-width:82%;
+}
+.b-text-user p{font-size:17px;color:var(--w-btn-text);line-height:1.75;font-weight:500;}
+
+/* 진행 바 */
+.chat-footer{
+  padding:12px 22px;border-top:1px solid var(--w-border);
+  display:flex;align-items:center;justify-content:space-between;
+  background:var(--w-bg2);
+}
+.progress-dots{display:flex;gap:5px;align-items:center;}
+.pdot{
+  height:7px;border-radius:4px;background:rgba(59,42,20,0.15);
+  transition:all .3s;cursor:pointer;
+}
+.pdot.done{background:var(--w-btn);width:7px;}
+.pdot.active{background:var(--w-accent);width:20px;}
+.pdot.pending{width:7px;}
+.collect-count{font-size:13px;font-weight:700;color:var(--w-accent);}
+
+/* 입력창 */
+.input-row{
+  background:var(--w-card);border:1.5px solid var(--w-border);
+  border-radius:18px;padding:10px 12px;
+  display:flex;align-items:center;gap:10px;margin-bottom:16px;
+  box-shadow:0 2px 12px rgba(59,42,20,0.06);
+}
+.input-row input{
+  flex:1;background:transparent;border:none;
+  font-size:16px;color:var(--w-text);padding:6px 4px;
+  font-family:var(--hero-font-main);outline:none;
+}
+.input-row input::placeholder{color:var(--w-text2);opacity:.7;}
+.icon-btn{
+  width:46px;height:46px;border-radius:50%;
+  background:var(--w-bg2);border:1.5px solid var(--w-border);
+  color:var(--w-text2);font-size:20px;cursor:pointer;
+  flex-shrink:0;transition:all .2s;display:flex;align-items:center;justify-content:center;
+  font-family:var(--hero-font-main);
+}
+.icon-btn:hover{background:var(--w-border);color:var(--w-text);}
+.icon-btn.send{background:var(--w-accent);border-color:var(--w-accent);color:#fff;}
+.icon-btn.send:hover{background:var(--w-btn);}
+
+/* 기억 목록 */
+.memory-card-wrap{
+  background:var(--w-card);border:1.5px solid var(--w-border);
+  border-radius:20px;padding:20px 22px;
+  box-shadow:0 2px 12px rgba(59,42,20,0.06);
+}
+.memory-card-header{
+  display:flex;align-items:center;justify-content:space-between;
+  margin-bottom:14px;flex-wrap:wrap;gap:10px;
+}
+.memory-title{
+  display:flex;align-items:center;gap:8px;
+  font-size:17px;font-weight:800;color:var(--w-text);
+}
+.mem-count{
+  background:var(--w-accent);color:#fff;
+  border-radius:50px;padding:2px 12px;font-size:13px;font-weight:900;
+}
+.make-book-btn{
+  height:52px;padding:0 24px;background:var(--w-btn);color:var(--w-btn-text);
+  border:none;border-radius:14px;font-size:16px;font-weight:900;
+  cursor:pointer;display:flex;align-items:center;gap:8px;transition:all .2s;
+  box-shadow:0 4px 16px rgba(122,74,24,0.25);font-family:var(--hero-font-main);
+}
+.make-book-btn:hover{background:var(--w-btn-hover);}
+.memory-list{display:flex;flex-direction:column;gap:8px;max-height:200px;overflow-y:auto;}
+.mem-item{
+  display:flex;align-items:center;gap:10px;padding:11px 14px;
+  background:var(--w-bg);border:1px solid var(--w-border);
+  border-radius:12px;transition:all .2s;
+}
+.mem-item:hover{border-color:var(--w-border2);}
+.mem-cat{
+  background:rgba(201,111,50,0.12);color:var(--w-accent);
+  border-radius:50px;padding:3px 12px;font-size:12px;font-weight:900;white-space:nowrap;
+}
+.mem-text{font-size:14px;font-weight:600;flex:1;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;color:var(--w-text);}
+.mem-del{
+  font-size:16px;color:rgba(59,42,20,0.3);background:none;border:none;
+  cursor:pointer;transition:color .2s;
+}
+.mem-del:hover{color:var(--w-danger);}
+.empty-mem{text-align:center;padding:20px;font-size:15px;color:var(--w-text2);font-weight:500;}
+
+/* 위인전 생성 버튼 */
+.cta-btn{
+  width:100%;height:64px;background:var(--w-btn);color:var(--w-btn-text);
+  border:none;border-radius:18px;font-size:20px;font-weight:900;
+  cursor:pointer;transition:all .2s;letter-spacing:.02em;
+  box-shadow:0 6px 24px rgba(122,74,24,0.25);font-family:var(--hero-font-main);
+}
+.cta-btn:hover{background:var(--w-btn-hover);transform:translateY(-1px);}
+
+
+/* ================================================================
+   SCREEN 2: 인생 그림책
+================================================================ */
+#screen-book{background:var(--w-bg);}
+
+.book-cover-card{
+  background:var(--w-card);border:1.5px solid var(--w-border);
+  border-radius:20px;padding:28px;text-align:center;margin-bottom:24px;
+  box-shadow:0 4px 24px rgba(59,42,20,0.08);
+}
+.book-cover-line{
+  display:flex;align-items:center;justify-content:center;gap:16px;margin-bottom:12px;
+}
+.book-cover-line::before,.book-cover-line::after{
+  content:'';flex:1;height:1px;
+  background:linear-gradient(to right,transparent,var(--w-border2));opacity:.6;
+}
+.book-cover-line::after{background:linear-gradient(to left,transparent,var(--w-border2));}
+.book-cover-eyebrow{
+  font-size:12px;font-weight:700;color:var(--w-accent);
+  letter-spacing:.2em;text-transform:uppercase;white-space:nowrap;
+}
+#book-main-title{
+  font-size:clamp(20px,3.5vw,32px);font-weight:900;color:var(--w-text);
+  margin-bottom:8px;line-height:1.3;
+}
+#book-author{font-size:16px;color:var(--w-accent);font-weight:600;}
+#book-year{font-size:14px;color:var(--w-text2);margin-top:4px;}
+
+.book-loading{
+  display:none;flex-direction:column;align-items:center;gap:16px;
+  padding:60px 0;text-align:center;
+}
+.spinner{
+  width:44px;height:44px;border:4px solid var(--w-border);
+  border-top-color:var(--w-accent);border-radius:50%;animation:spin 1s linear infinite;
+}
+.loading-txt{font-size:18px;font-weight:700;color:var(--w-accent);}
+.loading-sub{font-size:14px;color:var(--w-text2);}
+
+/* 그림책 본문 */
+.book-page-content{display:none;}
+.book-spread{
+  background:var(--w-card);border:1.5px solid var(--w-border);
+  border-radius:24px;overflow:hidden;margin-bottom:20px;
+  box-shadow:0 12px 48px rgba(59,42,20,0.12);
+  display:grid;grid-template-columns:1fr 1fr;min-height:420px;
+}
+@media(max-width:700px){.book-spread{grid-template-columns:1fr;}}
+
+/* 왼쪽: AI 수채화 */
+.book-art{position:relative;min-height:360px;overflow:hidden;background:var(--w-bg2);}
+.book-art img{width:100%;height:100%;object-fit:cover;display:none;transition:opacity .4s;}
+.book-art-loading{
+  position:absolute;inset:0;display:flex;flex-direction:column;
+  align-items:center;justify-content:center;gap:12px;
+}
+.book-art-loading p{font-size:13px;font-weight:700;color:var(--w-accent);}
+.book-art-loading small{font-size:12px;color:var(--w-text2);}
+.book-page-badge{
+  position:absolute;bottom:14px;left:14px;
+  background:rgba(59,42,20,0.72);backdrop-filter:blur(6px);
+  border:1px solid var(--w-border);border-radius:8px;
+  padding:5px 12px;font-size:13px;font-weight:800;color:var(--w-btn-text);z-index:2;
+}
+
+/* 오른쪽: 텍스트 */
+.book-text{padding:28px 26px;display:flex;flex-direction:column;gap:16px;justify-content:center;}
+.book-ch-label{
+  font-size:12px;font-weight:700;color:var(--w-accent);
+  letter-spacing:.18em;text-transform:uppercase;margin-bottom:6px;
+}
+.book-divider{width:36px;height:2px;background:var(--w-accent);border-radius:2px;margin-bottom:14px;}
+#book-ch-title{font-size:22px;font-weight:900;color:var(--w-text);line-height:1.35;margin-bottom:14px;}
+#book-body{font-size:17px;color:rgba(59,42,20,.82);line-height:1.9;font-weight:400;}
+.book-quote-wrap{border-left:2px solid var(--w-accent);padding-left:14px;margin-top:8px;opacity:.7;}
+#book-quote{font-size:14px;color:var(--w-accent);font-style:italic;line-height:1.6;}
+
+/* 페이지 컨트롤 */
+.book-ctrl{
+  padding:14px 24px;border-top:1px solid var(--w-border);
+  display:flex;align-items:center;justify-content:space-between;
+  background:var(--w-bg2);
+}
+.book-nav-btn{
+  height:46px;padding:0 22px;background:var(--w-card);
+  border:1.5px solid var(--w-border);border-radius:12px;
+  font-size:16px;font-weight:800;color:var(--w-text);cursor:pointer;
+  transition:all .2s;font-family:var(--hero-font-main);
+}
+.book-nav-btn:hover{background:var(--w-bg);border-color:var(--w-border2);}
+.book-dots{display:flex;gap:5px;align-items:center;}
+.bdot{height:7px;border-radius:4px;background:var(--w-border);transition:all .3s;cursor:pointer;}
+.bdot.active{background:var(--w-accent);width:18px;}
+.bdot.inactive{width:7px;}
+#book-pager{font-size:13px;font-weight:700;color:var(--w-text2);}
+
+.book-actions{display:flex;gap:12px;}
+.btn-primary{
+  flex:1;height:58px;background:var(--w-btn);color:var(--w-btn-text);
+  border:none;border-radius:16px;font-size:18px;font-weight:900;cursor:pointer;
+  transition:all .2s;box-shadow:0 4px 20px rgba(122,74,24,0.2);
+  font-family:var(--hero-font-main);
+}
+.btn-primary:hover{background:var(--w-btn-hover);}
+.btn-outline{
+  height:58px;padding:0 22px;background:var(--w-card);
+  border:1.5px solid var(--w-border);border-radius:16px;
+  font-size:16px;font-weight:700;color:var(--w-text);cursor:pointer;
+  transition:all .2s;font-family:var(--hero-font-main);
+}
+.btn-outline:hover{background:var(--w-bg);}
+
+
+/* ================================================================
+   SCREEN 3: 영상 대본
+================================================================ */
+#screen-video{background:var(--w-bg);}
+
+.video-loading{
+  display:none;flex-direction:column;align-items:center;gap:16px;
+  padding:80px 0;text-align:center;
+}
+.video-main-card{
+  background:var(--w-card);border:1.5px solid var(--w-border);
+  border-radius:24px;overflow:hidden;margin-bottom:16px;
+  box-shadow:0 12px 48px rgba(59,42,20,0.1);
+}
+.video-thumb-wrap{
+  position:relative;aspect-ratio:16/9;background:var(--w-text);overflow:hidden;
+}
+.video-thumb-wrap img{width:100%;height:100%;object-fit:cover;opacity:.8;}
+.video-thumb-overlay{
+  position:absolute;inset:0;
+  background:linear-gradient(to top,rgba(59,42,20,.6),transparent);
+}
+.video-play-btn{
+  position:absolute;inset:0;margin:auto;width:72px;height:72px;
+  border-radius:50%;background:var(--w-accent);border:none;
+  color:#fff;font-size:28px;cursor:pointer;
+  display:flex;align-items:center;justify-content:center;
+  transition:all .2s;box-shadow:0 6px 24px rgba(201,111,50,0.5);z-index:2;
+}
+.video-play-btn:hover{transform:scale(1.1);background:var(--w-btn);}
+.video-subtitle-overlay{
+  position:absolute;bottom:18px;left:50%;transform:translateX(-50%);
+  background:rgba(59,42,20,.78);padding:8px 20px;border-radius:8px;
+  font-size:16px;font-weight:800;color:#fff;white-space:nowrap;
+  backdrop-filter:blur(4px);z-index:2;
+}
+.video-script{padding:24px 26px;}
+.script-label{font-size:12px;font-weight:700;color:var(--w-accent);letter-spacing:.14em;text-transform:uppercase;margin-bottom:10px;}
+#video-narration{font-size:18px;color:var(--w-text);line-height:1.85;font-weight:400;margin-bottom:16px;}
+.direction-box{background:var(--w-bg2);border-radius:12px;padding:14px 16px;}
+.direction-label{font-size:12px;font-weight:700;color:var(--w-text2);margin-bottom:6px;}
+#video-direction{font-size:14px;color:var(--w-text2);line-height:1.6;}
+.video-nav{
+  padding:14px 24px;border-top:1px solid var(--w-border);
+  display:flex;align-items:center;justify-content:space-between;
+  background:var(--w-bg2);
+}
+.vnav-btn{
+  width:44px;height:44px;background:var(--w-card);
+  border:1.5px solid var(--w-border);border-radius:50%;
+  font-size:18px;color:var(--w-text);cursor:pointer;transition:all .2s;
+  font-family:var(--hero-font-main);
+}
+.vnav-btn:hover{background:var(--w-bg);}
+.script-dots{display:flex;gap:5px;align-items:center;}
+.scdot{height:7px;border-radius:4px;background:var(--w-border);transition:all .25s;cursor:pointer;}
+.scdot.active{background:var(--w-accent);width:18px;}
+.scdot.inactive{width:7px;}
+#script-pager{font-size:13px;font-weight:700;color:var(--w-text2);}
+.tts-cta{
+  background:var(--w-card);border:2px solid var(--w-accent);
+  border-radius:22px;padding:18px 26px;
+  display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:14px;
+  box-shadow:0 4px 20px rgba(201,111,50,0.1);
+}
+.tts-label{font-size:18px;font-weight:800;color:var(--w-text);}
+.tts-btn{
+  height:60px;padding:0 32px;background:var(--w-btn);color:var(--w-btn-text);
+  border:none;border-radius:16px;font-size:18px;font-weight:900;cursor:pointer;
+  display:flex;align-items:center;gap:10px;transition:all .2s;
+  box-shadow:0 6px 24px rgba(122,74,24,0.25);font-family:var(--hero-font-main);
+}
+.tts-btn:hover{background:var(--w-btn-hover);}
+
+/* 공통 따뜻한 화면 섹션 패딩 */
+.warm-main{max-width:820px;margin:0 auto;width:100%;padding:36px 24px 60px;flex:1;}
+
+/* 낭독 모달 */
+#modal{
+  display:none;position:fixed;inset:0;background:rgba(59,42,20,.7);
+  align-items:center;justify-content:center;z-index:500;padding:24px;
+}
+.modal-inner{
+  background:var(--w-card);border:2px solid var(--w-accent);
+  border-radius:28px;padding:36px 32px;max-width:500px;width:100%;
+  text-align:center;display:flex;flex-direction:column;gap:20px;
+  box-shadow:0 32px 80px rgba(59,42,20,.25);
+}
+.modal-icon{font-size:48px;}
+#modal-text{font-size:20px;color:var(--w-text);line-height:1.8;font-weight:400;}
+.modal-close{
+  height:56px;background:var(--w-btn);color:var(--w-btn-text);
+  border:none;border-radius:16px;font-size:18px;font-weight:900;cursor:pointer;
+  transition:all .2s;font-family:var(--hero-font-main);
+}
+.modal-close:hover{background:var(--w-btn-hover);}
+
+/* 반응형 */
+@media(max-width:768px){
+  .hero-intro{min-height:720px;}
+  .hero-final-content{padding-top:6vh;}
+  .hero-form-card{padding:28px 22px;border-radius:24px;}
+  .form-row{grid-template-columns:1fr;gap:0;}
+  .primary-button{height:64px;font-size:22px;}
+  .hero-description{font-size:19px;}
+  .skip-intro-button{right:18px;bottom:18px;font-size:14px;}
+  .book-spread{grid-template-columns:1fr;}
+  .tts-cta{flex-direction:column;}
+  .tts-btn{width:100%;justify-content:center;}
+}
+</style>
+</head>
+<body>
+
+<!-- ================================================================
+     SCREEN 0: HERO 인트로 (PDF 가이드 그대로)
+================================================================ -->
+<div id="screen-landing">
+<section class="hero-intro">
+
+  <!-- Scene 1: 할머니와 손녀 / YOUR LIFE STORY -->
+  <div class="hero-scene scene-1 active">
+    <div class="hero-overlay"></div>
+    <div class="hero-text bottom-text">
+      <p class="eyebrow">YOUR LIFE STORY</p>
+    </div>
+  </div>
+
+  <!-- Scene 2: 노부부 / HERO 타자 애니메이션 -->
+  <div class="hero-scene scene-2">
+    <div class="hero-overlay"></div>
+    <div class="hero-text center-text">
+      <p class="eyebrow">YOUR LIFE STORY</p>
+      <h1 class="hero-logo">HERO</h1>
+    </div>
+  </div>
+
+  <!-- Scene 3: 핵심 메시지 -->
+  <div class="hero-scene scene-3">
+    <div class="hero-overlay"></div>
+    <div class="hero-text center-text">
+      <h2 class="hero-slogan" style="margin:0 0 8px;">당신의 인생이 위인전이 되는 순간</h2>
+      <h1 class="hero-logo">HERO</h1>
+    </div>
+  </div>
+
+  <!-- Scene 4: 서비스 메시지 -->
+  <div class="hero-scene scene-4">
+    <div class="hero-overlay"></div>
+    <div class="hero-text center-text">
+      <h2 class="hero-message">
+        말씀만 해주세요.<br/>
+        AI가 듣고, 인생 그림책으로 만들어 드립니다.
+      </h2>
+    </div>
+  </div>
+
+  <!-- Scene 5: 입력 인터페이스 -->
+  <div class="hero-scene scene-5">
+    <div class="hero-overlay final-overlay"></div>
+    <div class="hero-final-content" style="width:min(92%,720px);margin:0 auto;padding-top:20vh;text-align:center;">
+      <!-- 1. 큰 흰색 (한 줄, 크게, 중앙) -->
+      <p style="font-size:clamp(34px,3.8vw,62px);font-weight:900;color:#FFFFFF;line-height:1.25;margin:0 auto 4px;text-shadow:0 3px 18px rgba(0,0,0,0.45);white-space:nowrap;position:relative;left:50%;transform:translateX(-50%);width:max-content;max-width:96vw;">성함과 나이만 입력하면 AI가 질문을 시작합니다.</p>
+      <!-- 2. 큰 #3B2A14 (한 줄, 크게, 중앙) -->
+      <p style="font-size:clamp(30px,3.4vw,54px);font-weight:900;color:#3B2A14;line-height:1.25;margin:0 auto 22px;white-space:nowrap;position:relative;left:50%;transform:translateX(-50%);width:max-content;max-width:96vw;">말씀해 주시면 아름다운 인생 그림책을 만들어 드립니다.</p>
+      <!-- 3. 작은 #C96F32 -->
+      <p style="font-size:clamp(20px,2.2vw,30px);font-weight:800;color:#C96F32;line-height:1.4;margin:0 0 2px;">어르신의 첫 이야기를 시작해 볼까요?</p>
+      <!-- 4. helper #C96F32 -->
+      <p style="font-size:clamp(16px,1.6vw,22px);font-weight:700;color:#C96F32;line-height:1.4;margin:0 0 26px;opacity:0.9;">성함과 나이만 입력하면 바로 시작할 수 있습니다.</p>
+
+      <!-- 5. 성함 -->
+      <div style="text-align:left;margin-bottom:14px;">
+        <label for="elderName" style="display:block;font-size:16px;font-weight:800;color:#D8A24A;margin:0 0 7px;">성함</label>
+        <input id="elderName" type="text" placeholder="예) 김순임" onkeydown="if(event.key==='Enter')startHero()"
+          style="width:100%;height:58px;padding:0 18px;border-radius:14px;border:2px solid rgba(59,42,20,0.35);background:rgba(255,252,245,0.55);color:#3B2A14;font-size:20px;font-weight:700;outline:none;backdrop-filter:blur(4px);"/>
+      </div>
+
+      <!-- 나이 / 성별 -->
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:22px;text-align:left;">
+        <div>
+          <label for="elderAge" style="display:block;font-size:16px;font-weight:800;color:#D8A24A;margin:0 0 7px;">나이</label>
+          <input id="elderAge" type="number" placeholder="72" min="50" max="110"
+            style="width:100%;height:58px;padding:0 18px;border-radius:14px;border:2px solid rgba(59,42,20,0.35);background:rgba(255,252,245,0.55);color:#3B2A14;font-size:20px;font-weight:700;outline:none;backdrop-filter:blur(4px);"/>
+        </div>
+        <div>
+          <label for="elderGender" style="display:block;font-size:16px;font-weight:800;color:#D8A24A;margin:0 0 7px;">성별</label>
+          <select id="elderGender"
+            style="width:100%;height:58px;padding:0 14px;border-radius:14px;border:2px solid rgba(59,42,20,0.35);background:rgba(255,252,245,0.55);color:#3B2A14;font-size:19px;font-weight:700;outline:none;cursor:pointer;backdrop-filter:blur(4px);">
+            <option style="background:#FFF8E8;">여성</option>
+            <option style="background:#FFF8E8;">남성</option>
+            <option style="background:#FFF8E8;">선택 안 함</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- 6. 버튼 -->
+      <button onclick="startHero()"
+        style="width:100%;height:64px;border:none;border-radius:16px;background:#7A4A18;color:#FFF8E8;font-size:21px;font-weight:900;cursor:pointer;transition:background .2s;box-shadow:0 8px 26px rgba(122,74,24,0.4);"
+        onmouseover="this.style.background='#5F3711'" onmouseout="this.style.background='#7A4A18'">
+        나의 위인전 만들기 →
+      </button>
+
+      <!-- 7. 안내문구 -->
+      <p style="margin-top:18px;font-size:15px;font-weight:600;color:#FAF0D6;opacity:0.95;text-shadow:0 2px 8px rgba(0,0,0,0.4);">입력하신 정보는 이야기 생성에만 사용되고 저장되지 않습니다.</p>
+    </div>
+  </div>
+
+  <button class="skip-intro-button" onclick="skipIntro()">바로 시작하기 →</button>
+  <div style="position:fixed;top:10px;left:10px;z-index:9999;background:#D8B94A;color:#2C1808;font-size:12px;font-weight:900;padding:4px 10px;border-radius:6px;">v21 최신</div>
+</section>
+</div>
+
+
+<!-- ================================================================
+     SCREEN 1: AI 인터뷰
+================================================================ -->
+<div id="screen-interview" class="screen">
+  <header class="warm-header">
+    <div class="warm-header-inner">
+      <div>
+        <span class="warm-logo" onclick="goHome()">HERO</span>
+        <span class="warm-logo" style="font-size:14px;font-weight:600;color:var(--w-text2);"> <span id="header-name"></span></span>
+      </div>
+      <div style="display:flex;align-items:center;gap:10px;">
+        <div class="step-dots">
+          <div id="sd1" class="sdot active" onclick="goToStep(1)" title="1. 이야기하기"></div>
+          <div style="width:28px;height:1.5px;background:var(--w-border);"></div>
+          <div id="sd2" class="sdot" onclick="goToStep(2)" title="2. 그림책"></div>
+          <div style="width:28px;height:1.5px;background:var(--w-border);"></div>
+          <div id="sd3" class="sdot" onclick="goToStep(3)" title="3. 영상 대본"></div>
+        </div>
+        <div style="display:flex;align-items:center;gap:6px;background:#f0fdf4;border:1.5px solid rgba(111,122,69,.25);padding:7px 14px;border-radius:50px;font-size:13px;font-weight:800;color:#4F5A31;">
+          <span style="width:8px;height:8px;background:#6F7A45;border-radius:50%;display:inline-block;animation:pulse 1.5s ease infinite;"></span>
+          이야기 듣는 중
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="interview-main">
+    <div class="interview-top">
+      <div class="step-eyebrow">STEP 1-3 — AI 인터뷰</div>
+      <h1 class="interview-title">AI가 먼저 묻고<br/><span>어르신이 답하세요</span></h1>
+      <p class="interview-sub" id="interview-sub">HERO Agent가 질문을 드립니다. 음성 또는 텍스트로 편하게 답해주세요.</p>
+    </div>
+
+    <!-- 카테고리 칩 -->
+    <div class="chip-row" id="chip-row"></div>
+
+    <!-- 채팅 카드 -->
+    <div class="chat-card">
+      <div class="chat-card-header">
+        <div class="agent-info">
+          <div class="agent-avatar">🦸</div>
+          <div>
+            <div class="agent-name">HERO 인터뷰 Agent</div>
+            <div class="agent-desc">시니어 기억 회상 전문 AI</div>
+          </div>
+        </div>
+        <div style="display:flex;align-items:center;gap:10px;">
+          <button id="tts-toggle" onclick="toggleTTS()" title="AI 안내 음성 켜기/끄기" style="background:var(--w-bg2);border:1.5px solid var(--w-border);color:var(--w-text2);font-size:13px;font-weight:800;padding:6px 12px;border-radius:50px;cursor:pointer;white-space:nowrap;font-family:var(--hero-font-main);">🔊 음성 켜짐</button>
+          <div class="q-counter">• 질문 <span id="q-cur">1</span> / 8</div>
+        </div>
+      </div>
+      <div id="chat-area" class="chat-area"></div>
+      <div class="chat-footer">
+        <div class="progress-dots" id="progress-dots"></div>
+        <div class="collect-count"><span id="mem-count">0</span> / 8 이야기 수집됨</div>
+      </div>
+    </div>
+
+    <!-- 입력창 -->
+    <div class="input-row">
+      <button class="icon-btn" id="mic-btn" onclick="toggleMic()">🎙</button>
+      <input id="text-input" type="text" placeholder="답변을 입력하거나 🎙 를 눌러 말씀해주세요..."
+        onkeydown="if(event.key==='Enter')sendText()"/>
+      <button class="icon-btn send" onclick="sendText()">▶</button>
+      <button class="icon-btn" onclick="restartAnswer()" title="새로 시작하기" style="width:auto;padding:0 16px;border-radius:24px;font-size:15px;font-weight:800;white-space:nowrap;">↺ 새로 시작</button>
+    </div>
+
+    <!-- 녹음 패널 (녹음 중에만 표시) -->
+    <div id="rec-panel" style="display:none;margin-top:12px;background:var(--w-card);border:2px solid var(--w-danger);border-radius:18px;padding:18px 20px;box-shadow:0 6px 24px rgba(169,71,43,0.15);">
+      <div style="display:flex;align-items:center;gap:10px;margin-bottom:12px;flex-wrap:wrap;">
+        <span style="width:13px;height:13px;background:#e53e3e;border-radius:50%;display:inline-block;animation:pulse 1s infinite;flex-shrink:0;"></span>
+        <span style="font-size:16px;font-weight:800;color:var(--w-danger);">듣고 있습니다 — 천천히 말씀하셔도 됩니다</span>
+        <span id="rec-countdown" style="margin-left:auto;font-size:15px;font-weight:900;color:var(--w-accent);"></span>
+      </div>
+      <div id="rec-transcript" style="min-height:54px;background:var(--w-bg);border:1.5px solid var(--w-border);border-radius:12px;padding:14px 16px;font-size:20px;font-weight:700;color:var(--w-text);line-height:1.6;font-family:var(--hero-font-main);">말씀해 주세요...</div>
+      <div style="display:flex;gap:10px;margin-top:14px;flex-wrap:wrap;">
+        <button onclick="finishRecNow()" style="flex:1;min-width:120px;height:54px;background:#4F5A31;color:#fff;border:none;border-radius:13px;font-size:17px;font-weight:900;cursor:pointer;font-family:var(--hero-font-main);">✓ 완료</button>
+        <button onclick="restartThisRec()" style="height:54px;padding:0 18px;background:var(--w-card);border:2px solid var(--w-accent);color:var(--w-accent);border-radius:13px;font-size:16px;font-weight:800;cursor:pointer;font-family:var(--hero-font-main);">↺ 이번 질문 다시</button>
+        <button onclick="clearAllRec()" style="height:54px;padding:0 18px;background:var(--w-card);border:2px solid var(--w-danger);color:var(--w-danger);border-radius:13px;font-size:16px;font-weight:800;cursor:pointer;font-family:var(--hero-font-main);">🗑 전체 지우고 다시</button>
+      </div>
+    </div>
+
+    <!-- 기억 목록 -->
+    <div class="memory-card-wrap">
+      <div class="memory-card-header">
+        <div class="memory-title">
+          ❤️ 수집된 기억
+          <span id="mem-count-badge" class="mem-count">0개</span>
+        </div>
+        <button class="make-book-btn" onclick="goToBook()">📖 스토리북 만들기</button>
+      </div>
+      <div id="memory-list" class="memory-list">
+        <p class="empty-mem">이야기를 들려주시면 여기에 기록됩니다 ✍️</p>
+      </div>
+    </div>
+
+    <div style="margin-top:16px;">
+      <button class="cta-btn" onclick="goToBook()">✦ 나의 위인전 생성하기</button>
+    </div>
+  </div>
+</div>
+
+
+<!-- ================================================================
+     SCREEN 2: 인생 그림책
+================================================================ -->
+<div id="screen-book" class="screen">
+  <header class="warm-header">
+    <div class="warm-header-inner">
+      <div style="display:flex;align-items:center;gap:12px;">
+        <button onclick="showScreen('interview')" style="width:40px;height:40px;border-radius:50%;background:var(--w-card);border:1.5px solid var(--w-border);cursor:pointer;font-size:18px;color:var(--w-text);transition:all .2s;" onmouseover="this.style.background='var(--w-bg)'" onmouseout="this.style.background='var(--w-card)'">‹</button>
+        <span class="warm-logo">HERO</span>
+        <span style="font-size:14px;color:var(--w-text2);font-weight:600;">📖 인생 그림책</span>
+      </div>
+      <div class="step-dots">
+        <div class="sdot done" onclick="goToStep(1)" title="1. 이야기하기"></div>
+        <div style="width:28px;height:1.5px;background:var(--w-border);"></div>
+        <div class="sdot active" onclick="goToStep(2)" title="2. 그림책"></div>
+        <div style="width:28px;height:1.5px;background:var(--w-border);"></div>
+        <div class="sdot" onclick="goToStep(3)" title="3. 영상 대본"></div>
+      </div>
+    </div>
+  </header>
+
+  <div class="warm-main">
+    <div class="book-cover-card">
+      <div class="book-cover-line">
+        <span class="book-cover-eyebrow">HERO — 인생 그림책</span>
+      </div>
+      <h2 id="book-main-title">나의 소중한 인생 이야기</h2>
+      <p id="book-author"></p>
+      <p id="book-year">2026</p>
+    </div>
+
+    <div id="book-loading" class="book-loading">
+      <div class="spinner"></div>
+      <p class="loading-txt">인생 그림책을 만들고 있습니다...</p>
+      <p class="loading-sub">약 15~30초 소요됩니다</p>
+    </div>
+
+    <div id="book-page-content" class="book-page-content">
+      <div class="book-spread">
+        <div class="book-art" id="book-art">
+          <img id="book-img" src="" alt=""/>
+          <div id="book-art-loading" class="book-art-loading">
+            <div class="spinner"></div>
+            <p>AI 수채화 생성 중...</p>
+            <small>이야기에 맞는 그림을 그리고 있어요</small>
+          </div>
+          <div id="book-page-badge" class="book-page-badge"></div>
+        </div>
+        <div class="book-text">
+          <div>
+            <div id="book-ch-label" class="book-ch-label"></div>
+            <div class="book-divider"></div>
+            <h3 id="book-ch-title"></h3>
+            <p id="book-body"></p>
+          </div>
+          <div id="book-quote-wrap" class="book-quote-wrap">
+            <p id="book-quote"></p>
+          </div>
+        </div>
+      </div>
+      <div class="book-ctrl">
+        <button class="book-nav-btn" onclick="turnPage(-1)">‹ 앞장</button>
+        <div style="display:flex;align-items:center;gap:10px;">
+          <div id="book-dots" class="book-dots"></div>
+          <span id="book-pager"></span>
+        </div>
+        <button class="book-nav-btn" onclick="turnPage(1)">뒷장 ›</button>
+      </div>
+
+      <div class="book-actions" style="margin-top:20px;">
+        <button class="btn-primary" onclick="goToVideo()">🎬 영상 대본 만들기</button>
+        <button class="btn-outline" onclick="downloadStorybookPDF()" id="pdf-btn">📄 PDF로 다운받기</button>
+        <button class="btn-outline" onclick="generateBook()">🔄 재생성</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- ================================================================
+     SCREEN 3: 영상 대본
+================================================================ -->
+<div id="screen-video" class="screen">
+  <header class="warm-header">
+    <div class="warm-header-inner">
+      <div style="display:flex;align-items:center;gap:12px;">
+        <button onclick="showScreen('book')" style="width:40px;height:40px;border-radius:50%;background:var(--w-card);border:1.5px solid var(--w-border);cursor:pointer;font-size:18px;color:var(--w-text);">‹</button>
+        <span class="warm-logo">HERO</span>
+        <span style="font-size:14px;color:var(--w-text2);font-weight:600;">🎬 영상 자서전</span>
+      </div>
+      <div class="step-dots">
+        <div class="sdot done" onclick="goToStep(1)" title="1. 이야기하기"></div>
+        <div style="width:28px;height:1.5px;background:var(--w-border);"></div>
+        <div class="sdot done" onclick="goToStep(2)" title="2. 그림책"></div>
+        <div style="width:28px;height:1.5px;background:var(--w-border);"></div>
+        <div class="sdot active" onclick="goToStep(3)" title="3. 영상 대본"></div>
+      </div>
+    </div>
+  </header>
+
+  <div class="warm-main">
+    <div style="text-align:center;margin-bottom:28px;">
+      <div class="step-eyebrow" style="color:var(--w-accent);">STEP 3 — 영상 자서전</div>
+      <h2 style="font-size:clamp(24px,4vw,36px);font-weight:900;color:var(--w-text);margin-bottom:10px;">완성된 영상 자서전</h2>
+      <p style="font-size:16px;color:var(--w-text2);font-weight:500;">어르신의 인생이 한 편의 영화가 됩니다</p>
+    </div>
+
+    <div id="video-loading" class="video-loading">
+      <div class="spinner"></div>
+      <p class="loading-txt">영상 대본을 만들고 있습니다...</p>
+    </div>
+
+    <div id="video-content" style="display:none;">
+      <div class="video-main-card">
+        <div class="video-thumb-wrap">
+          <img id="video-thumb" src="" alt=""/>
+          <div class="video-thumb-overlay"></div>
+          <button class="video-play-btn" onclick="openModal()">▶</button>
+          <div id="video-subtitle-overlay" class="video-subtitle-overlay"></div>
+        </div>
+        <div class="video-script">
+          <div class="script-label">🎙 낭독 대사</div>
+          <p id="video-narration"></p>
+          <div class="direction-box">
+            <div class="direction-label">🎬 장면 연출</div>
+            <p id="video-direction"></p>
+          </div>
+        </div>
+        <div class="video-nav">
+          <button class="vnav-btn" onclick="prevScript()">‹</button>
+          <div style="display:flex;align-items:center;gap:8px;">
+            <div id="script-dots" class="script-dots"></div>
+            <span id="script-pager"></span>
+          </div>
+          <button class="vnav-btn" onclick="nextScript()">›</button>
+        </div>
+      </div>
+
+      <div class="tts-cta">
+        <span class="tts-label">🔊 자서전 낭독 목소리를 들어보세요</span>
+        <button class="tts-btn" onclick="openModal()">▶ 목소리 낭독 듣기</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- 낭독 모달 -->
+<div id="modal" onclick="if(event.target===this)closeModal()">
+  <div class="modal-inner">
+    <div class="modal-icon">🔊</div>
+    <p id="modal-text"></p>
+    <button class="modal-close" onclick="closeModal()">닫기</button>
+  </div>
+</div>
+
+<div id="toast"></div>
+
+<!-- PDF 생성 라이브러리 -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+
+<script>
+/* ================================================================
+   HERO Intro Scene Controller (PDF 8~11페이지 JS 코드)
+   Total: 6.2s | Scene1:1.4s | Scene2:1.5s | Scene3:1.5s | Scene4:1.8s
+================================================================ */
+const API = '/api';   // 같은 도메인 기준 (localhost·터널·Render 어디서든 작동)
+const BG_IMGS = [
+  'images/input/ChatGPT_Image_2026_6_5_11_17_35.png',
+  'images/input/ChatGPT_Image_2026_6_5_11_17_37.png',
+  'images/input/ChatGPT_Image_2026_6_5_11_17_38.png',
+  'images/input/ChatGPT_Image_2026_6_5_11_17_40.png',
+  'images/input/ChatGPT_Image_2026_6_5_11_17_41.png',
+  'images/input/ChatGPT_Image_2026_6_5_11_17_42.png',
+  'images/input/ChatGPT_Image_2026_6_5_11_17_43.png',
+  'images/input/ChatGPT_Image_2026_6_5_11_17_45.png',
+];
+
+// ── 인트로 씬 컨트롤러 ────────────────────────────
+const scenes = document.querySelectorAll('.hero-scene');
+const typingTarget = document.getElementById('typingHero');
+const sceneDurations = [2000, 2000, 2000, 2000];
+let currentScene = 0;
+let introTimers = [];
+
+function showScene(index) {
+  scenes.forEach((s,i) => s.classList.toggle('active', i === index));
+}
+function typeHeroText() {
+  const text = 'HERO'; let i = 0;
+  typingTarget.textContent = '';
+  const iv = setInterval(() => {
+    typingTarget.textContent += text[i++];
+    if (i >= text.length) clearInterval(iv);
+  }, 180);
+}
+function startHeroIntro() {
+  showScene(0);
+  introTimers.push(setTimeout(() => showScene(1), sceneDurations[0]));
+  introTimers.push(setTimeout(() => showScene(2), sceneDurations[0]+sceneDurations[1]));
+  introTimers.push(setTimeout(() => showScene(3), sceneDurations[0]+sceneDurations[1]+sceneDurations[2]));
+  introTimers.push(setTimeout(() => showScene(4), sceneDurations[0]+sceneDurations[1]+sceneDurations[2]+sceneDurations[3]));
+}
+function skipIntro() {
+  introTimers.forEach(t => clearTimeout(t));
+  showScene(4);
+}
+document.addEventListener('DOMContentLoaded', startHeroIntro);
+
+// ── 전역 상태 ─────────────────────────────────────
+let userName='', userAge='', userGender='';
+let memories = [];
+let storybookData = null;
+let videoScripts = [];
+let currentPage = 0;
+let currentScript = 0;
+let pageImages = {};   // 페이지별 생성된 그림 캐시 (재생성 방지 + PDF용)
+let isRecording = false;
+let recognition = null;
+let questionCount = 0;
+const MAX_Q = 8;
+
+const CATEGORIES = ['고향·어린 시절','꿈·희망','첫 도전','사랑·가족','가장 행복한 순간','역경·극복','소중한 인연','삶의 지혜'];
+const QUESTIONS = [
+  '어르신, 태어나신 곳은 어디이고 어린 시절은 어떻게 보내셨나요?',
+  '어릴 때 어떤 꿈을 꾸셨나요? 가장 하고 싶으셨던 것이 있으셨나요?',
+  '처음으로 사회에 나가셨을 때, 첫 직장이나 첫 도전은 어떠셨나요?',
+  '가족에 대한 이야기를 들려주세요. 결혼하신 때나 아이들과의 추억도 좋습니다.',
+  '인생에서 가장 행복하셨던 순간은 언제였나요?',
+  '힘드셨던 시절도 있으셨을 텐데, 어떻게 이겨내셨나요?',
+  '평생 잊을 수 없는 소중한 사람이 있다면 누구인가요?',
+  '살아오시면서 깨달으신 것, 다음 세대에게 꼭 전하고 싶은 말씀이 있으신가요?',
+];
+const DEMO_BOOK = {
+  title:'나의 소중한 인생 이야기',
+  pages:[
+    {page:1,title:'인생의 시작',theme:'태어난 곳',body:'산과 들이 어우러진 고향 마을에서, 어머니의 따뜻한 품에 안겨 세상과 첫 인사를 나눴습니다. 그 시절 돌담길과 마당의 감나무는 지금도 눈에 선합니다.',quote:'모든 위대한 여정은 작은 한 걸음에서 시작된다'},
+    {page:2,title:'꿈과 희망',theme:'어린 시절',body:'비록 가난했지만 꿈만큼은 하늘처럼 높았습니다. 언젠가는 도시에 나가 공부를 하고 싶었고, 부모님을 행복하게 해드리고 싶은 마음이 늘 가득했습니다.',quote:'꿈꾸는 자만이 그 꿈을 이룰 수 있다'},
+    {page:3,title:'첫 번째 도전',theme:'학교와 시작',body:'처음 학교에 입학하던 날의 설렘은 잊히지 않습니다. 새 책가방을 메고 이슬 맺힌 오솔길을 걸어가던 그 아침이, 긴 인생의 첫 발걸음이었습니다.',quote:'작은 뿌리에서 가장 큰 나무가 자란다'},
+    {page:4,title:'사랑과 가족',theme:'결혼과 가정',body:'봄날 벚꽃이 흩날리던 날, 평생의 반려자를 만났습니다. 아이들이 태어나고 자라는 모습을 바라보며, 삶의 진정한 의미를 하나씩 배워나갔습니다.',quote:'가족은 인생에서 가장 아름다운 선물이다'},
+    {page:5,title:'기쁨의 순간들',theme:'행복한 기억',body:'딸이 시집가던 날 흘린 눈물은 슬픔이 아니라 축복이었습니다. 그 눈물 속에서 삶이 얼마나 아름다운지를 다시 한번 깨달았습니다.',quote:'행복은 바로 지금 이 순간에 있다'},
+    {page:6,title:'고난과 극복',theme:'힘든 시절',body:'어렵고 힘든 시절도 있었지만, 가족이 있었기에 버틸 수 있었습니다. 넘어질 때마다 일어서게 해준 것은 사랑하는 사람들의 웃음이었습니다.',quote:'강한 뿌리는 어떤 폭풍도 이겨낸다'},
+    {page:7,title:'소중한 인연들',theme:'잊지 못할 분',body:'살면서 만난 수많은 인연들이 인생을 풍성하게 만들어 주었습니다. 처음 가르침을 주신 선생님과 어린 시절 동무들은 평생 잊을 수 없습니다.',quote:'인연은 우연이 아니라 운명이다'},
+    {page:8,title:'고향과 추억',theme:'고향 풍경',body:'비록 지금은 멀리 떨어져 있지만, 고향의 산과 냇가는 꿈속에서도 또렷합니다. 황금빛 논밭과 시골길의 흙냄새가 그리울 때면 마음은 그곳으로 달려갑니다.',quote:'고향은 언제나 마음속에 살아 있다'},
+    {page:9,title:'인생의 지혜',theme:'삶의 깨달음',body:'긴 인생을 살아오며 깨달은 것은 하나입니다. 소박하게, 감사하게, 사랑하는 사람들과 함께 살아가는 것이 가장 큰 행복이라는 것을요.',quote:'삶은 그 자체로 충분히 아름답다'},
+    {page:10,title:'미래 세대에게',theme:'자손들에게',body:'사랑하는 자손들에게 전합니다. 평범한 하루하루가 얼마나 소중한지, 서로를 아끼고 사랑하는 것이 얼마나 값진 일인지 잊지 말아달라고요.',quote:'당신의 이야기는 영원히 기억될 것입니다'},
+  ]
+};
+
+// ── 유틸 ─────────────────────────────────────────
+function $(id){return document.getElementById(id);}
+function toast(msg,ms=2600){
+  const t=$('toast');t.textContent=msg;t.classList.add('show');
+  setTimeout(()=>t.classList.remove('show'),ms);
+}
+async function post(path,body){
+  const r=await fetch(API+path,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)});
+  if(!r.ok)throw new Error('HTTP '+r.status);
+  return r.json();
+}
+function showScreen(name){
+  document.getElementById('screen-landing').style.display='none';
+  document.querySelectorAll('.screen').forEach(s=>s.classList.remove('active'));
+  const el=document.getElementById('screen-'+name);
+  if(el){el.classList.add('active');}
+  window.scrollTo(0,0);
+}
+function goHome(){
+  document.getElementById('screen-landing').style.display='block';
+  document.querySelectorAll('.screen').forEach(s=>s.classList.remove('active'));
+  window.scrollTo(0,0);
+}
+
+// 상단 진행 점 클릭 → 해당 단계로 이동
+function goToStep(n){
+  if(n===1){
+    showScreen('interview');
+  } else if(n===2){
+    if(storybookData){ showScreen('book'); }
+    else { goToBook(); }            // 아직 없으면 생성
+  } else if(n===3){
+    if(videoScripts.length){ showScreen('video'); }
+    else { goToVideo(); }           // 아직 없으면 생성
+  }
+}
+
+// ── 인트로 → 인터뷰 ──────────────────────────────
+function startHero(){
+  const name=$('elderName').value.trim();
+  if(!name){$('elderName').focus();toast('성함을 입력해주세요');return;}
+  userName=name;
+  userAge=$('elderAge').value.trim();
+  userGender=$('elderGender').value;
+  $('header-name').textContent=name+(userAge?' · '+userAge+'세':'')+(userGender && userGender!=='선택 안 함'?' · '+userGender:'');
+  buildChips();buildDots();
+  showScreen('interview');
+  setTimeout(()=>addAI('안녕하세요, '+name+'님! 저는 HERO AI 인터뷰 에이전트입니다. 😊\n\n어르신의 소중한 이야기를 기록해 드릴게요. 편안하게 말씀해 주시면 됩니다.'),400);
+  setTimeout(()=>{addAI(QUESTIONS[0]);},1800);
+}
+
+// ── 카테고리 칩 ──────────────────────────────────
+function buildChips(){
+  $('chip-row').innerHTML=CATEGORIES.map((c,i)=>
+    `<button class="chip${i===0?' active':''}" onclick="selectCat(${i})">${c}</button>`
+  ).join('');
+}
+function selectCat(i){
+  document.querySelectorAll('.chip').forEach((c,j)=>c.classList.toggle('active',j===i));
+  questionCount=i;$('q-cur').textContent=i+1;
+  addAI(QUESTIONS[i]);updateDots(i);
+}
+
+// ── 진행 도트 ─────────────────────────────────────
+function buildDots(){
+  $('progress-dots').innerHTML=Array.from({length:MAX_Q},(_,i)=>
+    `<span id="pd${i}" class="pdot${i===0?' active':' pending'}" style="width:${i===0?'20px':'7px'};" onclick="selectCat(${i})"></span>`
+  ).join('');
+}
+function updateDots(idx){
+  for(let i=0;i<MAX_Q;i++){
+    const d=$('pd'+i); if(!d)continue;
+    if(i<idx){d.className='pdot done';d.style.width='7px';}
+    else if(i===idx){d.className='pdot active';d.style.width='20px';}
+    else{d.className='pdot pending';d.style.width='7px';}
+  }
+}
+
+// ── 채팅 ─────────────────────────────────────────
+function addAI(text){
+  const area=$('chat-area');
+  const d=document.createElement('div');
+  d.className='bubble-ai';
+  d.innerHTML=`<div class="b-avatar">🦸</div>
+    <div class="b-text">
+      <p>${text}</p>
+      <span class="b-time">${new Date().toLocaleTimeString('ko',{hour:'2-digit',minute:'2-digit'})}</span>
+    </div>`;
+  area.appendChild(d);area.scrollTop=area.scrollHeight;
+  speakAI(text);   // 젊은 여성 목소리로 읽어주기
+}
+
+// ── AI 음성 안내 (젊은 여성 목소리) ──────────────────
+let ttsEnabled=true;
+let krVoice=null;
+function pickKoreanVoice(){
+  if(!('speechSynthesis' in window))return;
+  const voices=window.speechSynthesis.getVoices();
+  const ko=voices.filter(v=>v.lang && v.lang.toLowerCase().startsWith('ko'));
+  // 여성 우선 (Yuna/Heami/Sora/female/Google 등)
+  krVoice = ko.find(v=>/female|yuna|heami|sora|sun-?hi|google/i.test(v.name)) || ko[0] || null;
+}
+if('speechSynthesis' in window){
+  pickKoreanVoice();
+  window.speechSynthesis.onvoiceschanged=pickKoreanVoice;
+}
+function speakAI(text){
+  if(!ttsEnabled || !('speechSynthesis' in window))return;
+  const clean=String(text).replace(/[\u{1F000}-\u{1FFFF}☀-➿️]/gu,'').replace(/\s+/g,' ').trim();
+  if(!clean)return;
+  const u=new SpeechSynthesisUtterance(clean);
+  u.lang='ko-KR';
+  if(krVoice)u.voice=krVoice;
+  u.rate=0.98;    // 자연스러운 속도
+  u.pitch=1.3;    // 피치를 높여 젊은 여성 느낌
+  window.speechSynthesis.speak(u);   // cancel 안 함 → 인사+질문 순서대로 읽음
+}
+function toggleTTS(){
+  ttsEnabled=!ttsEnabled;
+  const b=$('tts-toggle');
+  if(b) b.textContent=ttsEnabled?'🔊 음성 켜짐':'🔇 음성 꺼짐';
+  if(!ttsEnabled) window.speechSynthesis.cancel();
+  else toast('AI 안내 음성을 켰습니다.');
+}
+function addUser(text){
+  const area=$('chat-area');
+  const d=document.createElement('div');
+  d.className='bubble-user-wrap';
+  d.style.cssText='display:flex;justify-content:flex-end;align-items:flex-start;gap:8px;';
+  d.innerHTML=`
+    <button onclick="editAnswer(this)" title="내 글 수정하기" style="background:none;border:none;color:var(--w-text2);font-size:13px;font-weight:700;cursor:pointer;margin-top:10px;white-space:nowrap;padding:4px 6px;border-radius:8px;flex-shrink:0;">✏️ 수정</button>
+    <div class="b-text-user"><p>${text}</p></div>`;
+  area.appendChild(d);area.scrollTop=area.scrollHeight;
+}
+
+// ✏️ 내 답변 수정하기
+function editAnswer(btn){
+  const wrap=btn.closest('.bubble-user-wrap');
+  const p=wrap.querySelector('.b-text-user p');
+  const allUser=[...document.querySelectorAll('#chat-area .bubble-user-wrap')];
+  const idx=allUser.indexOf(wrap);
+  if(p.isContentEditable){
+    // 저장
+    p.contentEditable='false';
+    p.style.outline='none'; p.style.background='';
+    btn.textContent='✏️ 수정';
+    const newText=p.textContent.trim();
+    if(idx>=0 && idx<memories.length){ memories[idx].text=newText; renderMemories(); }
+    toast('답변이 수정되었습니다 ✅');
+  }else{
+    // 편집 모드
+    p.contentEditable='true';
+    p.style.outline='2px solid #EAD274';
+    p.style.borderRadius='6px'; p.style.padding='2px 6px';
+    p.focus();
+    // 커서를 끝으로
+    const r=document.createRange(); r.selectNodeContents(p); r.collapse(false);
+    const s=window.getSelection(); s.removeAllRanges(); s.addRange(r);
+    btn.textContent='💾 저장';
+  }
+}
+
+// ── 전송 ─────────────────────────────────────────
+async function sendText(){
+  const inp=$('text-input');
+  const text=inp.value.trim();
+  if(!text)return;
+  inp.value='';addUser(text);
+  await processAnswer(text);
+}
+function processAnswer(text){
+  const cat=CATEGORIES[questionCount]||'감정긍정';
+  memories.push({text,category:cat});
+  const answered=memories.length;
+  $('mem-count').textContent=Math.min(answered,MAX_Q);
+  $('mem-count-badge').textContent=memories.length+'개';
+  renderMemories();
+  toast('✅ '+memories.length+'번째 이야기가 기록되었습니다');
+  // 고정된 8개 질문을 순서대로 (AI 자동생성 안 함)
+  if(answered < MAX_Q){
+    questionCount=answered;                     // 다음 질문 인덱스
+    updateDots(questionCount);
+    document.querySelectorAll('.chip').forEach((c,i)=>c.classList.toggle('active',i===questionCount));
+    $('q-cur').textContent=questionCount+1;
+    setTimeout(()=>addAI(QUESTIONS[questionCount]),700);
+  } else {
+    questionCount=MAX_Q-1;
+    updateDots(MAX_Q-1);
+    $('q-cur').textContent=MAX_Q;
+    setTimeout(()=>addAI('소중한 이야기를 모두 들려주셔서 감사합니다. 😊\n\n이제 아래 "✦ 나의 위인전 생성하기"를 눌러 그림책을 만들어 보세요!'),700);
+  }
+}
+function renderMemories(){
+  if(!memories.length)return;
+  $('memory-list').innerHTML=memories.map((m,i)=>`
+    <div class="mem-item">
+      <span class="mem-cat">${m.category}</span>
+      <span class="mem-text">${m.text}</span>
+      <button class="mem-del" onclick="delMem(${i})">✕</button>
+    </div>`).join('');
+}
+function delMem(i){memories.splice(i,1);$('mem-count-badge').textContent=memories.length+'개';$('mem-count').textContent=memories.length;renderMemories();}
+
+// ── 마이크 ────────────────────────────────────────
+// ── 녹음 (어르신 친화: 3초 침묵 후 자동 완료) ──────────
+let recFinal='';            // 확정된 텍스트 누적
+let silenceTimer=null;      // 침묵 타이머
+let countdownIv=null;       // 카운트다운 표시
+const SILENCE_SEC=3;        // 말 끊긴 후 대기 시간(초)
+
+function toggleMic(){ isRecording ? finishRecNow() : startRec(); }
+
+function setMicUI(on){
+  const b=$('mic-btn');
+  if(on){ b.style.background='rgba(229,62,62,.2)'; b.style.borderColor='#e53e3e'; b.textContent='🔴'; }
+  else { b.style.background='var(--w-bg2)'; b.style.borderColor='var(--w-border)'; b.textContent='🎙'; }
+}
+function showRecText(t){
+  const el=$('rec-transcript');
+  el.textContent = t && t.trim() ? t : '말씀해 주세요...';
+}
+
+async function startRec(){
+  const SR=window.SpeechRecognition||window.webkitSpeechRecognition;
+  if(!SR){
+    toast('⚠️ 음성 인식은 Chrome 또는 Edge 브라우저에서만 됩니다');
+    return;
+  }
+  // 1) 마이크 권한 먼저 명시적으로 요청 (권한 팝업 → 명확한 안내)
+  if(navigator.mediaDevices && navigator.mediaDevices.getUserMedia){
+    try{
+      const stream=await navigator.mediaDevices.getUserMedia({audio:true});
+      stream.getTracks().forEach(t=>t.stop()); // 권한만 확인하고 바로 닫음
+    }catch(err){
+      console.error('마이크 권한 오류:', err);
+      toast('🎙 마이크 권한이 필요합니다. 주소창 왼쪽 자물쇠🔒 → 마이크 → 허용으로 바꿔주세요.', 6000);
+      return;
+    }
+  }
+
+  recFinal='';
+  recognition=new SR();
+  recognition.lang='ko-KR';
+  recognition.interimResults=true;
+  recognition.continuous=true;          // 핵심: 말이 끊겨도 계속 녹음
+  recognition.onresult=onRecResult;
+  recognition.onerror=ev=>{
+    console.warn('음성 인식 오류:', ev.error);
+    if(ev.error==='not-allowed' || ev.error==='service-not-allowed'){
+      toast('🎙 마이크가 차단됐습니다. 주소창 자물쇠🔒 → 마이크 → 허용', 6000);
+      stopRecHard();
+    } else if(ev.error==='no-speech'){
+      // 말이 없을 뿐 — 계속 대기 (무시)
+    } else if(ev.error==='audio-capture'){
+      toast('🎙 마이크를 찾을 수 없습니다. 마이크가 연결돼 있는지 확인해주세요.', 6000);
+      stopRecHard();
+    } else if(ev.error==='network'){
+      toast('인터넷 연결을 확인해주세요. (음성 인식은 인터넷이 필요합니다)', 5000);
+    }
+  };
+  recognition.onend=()=>{
+    // continuous인데 끝났고 아직 녹음 중이면 재시작 (브라우저가 끊는 경우 대비)
+    if(isRecording){ try{ recognition.start(); }catch(e){ console.warn('재시작 실패:', e); } }
+  };
+  try{
+    recognition.start();
+    isRecording=true;
+    $('rec-panel').style.display='block';
+    $('rec-countdown').textContent='';
+    showRecText('');
+    setMicUI(true);
+    console.log('녹음 시작됨');
+  }catch(e){
+    console.error('녹음 시작 실패:', e);
+    toast('녹음을 시작할 수 없습니다. 페이지를 새로고침 후 다시 시도해주세요.', 5000);
+  }
+}
+
+function onRecResult(e){
+  let finalText='', interim='';
+  for(let i=0;i<e.results.length;i++){
+    const tr=e.results[i][0].transcript;
+    if(e.results[i].isFinal) finalText+=tr+' ';
+    else interim+=tr;
+  }
+  recFinal=finalText.trim();
+  showRecText((recFinal+' '+interim).trim());
+  armSilence();   // 말할 때마다 타이머 리셋 → 침묵 3초 후에만 완료
+}
+
+function armSilence(){
+  clearTimeout(silenceTimer); clearInterval(countdownIv);
+  $('rec-countdown').textContent='';
+  let sec=SILENCE_SEC;
+  // 1초 뒤부터 카운트다운 표시 시작
+  countdownIv=setInterval(()=>{
+    sec--;
+    if(sec>0) $('rec-countdown').textContent='⏱ '+sec+'초 후 자동 완료';
+    else { $('rec-countdown').textContent=''; clearInterval(countdownIv); }
+  },1000);
+  silenceTimer=setTimeout(()=>{ finishRecNow(); }, SILENCE_SEC*1000);
+}
+
+function stopRecHard(){
+  isRecording=false;
+  clearTimeout(silenceTimer); clearInterval(countdownIv);
+  try{ recognition && recognition.stop(); }catch(e){}
+  recognition=null;
+  $('rec-panel').style.display='none';
+  setMicUI(false);
+}
+
+// ✓ 완료 — 지금까지 인식한 내용으로 답변 제출
+function finishRecNow(){
+  const text=recFinal.trim();
+  stopRecHard();
+  if(text){ addUser(text); processAnswer(text); }
+  else { toast('인식된 말이 없어요. 마이크를 다시 눌러 말씀해 주세요.'); }
+}
+
+// ↺ 새로 시작 — 현재 답변(녹음/글)을 지우고 다시 입력
+function restartAnswer(){
+  if(isRecording){
+    restartThisRec();        // 녹음 중이면 녹음 다시
+  } else {
+    $('text-input').value='';
+    $('text-input').focus();
+    toast('새로 시작하세요. 🎙 마이크를 누르거나 답변을 입력해 주세요.');
+  }
+}
+
+// ↺ 이번 질문 다시 — 현재 녹음만 지우고 다시 시작
+function restartThisRec(){
+  stopRecHard();
+  setTimeout(()=>startRec(), 150);
+  toast('이번 답변을 지우고 다시 녹음합니다.');
+}
+
+// 🗑 전체 지우고 다시 — 수집된 모든 기억 삭제 후 처음부터
+function clearAllRec(){
+  stopRecHard();
+  memories=[]; renderMemories();
+  $('mem-count').textContent='0';
+  $('mem-count-badge').textContent='0개';
+  $('text-input').value='';
+  questionCount=0;
+  if(typeof updateDots==='function') updateDots(0);
+  document.querySelectorAll('.chip').forEach((c,i)=>c.classList.toggle('active',i===0));
+  $('q-cur').textContent='1';
+  $('chat-area').innerHTML='';
+  addAI('처음부터 다시 시작할게요. '+QUESTIONS[0]);
+  toast('전체 내용을 지웠습니다. 처음부터 다시 시작합니다.');
+}
+
+// ── 그림책 ────────────────────────────────────────
+async function goToBook(){
+  if(!memories.length)memories.push({text:'나의 인생 이야기를 시작합니다.',category:'감정긍정'});
+  showScreen('book');
+  await generateBook();
+}
+async function generateBook(){
+  pageImages={};   // 새 그림책 → 그림 캐시 초기화
+  $('book-loading').style.display='flex';
+  $('book-page-content').style.display='none';
+  try{
+    storybookData=await post('/storybook',{memories});
+    toast('📖 인생 그림책이 완성되었습니다!');
+  }catch{
+    storybookData=DEMO_BOOK;
+    toast('오프라인 모드: 데모 그림책을 표시합니다.');
+  }
+  $('book-loading').style.display='none';
+  $('book-page-content').style.display='block';
+  $('book-main-title').textContent=storybookData.title;
+  $('book-author').textContent='지음 : '+userName+' 어르신';
+  buildBookDots();currentPage=0;renderPage();
+}
+function buildBookDots(){
+  $('book-dots').innerHTML=storybookData.pages.map((_,i)=>
+    `<span id="bd${i}" class="bdot${i===0?' active':' inactive'}" style="width:${i===0?'18px':'7px'};" onclick="jumpPage(${i})"></span>`
+  ).join('');
+}
+function jumpPage(i){currentPage=i;renderPage();}
+function updateBookDots(){
+  storybookData.pages.forEach((_,i)=>{
+    const d=$('bd'+i);if(!d)return;
+    d.className=i===currentPage?'bdot active':'bdot inactive';
+    d.style.width=i===currentPage?'18px':'7px';
+  });
+}
+async function renderPage(){
+  const p=storybookData.pages[currentPage];
+  $('book-ch-label').textContent='CHAPTER '+p.page;
+  $('book-ch-title').textContent=p.title;
+  $('book-body').textContent=p.body;
+  $('book-pager').textContent=(currentPage+1)+' / '+storybookData.pages.length+' 쪽';
+  $('book-page-badge').textContent='제 '+p.page+' 장 · '+p.theme;
+  if(p.quote){$('book-quote').textContent='"'+p.quote+'"';$('book-quote-wrap').style.display='block';}
+  else{$('book-quote-wrap').style.display='none';}
+  updateBookDots();
+
+  const img=$('book-img');
+  const loading=$('book-art-loading');
+
+  // 이미 만들어진 그림이 있으면 그대로 사용 (재생성 안 함)
+  if(pageImages[currentPage]){
+    img.src=pageImages[currentPage];
+    img.style.display='block'; loading.style.display='none';
+    return;
+  }
+
+  img.style.display='none';loading.style.display='flex';
+  const pageIdx=currentPage;
+  const n=String(currentPage+1).padStart(2,'0');
+  const t=new Image();
+  t.onload=()=>{
+    pageImages[pageIdx]=t.src;
+    if(currentPage===pageIdx){ img.src=t.src; img.style.display='block'; loading.style.display='none'; }
+  };
+  t.onerror=()=>generatePageImg(p, pageIdx);
+  t.src='images/output/'+n+'_watercolor_16x9.png';
+}
+function blobToDataURL(blob){
+  return new Promise(r=>{const fr=new FileReader();fr.onload=()=>r(fr.result);fr.readAsDataURL(blob);});
+}
+async function generatePageImg(p, pageIdx){
+  if(pageIdx===undefined) pageIdx=currentPage;
+  const img=$('book-img');const loading=$('book-art-loading');
+  try{
+    const resp=await fetch(API+'/image/from-story',{
+      method:'POST',headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({story_text:p.body,page:p.page})
+    });
+    if(!resp.ok)throw new Error();
+    const blob=await resp.blob();
+    const dataUrl=await blobToDataURL(blob);   // dataURL로 저장 → 캐시 + PDF에서 사용
+    pageImages[pageIdx]=dataUrl;
+    if(currentPage===pageIdx){ img.src=dataUrl; img.style.display='block'; loading.style.display='none'; }
+  }catch{
+    const fb=BG_IMGS[pageIdx%BG_IMGS.length];
+    pageImages[pageIdx]=fb;
+    if(currentPage===pageIdx){ img.src=fb; img.style.display='block'; loading.style.display='none'; }
+  }
+}
+function turnPage(d){
+  currentPage=(currentPage+d+storybookData.pages.length)%storybookData.pages.length;
+  renderPage();
+}
+
+// ── 영상 대본 ─────────────────────────────────────
+async function goToVideo(){
+  showScreen('video');
+  $('video-loading').style.display='flex';$('video-content').style.display='none';
+  if(!storybookData)storybookData=DEMO_BOOK;
+  try{
+    const d=await post('/video-script',{storybook:storybookData});
+    videoScripts=d.scripts;toast('🎬 영상 대본이 완성되었습니다!');
+  }catch{
+    videoScripts=storybookData.pages.map(p=>({page:p.page,title:p.title,narration:p.body,subtitle:p.title,scene_direction:'따뜻한 수채화 풍경 장면'}));
+  }
+  $('video-loading').style.display='none';$('video-content').style.display='block';
+  currentScript=0;renderScript();buildScriptDots();
+}
+function renderScript(){
+  if(!videoScripts.length)return;
+  const s=videoScripts[currentScript];
+  const n=String(s.page).padStart(2,'0');
+  const th=$('video-thumb');
+  th.src='images/output/'+n+'_watercolor_16x9.png';
+  th.onerror=()=>{th.src=BG_IMGS[currentScript%BG_IMGS.length];};
+  $('video-narration').textContent='"'+s.narration+'"';
+  $('video-direction').textContent=s.scene_direction;
+  $('video-subtitle-overlay').textContent=s.subtitle||s.title;
+  $('script-pager').textContent=(currentScript+1)+' / '+videoScripts.length;
+  buildScriptDots();
+}
+function buildScriptDots(){
+  $('script-dots').innerHTML=videoScripts.map((_,i)=>
+    `<span class="scdot${i===currentScript?' active':' inactive'}" style="width:${i===currentScript?'18px':'7px'};" onclick="goScript(${i})"></span>`
+  ).join('');
+}
+function goScript(i){currentScript=i;renderScript();}
+function prevScript(){goScript((currentScript-1+videoScripts.length)%videoScripts.length);}
+function nextScript(){goScript((currentScript+1)%videoScripts.length);}
+
+// ── 낭독 모달 ─────────────────────────────────────
+function openModal(){
+  const s=videoScripts[currentScript];
+  const text=s?s.narration:(storybookData?storybookData.pages[currentPage]?.body:'');
+  $('modal-text').textContent=text;
+  $('modal').style.display='flex';
+  if('speechSynthesis' in window){
+    const u=new SpeechSynthesisUtterance(text);u.lang='ko-KR';u.rate=0.85;
+    window.speechSynthesis.speak(u);
+  }
+}
+function closeModal(){
+  $('modal').style.display='none';window.speechSynthesis?.cancel();
+}
+
+// ── PWA 서비스워커 등록 (홈 화면 설치 가능하게) ──────
+if('serviceWorker' in navigator){
+  window.addEventListener('load',()=>{
+    navigator.serviceWorker.register('/sw.js').catch(e=>console.warn('SW 등록 실패:',e));
+  });
+}
+
+// ── 그림책 PDF 다운로드 ────────────────────────────
+function bookImgSrc(pageIdx){
+  // 실제로 그려진(캐시된) 그림 우선, 없으면 배경 수채화
+  return pageImages[pageIdx] || BG_IMGS[pageIdx % BG_IMGS.length];
+}
+
+async function downloadStorybookPDF(){
+  if(!storybookData || !storybookData.pages){ toast('먼저 그림책을 생성해주세요.'); return; }
+  if(typeof html2canvas==='undefined' || !window.jspdf){ toast('PDF 라이브러리 로딩 중입니다. 잠시 후 다시 눌러주세요.'); return; }
+
+  const btn=$('pdf-btn');
+  const orig=btn.textContent;
+  btn.textContent='📄 PDF 만드는 중...'; btn.disabled=true;
+
+  try{
+    // 오프스크린 렌더링 컨테이너
+    const stage=document.createElement('div');
+    stage.style.cssText='position:fixed;left:-9999px;top:0;width:794px;background:#FFF8E8;';
+    document.body.appendChild(stage);
+
+    const { jsPDF }=window.jspdf;
+    const pdf=new jsPDF('p','pt','a4');           // A4 세로 (595x842pt)
+    const PW=595, PH=842;
+
+    // 페이지 HTML 생성 함수
+    function pageHTML(inner){
+      return `<div style="width:794px;min-height:1123px;background:#FFF8E8;padding:60px 56px;box-sizing:border-box;font-family:'Noto Sans KR',sans-serif;">${inner}</div>`;
+    }
+
+    // 표지
+    const cover=pageHTML(`
+      <div style="text-align:center;padding-top:240px;">
+        <div style="font-size:20px;font-weight:700;letter-spacing:.3em;color:#C96F32;margin-bottom:30px;">HERO — 인생 그림책</div>
+        <div style="width:80px;height:3px;background:#C96F32;margin:0 auto 40px;"></div>
+        <div style="font-size:52px;font-weight:900;color:#3B2A14;line-height:1.3;margin-bottom:40px;">${storybookData.title}</div>
+        <div style="font-size:26px;font-weight:700;color:#7A4A18;">지음 : ${userName||'어르신'} 어르신</div>
+        <div style="font-size:18px;color:#7A6542;margin-top:16px;">2026</div>
+      </div>`);
+
+    const pages=[cover];
+    storybookData.pages.forEach((p,i)=>{
+      pages.push(pageHTML(`
+        <div style="text-align:center;margin-bottom:30px;">
+          <div style="font-size:15px;font-weight:700;letter-spacing:.2em;color:#C96F32;">CHAPTER ${p.page}</div>
+          <div style="font-size:34px;font-weight:900;color:#3B2A14;margin-top:8px;">${p.title}</div>
+        </div>
+        <img src="${bookImgSrc(i)}" crossorigin="anonymous" style="width:100%;height:360px;object-fit:cover;border-radius:18px;margin-bottom:28px;"/>
+        <p style="font-size:21px;line-height:1.9;font-weight:500;color:#3B2A14;white-space:pre-line;">${p.body}</p>
+        ${p.quote?`<p style="margin-top:24px;font-size:17px;font-style:italic;color:#C96F32;border-left:3px solid #C96F32;padding-left:14px;">"${p.quote}"</p>`:''}
+      `));
+    });
+
+    for(let i=0;i<pages.length;i++){
+      stage.innerHTML=pages[i];
+      // 이미지 로딩 대기
+      const imgs=stage.querySelectorAll('img');
+      await Promise.all([...imgs].map(im=>im.complete?Promise.resolve():new Promise(r=>{im.onload=im.onerror=r;})));
+      const canvas=await html2canvas(stage.firstElementChild,{scale:2,useCORS:true,backgroundColor:'#FFF8E8'});
+      const img=canvas.toDataURL('image/jpeg',0.9);
+      if(i>0) pdf.addPage();
+      pdf.addImage(img,'JPEG',0,0,PW,PH);
+    }
+
+    document.body.removeChild(stage);
+    pdf.save(`HERO_인생그림책_${userName||'어르신'}.pdf`);
+    toast('📄 PDF가 다운로드되었습니다!');
+  }catch(e){
+    console.error('PDF 생성 오류:', e);
+    toast('PDF 생성 중 오류가 발생했습니다. 다시 시도해주세요.');
+  }finally{
+    btn.textContent=orig; btn.disabled=false;
+  }
+}
+</script>
+</body>
+</html>
