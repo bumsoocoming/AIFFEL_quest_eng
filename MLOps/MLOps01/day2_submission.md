@@ -1,6 +1,6 @@
 ﻿# Day 2 — FastAPI 기초와 데이터 처리 실습 제출
 
-> 작성자: (이름 입력)  
+> 작성자: 김범수  
 > 날짜: 2026-06-10  
 > 환경: Windows 11, Python 3.x, FastAPI + Uvicorn
 
