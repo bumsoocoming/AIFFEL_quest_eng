@@ -1,6 +1,6 @@
 ﻿# Day 2 — FastAPI 기초와 데이터 처리 실습 제출
 
-> 작성자: (이름 입력)  
+> 작성자: 김범수  
 > 날짜: 2026-06-10  
 > 환경: Windows 11, Python 3.x, FastAPI + Uvicorn
 
@@ -145,3 +145,4 @@ Pydantic의 `Field(min_length=784, max_length=784)` 조건에 의해 검증이 �
 **Q4. Swagger UI에서 description과 examples는 어디에 표시됩니까?**
 
 `description`은 각 필드 옆 설명 텍스트로 표시되고, `examples`는 **Try it out** 클릭 시 Request Body 입력창에 예시 JSON으로 자동 채워진다.
+
