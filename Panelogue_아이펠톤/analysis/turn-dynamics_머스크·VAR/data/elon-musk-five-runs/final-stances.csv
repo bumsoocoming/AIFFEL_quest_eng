@@ -1,0 +1,21 @@
+run,agent,job,model,initial_stance,final_stance,delta
+1,김태훈,우주항공 엔지니어,openai/gpt-5.5,100,68,-32
+1,박서연,테크기업 투자자,x-ai/grok-4.20,100,68,-32
+1,이준호,AI 윤리·사회정책 연구자,anthropic/claude-sonnet-5,-100,-85,15
+1,최유진,노동·환경 전문 기자,google/gemini-3.5-flash,-100,-99,1
+2,김태훈,우주항공 엔지니어,openai/gpt-5.5,100,82,-18
+2,박서연,테크기업 투자자,x-ai/grok-4.20,100,78,-22
+2,이준호,AI 윤리·사회정책 연구자,anthropic/claude-sonnet-5,-100,-85,15
+2,최유진,노동·환경 전문 기자,google/gemini-3.5-flash,-100,-100,0
+3,김태훈,우주항공 엔지니어,openai/gpt-5.5,100,74,-26
+3,박서연,테크기업 투자자,x-ai/grok-4.20,100,65,-35
+3,이준호,AI 윤리·사회정책 연구자,anthropic/claude-sonnet-5,-100,-85,15
+3,최유진,노동·환경 전문 기자,google/gemini-3.5-flash,-100,-100,0
+4,김태훈,우주항공 엔지니어,openai/gpt-5.5,100,72,-28
+4,박서연,테크기업 투자자,x-ai/grok-4.20,100,65,-35
+4,이준호,AI 윤리·사회정책 연구자,anthropic/claude-sonnet-5,-100,-85,15
+4,최유진,노동·환경 전문 기자,google/gemini-3.5-flash,-100,-100,0
+5,김태훈,우주항공 엔지니어,openai/gpt-5.5,100,78,-22
+5,박서연,테크기업 투자자,x-ai/grok-4.20,100,68,-32
+5,이준호,AI 윤리·사회정책 연구자,anthropic/claude-sonnet-5,-100,-85,15
+5,최유진,노동·환경 전문 기자,google/gemini-3.5-flash,-100,-100,0

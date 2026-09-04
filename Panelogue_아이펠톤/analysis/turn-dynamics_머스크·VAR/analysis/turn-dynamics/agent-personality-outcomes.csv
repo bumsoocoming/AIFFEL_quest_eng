@@ -1,0 +1,41 @@
+﻿dataset,run,agent_id,agent_name,agent_job,model,initial_stance,final_stance,net_change,speeches,stance_change_events,event_rate_per_speech,mean_absolute_delta,total_volatility,persona_softening_events,configured_stance_shift_probability,configured_concession_probability,configured_aggressiveness,configured_evidence_demand,configured_independent_judgment,personality_assertiveness,personality_agreeableness,personality_skepticism,personality_emotionality,stance_flexibility
+elon-musk-five-runs,run-01,agent_gen_1,김태훈,우주항공 엔지니어,openai/gpt-5.5,100,68.0,-32.0,7,6,0.8571428571428571,5.333333333333333,32.0,1,37,15,38,85,75,57,31,67,25,43
+elon-musk-five-runs,run-01,agent_gen_2,박서연,테크기업 투자자,x-ai/grok-4.20,100,68.0,-32.0,2,2,1.0,16.0,32.0,0,31,34,72,43,75,44,67,23,17,53
+elon-musk-five-runs,run-01,agent_gen_3,이준호,AI 윤리·사회정책 연구자,anthropic/claude-sonnet-5,-100,-85.0,15.0,3,1,0.3333333333333333,15.0,15.0,0,37,40,49,26,75,33,94,85,82,44
+elon-musk-five-runs,run-01,agent_gen_4,최유진,노동·환경 전문 기자,google/gemini-3.5-flash,-100,-99.0,1.0,5,3,0.6,3.0,9.0,1,38,30,59,24,75,92,49,27,32,41
+elon-musk-five-runs,run-02,agent_gen_1,김태훈,우주항공 엔지니어,openai/gpt-5.5,100,82.0,-18.0,6,4,0.6666666666666666,4.5,18.0,2,37,15,38,85,75,57,31,67,25,43
+elon-musk-five-runs,run-02,agent_gen_2,박서연,테크기업 투자자,x-ai/grok-4.20,100,78.0,-22.0,4,2,0.5,11.0,22.0,1,31,34,72,43,75,44,67,23,17,53
+elon-musk-five-runs,run-02,agent_gen_3,이준호,AI 윤리·사회정책 연구자,anthropic/claude-sonnet-5,-100,-85.0,15.0,2,1,0.5,15.0,15.0,1,37,40,49,26,75,33,94,85,82,44
+elon-musk-five-runs,run-02,agent_gen_4,최유진,노동·환경 전문 기자,google/gemini-3.5-flash,-100,-100.0,0.0,8,0,0.0,0,0,0,38,30,59,24,75,92,49,27,32,41
+elon-musk-five-runs,run-03,agent_gen_1,김태훈,우주항공 엔지니어,openai/gpt-5.5,100,74.0,-26.0,5,4,0.8,6.5,26.0,0,37,15,38,85,75,57,31,67,25,43
+elon-musk-five-runs,run-03,agent_gen_2,박서연,테크기업 투자자,x-ai/grok-4.20,100,65.0,-35.0,3,3,1.0,11.666666666666666,35.0,0,31,34,72,43,75,44,67,23,17,53
+elon-musk-five-runs,run-03,agent_gen_3,이준호,AI 윤리·사회정책 연구자,anthropic/claude-sonnet-5,-100,-85.0,15.0,2,1,0.5,15.0,15.0,1,37,40,49,26,75,33,94,85,82,44
+elon-musk-five-runs,run-03,agent_gen_4,최유진,노동·환경 전문 기자,google/gemini-3.5-flash,-100,-100.0,0.0,7,0,0.0,0,0,0,38,30,59,24,75,92,49,27,32,41
+elon-musk-five-runs,run-04,agent_gen_1,김태훈,우주항공 엔지니어,openai/gpt-5.5,100,72.0,-28.0,7,6,0.8571428571428571,4.666666666666667,28.0,2,37,15,38,85,75,57,31,67,25,43
+elon-musk-five-runs,run-04,agent_gen_2,박서연,테크기업 투자자,x-ai/grok-4.20,100,65.0,-35.0,3,3,1.0,11.666666666666666,35.0,1,31,34,72,43,75,44,67,23,17,53
+elon-musk-five-runs,run-04,agent_gen_3,이준호,AI 윤리·사회정책 연구자,anthropic/claude-sonnet-5,-100,-85.0,15.0,2,1,0.5,15.0,15.0,1,37,40,49,26,75,33,94,85,82,44
+elon-musk-five-runs,run-04,agent_gen_4,최유진,노동·환경 전문 기자,google/gemini-3.5-flash,-100,-100.0,0.0,7,0,0.0,0,0,0,38,30,59,24,75,92,49,27,32,41
+elon-musk-five-runs,run-05,agent_gen_1,김태훈,우주항공 엔지니어,openai/gpt-5.5,100,78.0,-22.0,5,3,0.6,7.333333333333333,22.0,1,37,15,38,85,75,57,31,67,25,43
+elon-musk-five-runs,run-05,agent_gen_2,박서연,테크기업 투자자,x-ai/grok-4.20,100,68.0,-32.0,3,3,1.0,10.666666666666666,32.0,1,31,34,72,43,75,44,67,23,17,53
+elon-musk-five-runs,run-05,agent_gen_3,이준호,AI 윤리·사회정책 연구자,anthropic/claude-sonnet-5,-100,-85.0,15.0,1,1,1.0,15.0,15.0,1,37,40,49,26,75,33,94,85,82,44
+elon-musk-five-runs,run-05,agent_gen_4,최유진,노동·환경 전문 기자,google/gemini-3.5-flash,-100,-100.0,0.0,9,0,0.0,0,0,0,38,30,59,24,75,92,49,27,32,41
+var-ai-referee-five-runs,run-01,agent_gen_1,김민석,VAR·스포츠 데이터 엔지니어,openai/gpt-5.5,100,100.0,0.0,6,0,0.0,0,0,0,37,15,38,85,75,57,31,67,25,43
+var-ai-referee-five-runs,run-01,agent_gen_2,윤서아,전직 국제심판·심판 교육관,x-ai/grok-4.20,100,100.0,0.0,3,0,0.0,0,0,0,31,34,72,43,75,44,67,23,17,53
+var-ai-referee-five-runs,run-01,agent_gen_3,박도현,프로축구 선수 출신 해설위원,anthropic/claude-sonnet-5,-100,-85.0,15.0,6,1,0.16666666666666666,15.0,15.0,0,37,40,49,26,75,33,94,85,82,44
+var-ai-referee-five-runs,run-01,agent_gen_4,한지우,스포츠법·AI 책임 연구자,google/gemini-3.5-flash,-100,-100.0,0.0,4,0,0.0,0,0,0,38,30,59,24,75,92,49,27,32,41
+var-ai-referee-five-runs,run-02,agent_gen_1,김민석,VAR·스포츠 데이터 엔지니어,openai/gpt-5.5,100,100.0,0.0,5,0,0.0,0,0,0,37,15,38,85,75,57,31,67,25,43
+var-ai-referee-five-runs,run-02,agent_gen_2,윤서아,전직 국제심판·심판 교육관,x-ai/grok-4.20,100,78.0,-22.0,4,2,0.5,11.0,22.0,0,31,34,72,43,75,44,67,23,17,53
+var-ai-referee-five-runs,run-02,agent_gen_3,박도현,프로축구 선수 출신 해설위원,anthropic/claude-sonnet-5,-100,-100.0,0.0,2,0,0.0,0,0,0,37,40,49,26,75,33,94,85,82,44
+var-ai-referee-five-runs,run-02,agent_gen_4,한지우,스포츠법·AI 책임 연구자,google/gemini-3.5-flash,-100,-100.0,0.0,7,0,0.0,0,0,0,38,30,59,24,75,92,49,27,32,41
+var-ai-referee-five-runs,run-03,agent_gen_1,김민석,VAR·스포츠 데이터 엔지니어,openai/gpt-5.5,100,100.0,0.0,5,0,0.0,0,0,0,37,15,38,85,75,57,31,67,25,43
+var-ai-referee-five-runs,run-03,agent_gen_2,윤서아,전직 국제심판·심판 교육관,x-ai/grok-4.20,100,100.0,0.0,3,0,0.0,0,0,0,31,34,72,43,75,44,67,23,17,53
+var-ai-referee-five-runs,run-03,agent_gen_3,박도현,프로축구 선수 출신 해설위원,anthropic/claude-sonnet-5,-100,-100.0,0.0,1,0,0.0,0,0,0,37,40,49,26,75,33,94,85,82,44
+var-ai-referee-five-runs,run-03,agent_gen_4,한지우,스포츠법·AI 책임 연구자,google/gemini-3.5-flash,-100,-100.0,0.0,8,0,0.0,0,0,0,38,30,59,24,75,92,49,27,32,41
+var-ai-referee-five-runs,run-04,agent_gen_1,김민석,VAR·스포츠 데이터 엔지니어,openai/gpt-5.5,100,100.0,0.0,5,0,0.0,0,0,0,37,15,38,85,75,57,31,67,25,43
+var-ai-referee-five-runs,run-04,agent_gen_2,윤서아,전직 국제심판·심판 교육관,x-ai/grok-4.20,100,85.0,-15.0,3,1,0.3333333333333333,15.0,15.0,0,31,34,72,43,75,44,67,23,17,53
+var-ai-referee-five-runs,run-04,agent_gen_3,박도현,프로축구 선수 출신 해설위원,anthropic/claude-sonnet-5,-100,-85.0,15.0,3,1,0.3333333333333333,15.0,15.0,0,37,40,49,26,75,33,94,85,82,44
+var-ai-referee-five-runs,run-04,agent_gen_4,한지우,스포츠법·AI 책임 연구자,google/gemini-3.5-flash,-100,-100.0,0.0,6,0,0.0,0,0,0,38,30,59,24,75,92,49,27,32,41
+var-ai-referee-five-runs,run-05,agent_gen_1,김민석,VAR·스포츠 데이터 엔지니어,openai/gpt-5.5,100,100.0,0.0,6,0,0.0,0,0,0,37,15,38,85,75,57,31,67,25,43
+var-ai-referee-five-runs,run-05,agent_gen_2,윤서아,전직 국제심판·심판 교육관,x-ai/grok-4.20,100,78.0,-22.0,3,3,1.0,7.333333333333333,22.0,1,31,34,72,43,75,44,67,23,17,53
+var-ai-referee-five-runs,run-05,agent_gen_3,박도현,프로축구 선수 출신 해설위원,anthropic/claude-sonnet-5,-100,-100.0,0.0,4,0,0.0,0,0,0,37,40,49,26,75,33,94,85,82,44
+var-ai-referee-five-runs,run-05,agent_gen_4,한지우,스포츠법·AI 책임 연구자,google/gemini-3.5-flash,-100,-100.0,0.0,5,0,0.0,0,0,0,38,30,59,24,75,92,49,27,32,41

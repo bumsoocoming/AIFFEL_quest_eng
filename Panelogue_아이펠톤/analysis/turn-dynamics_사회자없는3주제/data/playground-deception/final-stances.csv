@@ -1,0 +1,5 @@
+﻿run,agent,job,model,initial_stance,final_stance,delta
+1,고유정,주부,x-ai/grok-4.20,71,55,-16
+1,이은해,사기꾼,x-ai/grok-4.20,-71,-45,26
+1,전청조,사기꾼,deepseek/deepseek-v4-pro-0813,0,70,70
+1,정유정,백수,anthropic/claude-opus-5,-25,-95,-70

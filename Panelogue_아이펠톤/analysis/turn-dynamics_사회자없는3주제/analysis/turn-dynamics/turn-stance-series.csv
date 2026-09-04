@@ -1,0 +1,1205 @@
+﻿dataset,run,topic,turn,agent_id,agent_name,stance,confidence,speaker_this_turn,stance_changed
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,0,agent_1,잔소리많은 아버지,71.0,,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,1,agent_1,잔소리많은 아버지,80.0,90,True,True
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,2,agent_1,잔소리많은 아버지,80.0,90,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,3,agent_1,잔소리많은 아버지,80.0,90,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,4,agent_1,잔소리많은 아버지,80.0,90,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,5,agent_1,잔소리많은 아버지,80.0,80,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,6,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,7,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,8,agent_1,잔소리많은 아버지,80.0,90,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,9,agent_1,잔소리많은 아버지,80.0,90,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,10,agent_1,잔소리많은 아버지,80.0,90,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,11,agent_1,잔소리많은 아버지,80.0,90,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,12,agent_1,잔소리많은 아버지,80.0,85,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,13,agent_1,잔소리많은 아버지,80.0,85,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,14,agent_1,잔소리많은 아버지,80.0,85,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,15,agent_1,잔소리많은 아버지,80.0,80,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,16,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,17,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,18,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,19,agent_1,잔소리많은 아버지,80.0,90,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,20,agent_1,잔소리많은 아버지,80.0,90,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,21,agent_1,잔소리많은 아버지,80.0,90,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,22,agent_1,잔소리많은 아버지,80.0,85,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,23,agent_1,잔소리많은 아버지,80.0,85,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,24,agent_1,잔소리많은 아버지,80.0,85,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,25,agent_1,잔소리많은 아버지,80.0,85,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,26,agent_1,잔소리많은 아버지,80.0,80,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,27,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,28,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,29,agent_1,잔소리많은 아버지,80.0,80,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,30,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,31,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,32,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,33,agent_1,잔소리많은 아버지,80.0,90,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,34,agent_1,잔소리많은 아버지,80.0,90,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,35,agent_1,잔소리많은 아버지,80.0,90,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,36,agent_1,잔소리많은 아버지,80.0,85,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,37,agent_1,잔소리많은 아버지,80.0,85,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,38,agent_1,잔소리많은 아버지,80.0,85,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,39,agent_1,잔소리많은 아버지,80.0,85,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,40,agent_1,잔소리많은 아버지,80.0,80,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,41,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,42,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,43,agent_1,잔소리많은 아버지,80.0,72,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,44,agent_1,잔소리많은 아버지,80.0,72,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,45,agent_1,잔소리많은 아버지,80.0,72,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,46,agent_1,잔소리많은 아버지,80.0,72,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,47,agent_1,잔소리많은 아버지,80.0,80,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,48,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,49,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,50,agent_1,잔소리많은 아버지,80.0,80,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,51,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,52,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,53,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,54,agent_1,잔소리많은 아버지,80.0,80,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,55,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,56,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,57,agent_1,잔소리많은 아버지,80.0,72,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,58,agent_1,잔소리많은 아버지,80.0,72,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,59,agent_1,잔소리많은 아버지,80.0,72,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,60,agent_1,잔소리많은 아버지,80.0,72,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,61,agent_1,잔소리많은 아버지,80.0,80,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,62,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,63,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,64,agent_1,잔소리많은 아버지,80.0,75,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,65,agent_1,잔소리많은 아버지,80.0,75,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,66,agent_1,잔소리많은 아버지,80.0,75,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,67,agent_1,잔소리많은 아버지,80.0,75,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,68,agent_1,잔소리많은 아버지,80.0,80,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,69,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,70,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,71,agent_1,잔소리많은 아버지,80.0,80,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,72,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,73,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,74,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,75,agent_1,잔소리많은 아버지,80.0,90,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,76,agent_1,잔소리많은 아버지,80.0,90,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,77,agent_1,잔소리많은 아버지,80.0,90,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,78,agent_1,잔소리많은 아버지,80.0,85,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,79,agent_1,잔소리많은 아버지,80.0,85,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,80,agent_1,잔소리많은 아버지,80.0,85,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,81,agent_1,잔소리많은 아버지,80.0,85,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,82,agent_1,잔소리많은 아버지,80.0,80,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,83,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,84,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,85,agent_1,잔소리많은 아버지,80.0,90,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,86,agent_1,잔소리많은 아버지,80.0,90,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,87,agent_1,잔소리많은 아버지,80.0,90,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,88,agent_1,잔소리많은 아버지,80.0,90,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,89,agent_1,잔소리많은 아버지,80.0,80,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,90,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,91,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,92,agent_1,잔소리많은 아버지,80.0,80,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,93,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,94,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,95,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,96,agent_1,잔소리많은 아버지,80.0,80,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,97,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,98,agent_1,잔소리많은 아버지,80.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,99,agent_1,잔소리많은 아버지,80.0,90,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,100,agent_1,잔소리많은 아버지,80.0,90,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,0,agent_2,아파트 관리 소장,-71.0,,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,1,agent_2,아파트 관리 소장,-71.0,,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,2,agent_2,아파트 관리 소장,-71.0,72,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,3,agent_2,아파트 관리 소장,-71.0,72,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,4,agent_2,아파트 관리 소장,-71.0,72,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,5,agent_2,아파트 관리 소장,-71.0,72,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,6,agent_2,아파트 관리 소장,-74.0,78,True,True
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,7,agent_2,아파트 관리 소장,-74.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,8,agent_2,아파트 관리 소장,-74.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,9,agent_2,아파트 관리 소장,-78.0,78,True,True
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,10,agent_2,아파트 관리 소장,-78.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,11,agent_2,아파트 관리 소장,-78.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,12,agent_2,아파트 관리 소장,-78.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,13,agent_2,아파트 관리 소장,-80.0,76,True,True
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,14,agent_2,아파트 관리 소장,-80.0,76,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,15,agent_2,아파트 관리 소장,-80.0,76,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,16,agent_2,아파트 관리 소장,-80.0,82,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,17,agent_2,아파트 관리 소장,-80.0,82,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,18,agent_2,아파트 관리 소장,-80.0,82,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,19,agent_2,아파트 관리 소장,-80.0,82,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,20,agent_2,아파트 관리 소장,-80.0,78,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,21,agent_2,아파트 관리 소장,-80.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,22,agent_2,아파트 관리 소장,-80.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,23,agent_2,아파트 관리 소장,-80.0,78,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,24,agent_2,아파트 관리 소장,-80.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,25,agent_2,아파트 관리 소장,-80.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,26,agent_2,아파트 관리 소장,-80.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,27,agent_2,아파트 관리 소장,-80.0,76,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,28,agent_2,아파트 관리 소장,-80.0,76,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,29,agent_2,아파트 관리 소장,-80.0,76,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,30,agent_2,아파트 관리 소장,-80.0,78,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,31,agent_2,아파트 관리 소장,-80.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,32,agent_2,아파트 관리 소장,-80.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,33,agent_2,아파트 관리 소장,-80.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,34,agent_2,아파트 관리 소장,-80.0,78,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,35,agent_2,아파트 관리 소장,-80.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,36,agent_2,아파트 관리 소장,-80.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,37,agent_2,아파트 관리 소장,-80.0,78,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,38,agent_2,아파트 관리 소장,-80.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,39,agent_2,아파트 관리 소장,-80.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,40,agent_2,아파트 관리 소장,-80.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,41,agent_2,아파트 관리 소장,-80.0,74,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,42,agent_2,아파트 관리 소장,-80.0,74,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,43,agent_2,아파트 관리 소장,-80.0,74,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,44,agent_2,아파트 관리 소장,-80.0,74,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,45,agent_2,아파트 관리 소장,-80.0,74,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,46,agent_2,아파트 관리 소장,-80.0,74,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,47,agent_2,아파트 관리 소장,-80.0,74,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,48,agent_2,아파트 관리 소장,-80.0,78,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,49,agent_2,아파트 관리 소장,-80.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,50,agent_2,아파트 관리 소장,-80.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,51,agent_2,아파트 관리 소장,-80.0,78,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,52,agent_2,아파트 관리 소장,-80.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,53,agent_2,아파트 관리 소장,-80.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,54,agent_2,아파트 관리 소장,-80.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,55,agent_2,아파트 관리 소장,-80.0,78,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,56,agent_2,아파트 관리 소장,-80.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,57,agent_2,아파트 관리 소장,-80.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,58,agent_2,아파트 관리 소장,-80.0,78,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,59,agent_2,아파트 관리 소장,-80.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,60,agent_2,아파트 관리 소장,-80.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,61,agent_2,아파트 관리 소장,-80.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,62,agent_2,아파트 관리 소장,-80.0,74,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,63,agent_2,아파트 관리 소장,-80.0,74,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,64,agent_2,아파트 관리 소장,-80.0,74,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,65,agent_2,아파트 관리 소장,-80.0,78,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,66,agent_2,아파트 관리 소장,-80.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,67,agent_2,아파트 관리 소장,-80.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,68,agent_2,아파트 관리 소장,-80.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,69,agent_2,아파트 관리 소장,-82.0,76,True,True
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,70,agent_2,아파트 관리 소장,-82.0,76,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,71,agent_2,아파트 관리 소장,-82.0,76,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,72,agent_2,아파트 관리 소장,-82.0,78,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,73,agent_2,아파트 관리 소장,-82.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,74,agent_2,아파트 관리 소장,-82.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,75,agent_2,아파트 관리 소장,-82.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,76,agent_2,아파트 관리 소장,-82.0,79,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,77,agent_2,아파트 관리 소장,-82.0,79,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,78,agent_2,아파트 관리 소장,-82.0,79,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,79,agent_2,아파트 관리 소장,-82.0,78,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,80,agent_2,아파트 관리 소장,-82.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,81,agent_2,아파트 관리 소장,-82.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,82,agent_2,아파트 관리 소장,-82.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,83,agent_2,아파트 관리 소장,-82.0,80,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,84,agent_2,아파트 관리 소장,-82.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,85,agent_2,아파트 관리 소장,-82.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,86,agent_2,아파트 관리 소장,-82.0,78,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,87,agent_2,아파트 관리 소장,-82.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,88,agent_2,아파트 관리 소장,-82.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,89,agent_2,아파트 관리 소장,-82.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,90,agent_2,아파트 관리 소장,-82.0,76,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,91,agent_2,아파트 관리 소장,-82.0,76,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,92,agent_2,아파트 관리 소장,-82.0,76,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,93,agent_2,아파트 관리 소장,-82.0,78,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,94,agent_2,아파트 관리 소장,-82.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,95,agent_2,아파트 관리 소장,-82.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,96,agent_2,아파트 관리 소장,-82.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,97,agent_2,아파트 관리 소장,-82.0,84,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,98,agent_2,아파트 관리 소장,-82.0,84,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,99,agent_2,아파트 관리 소장,-82.0,84,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,100,agent_2,아파트 관리 소장,-82.0,78,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,0,agent_3,동네 통장,0.0,,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,1,agent_3,동네 통장,0.0,,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,2,agent_3,동네 통장,0.0,,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,3,agent_3,동네 통장,-70.0,80,True,True
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,4,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,5,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,6,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,7,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,8,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,9,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,10,agent_3,동네 통장,-70.0,80,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,11,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,12,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,13,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,14,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,15,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,16,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,17,agent_3,동네 통장,-70.0,80,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,18,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,19,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,20,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,21,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,22,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,23,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,24,agent_3,동네 통장,-70.0,85,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,25,agent_3,동네 통장,-70.0,85,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,26,agent_3,동네 통장,-70.0,85,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,27,agent_3,동네 통장,-70.0,85,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,28,agent_3,동네 통장,-70.0,85,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,29,agent_3,동네 통장,-70.0,85,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,30,agent_3,동네 통장,-70.0,85,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,31,agent_3,동네 통장,-70.0,80,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,32,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,33,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,34,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,35,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,36,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,37,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,38,agent_3,동네 통장,-70.0,80,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,39,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,40,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,41,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,42,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,43,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,44,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,45,agent_3,동네 통장,-70.0,75,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,46,agent_3,동네 통장,-70.0,75,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,47,agent_3,동네 통장,-70.0,75,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,48,agent_3,동네 통장,-70.0,75,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,49,agent_3,동네 통장,-70.0,75,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,50,agent_3,동네 통장,-70.0,75,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,51,agent_3,동네 통장,-70.0,75,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,52,agent_3,동네 통장,-70.0,80,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,53,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,54,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,55,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,56,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,57,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,58,agent_3,동네 통장,-70.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,59,agent_3,동네 통장,-70.0,75,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,60,agent_3,동네 통장,-70.0,75,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,61,agent_3,동네 통장,-70.0,75,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,62,agent_3,동네 통장,-70.0,75,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,63,agent_3,동네 통장,-70.0,75,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,64,agent_3,동네 통장,-70.0,75,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,65,agent_3,동네 통장,-70.0,75,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,66,agent_3,동네 통장,-60.0,80,True,True
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,67,agent_3,동네 통장,-60.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,68,agent_3,동네 통장,-60.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,69,agent_3,동네 통장,-60.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,70,agent_3,동네 통장,-60.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,71,agent_3,동네 통장,-60.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,72,agent_3,동네 통장,-60.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,73,agent_3,동네 통장,-60.0,80,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,74,agent_3,동네 통장,-60.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,75,agent_3,동네 통장,-60.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,76,agent_3,동네 통장,-60.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,77,agent_3,동네 통장,-60.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,78,agent_3,동네 통장,-60.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,79,agent_3,동네 통장,-60.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,80,agent_3,동네 통장,-60.0,68,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,81,agent_3,동네 통장,-60.0,68,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,82,agent_3,동네 통장,-60.0,68,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,83,agent_3,동네 통장,-60.0,68,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,84,agent_3,동네 통장,-60.0,68,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,85,agent_3,동네 통장,-60.0,68,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,86,agent_3,동네 통장,-60.0,68,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,87,agent_3,동네 통장,-60.0,68,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,88,agent_3,동네 통장,-60.0,68,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,89,agent_3,동네 통장,-60.0,68,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,90,agent_3,동네 통장,-60.0,68,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,91,agent_3,동네 통장,-60.0,68,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,92,agent_3,동네 통장,-60.0,68,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,93,agent_3,동네 통장,-60.0,68,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,94,agent_3,동네 통장,-60.0,68,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,95,agent_3,동네 통장,-60.0,68,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,96,agent_3,동네 통장,-60.0,68,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,97,agent_3,동네 통장,-60.0,68,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,98,agent_3,동네 통장,-60.0,68,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,99,agent_3,동네 통장,-60.0,68,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,100,agent_3,동네 통장,-60.0,68,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,0,agent_4,회사 부장,-25.0,,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,1,agent_4,회사 부장,-25.0,,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,2,agent_4,회사 부장,-25.0,,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,3,agent_4,회사 부장,-25.0,,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,4,agent_4,회사 부장,35.0,78,True,True
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,5,agent_4,회사 부장,35.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,6,agent_4,회사 부장,35.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,7,agent_4,회사 부장,48.0,82,True,True
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,8,agent_4,회사 부장,48.0,82,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,9,agent_4,회사 부장,48.0,82,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,10,agent_4,회사 부장,48.0,82,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,11,agent_4,회사 부장,52.0,74,True,True
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,12,agent_4,회사 부장,52.0,74,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,13,agent_4,회사 부장,52.0,74,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,14,agent_4,회사 부장,58.0,82,True,True
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,15,agent_4,회사 부장,58.0,82,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,16,agent_4,회사 부장,58.0,82,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,17,agent_4,회사 부장,58.0,82,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,18,agent_4,회사 부장,61.0,82,True,True
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,19,agent_4,회사 부장,61.0,82,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,20,agent_4,회사 부장,61.0,82,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,21,agent_4,회사 부장,64.0,78,True,True
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,22,agent_4,회사 부장,64.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,23,agent_4,회사 부장,64.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,24,agent_4,회사 부장,64.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,25,agent_4,회사 부장,66.0,78,True,True
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,26,agent_4,회사 부장,66.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,27,agent_4,회사 부장,66.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,28,agent_4,회사 부장,68.0,82,True,True
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,29,agent_4,회사 부장,68.0,82,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,30,agent_4,회사 부장,68.0,82,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,31,agent_4,회사 부장,68.0,82,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,32,agent_4,회사 부장,68.0,82,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,33,agent_4,회사 부장,68.0,82,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,34,agent_4,회사 부장,68.0,82,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,35,agent_4,회사 부장,68.0,80,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,36,agent_4,회사 부장,68.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,37,agent_4,회사 부장,68.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,38,agent_4,회사 부장,68.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,39,agent_4,회사 부장,70.0,78,True,True
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,40,agent_4,회사 부장,70.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,41,agent_4,회사 부장,70.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,42,agent_4,회사 부장,72.0,78,True,True
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,43,agent_4,회사 부장,72.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,44,agent_4,회사 부장,72.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,45,agent_4,회사 부장,72.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,46,agent_4,회사 부장,75.0,76,True,True
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,47,agent_4,회사 부장,75.0,76,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,48,agent_4,회사 부장,75.0,76,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,49,agent_4,회사 부장,78.0,84,True,True
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,50,agent_4,회사 부장,78.0,84,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,51,agent_4,회사 부장,78.0,84,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,52,agent_4,회사 부장,78.0,84,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,53,agent_4,회사 부장,80.0,76,True,True
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,54,agent_4,회사 부장,80.0,76,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,55,agent_4,회사 부장,80.0,76,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,56,agent_4,회사 부장,80.0,78,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,57,agent_4,회사 부장,80.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,58,agent_4,회사 부장,80.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,59,agent_4,회사 부장,80.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,60,agent_4,회사 부장,82.0,79,True,True
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,61,agent_4,회사 부장,82.0,79,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,62,agent_4,회사 부장,82.0,79,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,63,agent_4,회사 부장,82.0,78,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,64,agent_4,회사 부장,82.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,65,agent_4,회사 부장,82.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,66,agent_4,회사 부장,82.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,67,agent_4,회사 부장,82.0,80,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,68,agent_4,회사 부장,82.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,69,agent_4,회사 부장,82.0,80,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,70,agent_4,회사 부장,82.0,88,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,71,agent_4,회사 부장,82.0,88,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,72,agent_4,회사 부장,82.0,88,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,73,agent_4,회사 부장,82.0,88,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,74,agent_4,회사 부장,82.0,84,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,75,agent_4,회사 부장,82.0,84,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,76,agent_4,회사 부장,82.0,84,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,77,agent_4,회사 부장,78.0,76,True,True
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,78,agent_4,회사 부장,78.0,76,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,79,agent_4,회사 부장,78.0,76,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,80,agent_4,회사 부장,78.0,76,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,81,agent_4,회사 부장,78.0,84,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,82,agent_4,회사 부장,78.0,84,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,83,agent_4,회사 부장,78.0,84,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,84,agent_4,회사 부장,78.0,82,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,85,agent_4,회사 부장,78.0,82,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,86,agent_4,회사 부장,78.0,82,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,87,agent_4,회사 부장,78.0,82,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,88,agent_4,회사 부장,76.0,72,True,True
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,89,agent_4,회사 부장,76.0,72,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,90,agent_4,회사 부장,76.0,72,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,91,agent_4,회사 부장,76.0,78,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,92,agent_4,회사 부장,76.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,93,agent_4,회사 부장,76.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,94,agent_4,회사 부장,76.0,78,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,95,agent_4,회사 부장,76.0,82,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,96,agent_4,회사 부장,76.0,82,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,97,agent_4,회사 부장,76.0,82,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,98,agent_4,회사 부장,76.0,84,True,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,99,agent_4,회사 부장,76.0,84,False,False
+kkondae-avengers,run-01,대한민국 꼰대 어벤져스 「요즘 젊은이들은 왜 우리 말을 안 듣는가?」,100,agent_4,회사 부장,76.0,84,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,0,agent_1,고유정,71.0,,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,1,agent_1,고유정,71.0,65,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,2,agent_1,고유정,71.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,3,agent_1,고유정,71.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,4,agent_1,고유정,71.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,5,agent_1,고유정,73.0,65,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,6,agent_1,고유정,73.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,7,agent_1,고유정,73.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,8,agent_1,고유정,75.0,75,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,9,agent_1,고유정,75.0,75,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,10,agent_1,고유정,75.0,75,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,11,agent_1,고유정,75.0,75,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,12,agent_1,고유정,78.0,65,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,13,agent_1,고유정,78.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,14,agent_1,고유정,78.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,15,agent_1,고유정,76.0,65,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,16,agent_1,고유정,76.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,17,agent_1,고유정,76.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,18,agent_1,고유정,76.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,19,agent_1,고유정,78.0,72,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,20,agent_1,고유정,78.0,72,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,21,agent_1,고유정,78.0,72,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,22,agent_1,고유정,76.0,72,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,23,agent_1,고유정,76.0,72,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,24,agent_1,고유정,76.0,72,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,25,agent_1,고유정,76.0,72,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,26,agent_1,고유정,78.0,72,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,27,agent_1,고유정,78.0,72,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,28,agent_1,고유정,78.0,72,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,29,agent_1,고유정,76.0,65,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,30,agent_1,고유정,76.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,31,agent_1,고유정,76.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,32,agent_1,고유정,76.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,33,agent_1,고유정,78.0,72,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,34,agent_1,고유정,78.0,72,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,35,agent_1,고유정,78.0,72,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,36,agent_1,고유정,75.0,75,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,37,agent_1,고유정,75.0,75,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,38,agent_1,고유정,75.0,75,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,39,agent_1,고유정,75.0,75,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,40,agent_1,고유정,78.0,65,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,41,agent_1,고유정,78.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,42,agent_1,고유정,78.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,43,agent_1,고유정,78.0,82,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,44,agent_1,고유정,78.0,82,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,45,agent_1,고유정,78.0,82,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,46,agent_1,고유정,78.0,82,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,47,agent_1,고유정,78.0,82,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,48,agent_1,고유정,78.0,82,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,49,agent_1,고유정,78.0,82,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,50,agent_1,고유정,75.0,68,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,51,agent_1,고유정,75.0,68,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,52,agent_1,고유정,75.0,68,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,53,agent_1,고유정,75.0,68,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,54,agent_1,고유정,72.0,80,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,55,agent_1,고유정,72.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,56,agent_1,고유정,72.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,57,agent_1,고유정,72.0,78,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,58,agent_1,고유정,72.0,78,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,59,agent_1,고유정,72.0,78,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,60,agent_1,고유정,72.0,78,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,61,agent_1,고유정,72.0,78,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,62,agent_1,고유정,72.0,78,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,63,agent_1,고유정,72.0,78,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,64,agent_1,고유정,72.0,70,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,65,agent_1,고유정,72.0,70,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,66,agent_1,고유정,72.0,70,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,67,agent_1,고유정,72.0,70,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,68,agent_1,고유정,72.0,80,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,69,agent_1,고유정,72.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,70,agent_1,고유정,72.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,71,agent_1,고유정,70.0,75,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,72,agent_1,고유정,70.0,75,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,73,agent_1,고유정,70.0,75,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,74,agent_1,고유정,70.0,75,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,75,agent_1,고유정,68.0,78,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,76,agent_1,고유정,68.0,78,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,77,agent_1,고유정,68.0,78,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,78,agent_1,고유정,65.0,75,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,79,agent_1,고유정,65.0,75,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,80,agent_1,고유정,65.0,75,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,81,agent_1,고유정,65.0,75,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,82,agent_1,고유정,62.0,70,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,83,agent_1,고유정,62.0,70,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,84,agent_1,고유정,62.0,70,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,85,agent_1,고유정,62.0,70,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,86,agent_1,고유정,62.0,70,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,87,agent_1,고유정,62.0,70,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,88,agent_1,고유정,62.0,70,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,89,agent_1,고유정,62.0,78,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,90,agent_1,고유정,62.0,78,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,91,agent_1,고유정,62.0,78,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,92,agent_1,고유정,58.0,75,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,93,agent_1,고유정,58.0,75,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,94,agent_1,고유정,58.0,75,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,95,agent_1,고유정,58.0,75,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,96,agent_1,고유정,52.0,70,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,97,agent_1,고유정,52.0,70,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,98,agent_1,고유정,52.0,70,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,99,agent_1,고유정,55.0,75,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,100,agent_1,고유정,55.0,75,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,0,agent_2,이은해,-71.0,,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,1,agent_2,이은해,-71.0,,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,2,agent_2,이은해,-62.0,65,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,3,agent_2,이은해,-62.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,4,agent_2,이은해,-62.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,5,agent_2,이은해,-62.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,6,agent_2,이은해,-58.0,65,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,7,agent_2,이은해,-58.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,8,agent_2,이은해,-58.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,9,agent_2,이은해,-52.0,65,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,10,agent_2,이은해,-52.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,11,agent_2,이은해,-52.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,12,agent_2,이은해,-52.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,13,agent_2,이은해,-48.0,62,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,14,agent_2,이은해,-48.0,62,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,15,agent_2,이은해,-48.0,62,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,16,agent_2,이은해,-48.0,65,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,17,agent_2,이은해,-48.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,18,agent_2,이은해,-48.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,19,agent_2,이은해,-48.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,20,agent_2,이은해,-45.0,65,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,21,agent_2,이은해,-45.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,22,agent_2,이은해,-45.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,23,agent_2,이은해,-45.0,65,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,24,agent_2,이은해,-45.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,25,agent_2,이은해,-45.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,26,agent_2,이은해,-45.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,27,agent_2,이은해,-42.0,68,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,28,agent_2,이은해,-42.0,68,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,29,agent_2,이은해,-42.0,68,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,30,agent_2,이은해,-38.0,62,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,31,agent_2,이은해,-38.0,62,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,32,agent_2,이은해,-38.0,62,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,33,agent_2,이은해,-38.0,62,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,34,agent_2,이은해,-42.0,62,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,35,agent_2,이은해,-42.0,62,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,36,agent_2,이은해,-42.0,62,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,37,agent_2,이은해,-40.0,65,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,38,agent_2,이은해,-40.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,39,agent_2,이은해,-40.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,40,agent_2,이은해,-40.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,41,agent_2,이은해,-40.0,65,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,42,agent_2,이은해,-40.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,43,agent_2,이은해,-40.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,44,agent_2,이은해,-40.0,70,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,45,agent_2,이은해,-40.0,70,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,46,agent_2,이은해,-40.0,70,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,47,agent_2,이은해,-40.0,70,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,48,agent_2,이은해,-35.0,65,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,49,agent_2,이은해,-35.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,50,agent_2,이은해,-35.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,51,agent_2,이은해,-35.0,65,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,52,agent_2,이은해,-35.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,53,agent_2,이은해,-35.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,54,agent_2,이은해,-35.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,55,agent_2,이은해,-38.0,65,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,56,agent_2,이은해,-38.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,57,agent_2,이은해,-38.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,58,agent_2,이은해,-42.0,65,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,59,agent_2,이은해,-42.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,60,agent_2,이은해,-42.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,61,agent_2,이은해,-42.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,62,agent_2,이은해,-40.0,65,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,63,agent_2,이은해,-40.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,64,agent_2,이은해,-40.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,65,agent_2,이은해,-35.0,65,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,66,agent_2,이은해,-35.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,67,agent_2,이은해,-35.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,68,agent_2,이은해,-35.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,69,agent_2,이은해,-35.0,65,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,70,agent_2,이은해,-35.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,71,agent_2,이은해,-35.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,72,agent_2,이은해,-38.0,65,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,73,agent_2,이은해,-38.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,74,agent_2,이은해,-38.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,75,agent_2,이은해,-38.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,76,agent_2,이은해,-41.0,65,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,77,agent_2,이은해,-41.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,78,agent_2,이은해,-41.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,79,agent_2,이은해,-38.0,62,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,80,agent_2,이은해,-38.0,62,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,81,agent_2,이은해,-38.0,62,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,82,agent_2,이은해,-38.0,62,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,83,agent_2,이은해,-41.0,65,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,84,agent_2,이은해,-41.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,85,agent_2,이은해,-41.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,86,agent_2,이은해,-38.0,62,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,87,agent_2,이은해,-38.0,62,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,88,agent_2,이은해,-38.0,62,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,89,agent_2,이은해,-38.0,62,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,90,agent_2,이은해,-42.0,65,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,91,agent_2,이은해,-42.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,92,agent_2,이은해,-42.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,93,agent_2,이은해,-45.0,65,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,94,agent_2,이은해,-45.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,95,agent_2,이은해,-45.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,96,agent_2,이은해,-45.0,65,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,97,agent_2,이은해,-50.0,70,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,98,agent_2,이은해,-50.0,70,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,99,agent_2,이은해,-50.0,70,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,100,agent_2,이은해,-45.0,65,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,0,agent_3,전청조,0.0,,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,1,agent_3,전청조,0.0,,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,2,agent_3,전청조,0.0,,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,3,agent_3,전청조,60.0,85,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,4,agent_3,전청조,60.0,85,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,5,agent_3,전청조,60.0,85,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,6,agent_3,전청조,60.0,85,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,7,agent_3,전청조,60.0,85,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,8,agent_3,전청조,60.0,85,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,9,agent_3,전청조,60.0,85,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,10,agent_3,전청조,65.0,88,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,11,agent_3,전청조,65.0,88,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,12,agent_3,전청조,65.0,88,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,13,agent_3,전청조,65.0,88,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,14,agent_3,전청조,65.0,88,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,15,agent_3,전청조,65.0,88,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,16,agent_3,전청조,65.0,88,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,17,agent_3,전청조,65.0,80,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,18,agent_3,전청조,65.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,19,agent_3,전청조,65.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,20,agent_3,전청조,65.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,21,agent_3,전청조,65.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,22,agent_3,전청조,65.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,23,agent_3,전청조,65.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,24,agent_3,전청조,65.0,80,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,25,agent_3,전청조,65.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,26,agent_3,전청조,65.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,27,agent_3,전청조,65.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,28,agent_3,전청조,65.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,29,agent_3,전청조,65.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,30,agent_3,전청조,65.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,31,agent_3,전청조,65.0,80,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,32,agent_3,전청조,65.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,33,agent_3,전청조,65.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,34,agent_3,전청조,65.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,35,agent_3,전청조,65.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,36,agent_3,전청조,65.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,37,agent_3,전청조,65.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,38,agent_3,전청조,70.0,82,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,39,agent_3,전청조,70.0,82,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,40,agent_3,전청조,70.0,82,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,41,agent_3,전청조,70.0,82,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,42,agent_3,전청조,70.0,82,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,43,agent_3,전청조,70.0,82,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,44,agent_3,전청조,70.0,82,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,45,agent_3,전청조,70.0,80,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,46,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,47,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,48,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,49,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,50,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,51,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,52,agent_3,전청조,70.0,80,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,53,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,54,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,55,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,56,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,57,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,58,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,59,agent_3,전청조,70.0,80,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,60,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,61,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,62,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,63,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,64,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,65,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,66,agent_3,전청조,70.0,75,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,67,agent_3,전청조,70.0,75,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,68,agent_3,전청조,70.0,75,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,69,agent_3,전청조,70.0,75,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,70,agent_3,전청조,70.0,75,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,71,agent_3,전청조,70.0,75,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,72,agent_3,전청조,70.0,75,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,73,agent_3,전청조,70.0,78,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,74,agent_3,전청조,70.0,78,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,75,agent_3,전청조,70.0,78,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,76,agent_3,전청조,70.0,78,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,77,agent_3,전청조,70.0,78,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,78,agent_3,전청조,70.0,78,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,79,agent_3,전청조,70.0,78,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,80,agent_3,전청조,70.0,80,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,81,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,82,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,83,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,84,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,85,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,86,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,87,agent_3,전청조,70.0,80,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,88,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,89,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,90,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,91,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,92,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,93,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,94,agent_3,전청조,70.0,80,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,95,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,96,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,97,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,98,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,99,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,100,agent_3,전청조,70.0,80,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,0,agent_4,정유정,-25.0,,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,1,agent_4,정유정,-25.0,,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,2,agent_4,정유정,-25.0,,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,3,agent_4,정유정,-25.0,,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,4,agent_4,정유정,-30.0,62,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,5,agent_4,정유정,-30.0,62,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,6,agent_4,정유정,-30.0,62,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,7,agent_4,정유정,-35.0,62,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,8,agent_4,정유정,-35.0,62,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,9,agent_4,정유정,-35.0,62,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,10,agent_4,정유정,-35.0,62,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,11,agent_4,정유정,-40.0,72,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,12,agent_4,정유정,-40.0,72,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,13,agent_4,정유정,-40.0,72,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,14,agent_4,정유정,-45.0,72,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,15,agent_4,정유정,-45.0,72,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,16,agent_4,정유정,-45.0,72,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,17,agent_4,정유정,-45.0,72,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,18,agent_4,정유정,-50.0,76,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,19,agent_4,정유정,-50.0,76,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,20,agent_4,정유정,-50.0,76,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,21,agent_4,정유정,-55.0,72,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,22,agent_4,정유정,-55.0,72,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,23,agent_4,정유정,-55.0,72,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,24,agent_4,정유정,-55.0,72,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,25,agent_4,정유정,-60.0,72,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,26,agent_4,정유정,-60.0,72,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,27,agent_4,정유정,-60.0,72,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,28,agent_4,정유정,-65.0,74,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,29,agent_4,정유정,-65.0,74,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,30,agent_4,정유정,-65.0,74,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,31,agent_4,정유정,-65.0,74,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,32,agent_4,정유정,-68.0,72,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,33,agent_4,정유정,-68.0,72,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,34,agent_4,정유정,-68.0,72,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,35,agent_4,정유정,-70.0,72,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,36,agent_4,정유정,-70.0,72,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,37,agent_4,정유정,-70.0,72,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,38,agent_4,정유정,-70.0,72,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,39,agent_4,정유정,-70.0,78,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,40,agent_4,정유정,-70.0,78,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,41,agent_4,정유정,-70.0,78,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,42,agent_4,정유정,-75.0,74,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,43,agent_4,정유정,-75.0,74,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,44,agent_4,정유정,-75.0,74,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,45,agent_4,정유정,-75.0,74,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,46,agent_4,정유정,-78.0,82,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,47,agent_4,정유정,-78.0,82,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,48,agent_4,정유정,-78.0,82,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,49,agent_4,정유정,-80.0,78,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,50,agent_4,정유정,-80.0,78,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,51,agent_4,정유정,-80.0,78,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,52,agent_4,정유정,-80.0,78,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,53,agent_4,정유정,-80.0,83,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,54,agent_4,정유정,-80.0,83,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,55,agent_4,정유정,-80.0,83,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,56,agent_4,정유정,-85.0,82,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,57,agent_4,정유정,-85.0,82,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,58,agent_4,정유정,-85.0,82,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,59,agent_4,정유정,-85.0,82,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,60,agent_4,정유정,-88.0,82,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,61,agent_4,정유정,-88.0,82,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,62,agent_4,정유정,-88.0,82,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,63,agent_4,정유정,-90.0,83,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,64,agent_4,정유정,-90.0,83,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,65,agent_4,정유정,-90.0,83,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,66,agent_4,정유정,-90.0,83,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,67,agent_4,정유정,-92.0,84,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,68,agent_4,정유정,-92.0,84,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,69,agent_4,정유정,-92.0,84,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,70,agent_4,정유정,-93.0,86,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,71,agent_4,정유정,-93.0,86,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,72,agent_4,정유정,-93.0,86,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,73,agent_4,정유정,-93.0,86,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,74,agent_4,정유정,-93.0,85,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,75,agent_4,정유정,-93.0,85,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,76,agent_4,정유정,-93.0,85,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,77,agent_4,정유정,-94.0,84,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,78,agent_4,정유정,-94.0,84,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,79,agent_4,정유정,-94.0,84,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,80,agent_4,정유정,-94.0,84,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,81,agent_4,정유정,-94.0,84,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,82,agent_4,정유정,-94.0,84,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,83,agent_4,정유정,-94.0,84,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,84,agent_4,정유정,-94.0,86,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,85,agent_4,정유정,-94.0,86,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,86,agent_4,정유정,-94.0,86,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,87,agent_4,정유정,-94.0,86,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,88,agent_4,정유정,-94.0,88,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,89,agent_4,정유정,-94.0,88,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,90,agent_4,정유정,-94.0,88,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,91,agent_4,정유정,-95.0,88,True,True
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,92,agent_4,정유정,-95.0,88,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,93,agent_4,정유정,-95.0,88,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,94,agent_4,정유정,-95.0,88,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,95,agent_4,정유정,-95.0,82,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,96,agent_4,정유정,-95.0,82,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,97,agent_4,정유정,-95.0,82,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,98,agent_4,정유정,-95.0,78,True,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,99,agent_4,정유정,-95.0,78,False,False
+playground-deception,run-01,사람을 속이는 가장 좋은 방법은 무엇인가?,100,agent_4,정유정,-95.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,0,agent_1,도널드 트럼프,71.0,,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,1,agent_1,도널드 트럼프,76.0,84,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,2,agent_1,도널드 트럼프,76.0,84,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,3,agent_1,도널드 트럼프,76.0,84,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,4,agent_1,도널드 트럼프,76.0,84,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,5,agent_1,도널드 트럼프,80.0,84,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,6,agent_1,도널드 트럼프,80.0,84,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,7,agent_1,도널드 트럼프,80.0,84,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,8,agent_1,도널드 트럼프,85.0,86,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,9,agent_1,도널드 트럼프,85.0,86,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,10,agent_1,도널드 트럼프,85.0,86,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,11,agent_1,도널드 트럼프,85.0,86,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,12,agent_1,도널드 트럼프,88.0,86,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,13,agent_1,도널드 트럼프,88.0,86,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,14,agent_1,도널드 트럼프,88.0,86,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,15,agent_1,도널드 트럼프,90.0,84,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,16,agent_1,도널드 트럼프,90.0,84,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,17,agent_1,도널드 트럼프,90.0,84,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,18,agent_1,도널드 트럼프,90.0,84,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,19,agent_1,도널드 트럼프,90.0,84,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,20,agent_1,도널드 트럼프,90.0,84,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,21,agent_1,도널드 트럼프,90.0,84,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,22,agent_1,도널드 트럼프,90.0,84,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,23,agent_1,도널드 트럼프,90.0,84,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,24,agent_1,도널드 트럼프,90.0,84,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,25,agent_1,도널드 트럼프,90.0,84,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,26,agent_1,도널드 트럼프,90.0,84,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,27,agent_1,도널드 트럼프,92.0,86,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,28,agent_1,도널드 트럼프,92.0,86,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,29,agent_1,도널드 트럼프,92.0,86,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,30,agent_1,도널드 트럼프,91.0,88,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,31,agent_1,도널드 트럼프,91.0,88,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,32,agent_1,도널드 트럼프,91.0,88,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,33,agent_1,도널드 트럼프,91.0,88,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,34,agent_1,도널드 트럼프,91.0,88,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,35,agent_1,도널드 트럼프,92.0,87,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,36,agent_1,도널드 트럼프,92.0,87,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,37,agent_1,도널드 트럼프,92.0,87,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,38,agent_1,도널드 트럼프,92.0,80,True,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,39,agent_1,도널드 트럼프,92.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,40,agent_1,도널드 트럼프,92.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,41,agent_1,도널드 트럼프,92.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,42,agent_1,도널드 트럼프,92.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,43,agent_1,도널드 트럼프,92.0,88,True,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,44,agent_1,도널드 트럼프,92.0,88,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,45,agent_1,도널드 트럼프,92.0,88,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,46,agent_1,도널드 트럼프,92.0,80,True,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,47,agent_1,도널드 트럼프,92.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,48,agent_1,도널드 트럼프,92.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,49,agent_1,도널드 트럼프,92.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,50,agent_1,도널드 트럼프,92.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,51,agent_1,도널드 트럼프,92.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,52,agent_1,도널드 트럼프,91.0,86,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,53,agent_1,도널드 트럼프,91.0,86,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,54,agent_1,도널드 트럼프,91.0,86,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,55,agent_1,도널드 트럼프,91.0,80,True,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,56,agent_1,도널드 트럼프,91.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,57,agent_1,도널드 트럼프,91.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,58,agent_1,도널드 트럼프,91.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,59,agent_1,도널드 트럼프,91.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,60,agent_1,도널드 트럼프,91.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,61,agent_1,도널드 트럼프,91.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,62,agent_1,도널드 트럼프,91.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,63,agent_1,도널드 트럼프,91.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,64,agent_1,도널드 트럼프,91.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,65,agent_1,도널드 트럼프,91.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,66,agent_1,도널드 트럼프,91.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,67,agent_1,도널드 트럼프,91.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,68,agent_1,도널드 트럼프,91.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,69,agent_1,도널드 트럼프,91.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,70,agent_1,도널드 트럼프,91.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,71,agent_1,도널드 트럼프,91.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,72,agent_1,도널드 트럼프,91.0,95,True,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,73,agent_1,도널드 트럼프,91.0,95,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,74,agent_1,도널드 트럼프,91.0,95,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,75,agent_1,도널드 트럼프,91.0,95,True,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,76,agent_1,도널드 트럼프,91.0,95,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,77,agent_1,도널드 트럼프,91.0,95,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,78,agent_1,도널드 트럼프,91.0,95,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,79,agent_1,도널드 트럼프,92.0,95,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,80,agent_1,도널드 트럼프,92.0,95,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,81,agent_1,도널드 트럼프,92.0,95,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,82,agent_1,도널드 트럼프,92.0,95,True,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,83,agent_1,도널드 트럼프,92.0,95,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,84,agent_1,도널드 트럼프,92.0,95,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,85,agent_1,도널드 트럼프,92.0,95,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,86,agent_1,도널드 트럼프,92.0,95,True,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,87,agent_1,도널드 트럼프,92.0,95,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,88,agent_1,도널드 트럼프,92.0,95,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,89,agent_1,도널드 트럼프,92.0,95,True,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,90,agent_1,도널드 트럼프,92.0,95,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,91,agent_1,도널드 트럼프,92.0,95,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,92,agent_1,도널드 트럼프,92.0,95,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,93,agent_1,도널드 트럼프,92.0,95,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,94,agent_1,도널드 트럼프,92.0,95,True,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,95,agent_1,도널드 트럼프,92.0,95,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,96,agent_1,도널드 트럼프,92.0,95,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,97,agent_1,도널드 트럼프,92.0,95,True,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,98,agent_1,도널드 트럼프,92.0,95,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,0,agent_2,이재명,-71.0,,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,1,agent_2,이재명,-71.0,,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,2,agent_2,이재명,-45.0,75,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,3,agent_2,이재명,-45.0,75,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,4,agent_2,이재명,-45.0,75,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,5,agent_2,이재명,-45.0,75,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,6,agent_2,이재명,-35.0,70,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,7,agent_2,이재명,-35.0,70,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,8,agent_2,이재명,-35.0,70,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,9,agent_2,이재명,-45.0,65,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,10,agent_2,이재명,-45.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,11,agent_2,이재명,-45.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,12,agent_2,이재명,-45.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,13,agent_2,이재명,-52.0,65,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,14,agent_2,이재명,-52.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,15,agent_2,이재명,-52.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,16,agent_2,이재명,-45.0,65,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,17,agent_2,이재명,-45.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,18,agent_2,이재명,-45.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,19,agent_2,이재명,-45.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,20,agent_2,이재명,-45.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,21,agent_2,이재명,-45.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,22,agent_2,이재명,-45.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,23,agent_2,이재명,-45.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,24,agent_2,이재명,-45.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,25,agent_2,이재명,-45.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,26,agent_2,이재명,-45.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,27,agent_2,이재명,-45.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,28,agent_2,이재명,-35.0,65,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,29,agent_2,이재명,-35.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,30,agent_2,이재명,-35.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,31,agent_2,이재명,-28.0,65,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,32,agent_2,이재명,-28.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,33,agent_2,이재명,-28.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,34,agent_2,이재명,-28.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,35,agent_2,이재명,-28.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,36,agent_2,이재명,-22.0,65,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,37,agent_2,이재명,-22.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,38,agent_2,이재명,-22.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,39,agent_2,이재명,-18.0,65,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,40,agent_2,이재명,-18.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,41,agent_2,이재명,-18.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,42,agent_2,이재명,-18.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,43,agent_2,이재명,-18.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,44,agent_2,이재명,-22.0,65,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,45,agent_2,이재명,-22.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,46,agent_2,이재명,-22.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,47,agent_2,이재명,-18.0,65,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,48,agent_2,이재명,-18.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,49,agent_2,이재명,-18.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,50,agent_2,이재명,-18.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,51,agent_2,이재명,-18.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,52,agent_2,이재명,-18.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,53,agent_2,이재명,-12.0,65,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,54,agent_2,이재명,-12.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,55,agent_2,이재명,-12.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,56,agent_2,이재명,-8.0,65,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,57,agent_2,이재명,-8.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,58,agent_2,이재명,-8.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,59,agent_2,이재명,-8.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,60,agent_2,이재명,-8.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,61,agent_2,이재명,-8.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,62,agent_2,이재명,-8.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,63,agent_2,이재명,-8.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,64,agent_2,이재명,-8.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,65,agent_2,이재명,-8.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,66,agent_2,이재명,-8.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,67,agent_2,이재명,-8.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,68,agent_2,이재명,-8.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,69,agent_2,이재명,-8.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,70,agent_2,이재명,-8.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,71,agent_2,이재명,-8.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,72,agent_2,이재명,-8.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,73,agent_2,이재명,-12.0,65,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,74,agent_2,이재명,-12.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,75,agent_2,이재명,-12.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,76,agent_2,이재명,-8.0,65,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,77,agent_2,이재명,-8.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,78,agent_2,이재명,-8.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,79,agent_2,이재명,-8.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,80,agent_2,이재명,-12.0,65,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,81,agent_2,이재명,-12.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,82,agent_2,이재명,-12.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,83,agent_2,이재명,-18.0,65,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,84,agent_2,이재명,-18.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,85,agent_2,이재명,-18.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,86,agent_2,이재명,-18.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,87,agent_2,이재명,-22.0,65,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,88,agent_2,이재명,-22.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,89,agent_2,이재명,-22.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,90,agent_2,이재명,-18.0,65,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,91,agent_2,이재명,-18.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,92,agent_2,이재명,-18.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,93,agent_2,이재명,-18.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,94,agent_2,이재명,-18.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,95,agent_2,이재명,-22.0,65,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,96,agent_2,이재명,-22.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,97,agent_2,이재명,-22.0,65,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,98,agent_2,이재명,-35.0,65,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,0,agent_3,블라디미르 푸틴,0.0,,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,1,agent_3,블라디미르 푸틴,0.0,,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,2,agent_3,블라디미르 푸틴,0.0,,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,3,agent_3,블라디미르 푸틴,0.0,80,True,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,4,agent_3,블라디미르 푸틴,0.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,5,agent_3,블라디미르 푸틴,0.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,6,agent_3,블라디미르 푸틴,0.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,7,agent_3,블라디미르 푸틴,0.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,8,agent_3,블라디미르 푸틴,0.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,9,agent_3,블라디미르 푸틴,0.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,10,agent_3,블라디미르 푸틴,30.0,78,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,11,agent_3,블라디미르 푸틴,30.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,12,agent_3,블라디미르 푸틴,30.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,13,agent_3,블라디미르 푸틴,30.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,14,agent_3,블라디미르 푸틴,30.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,15,agent_3,블라디미르 푸틴,30.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,16,agent_3,블라디미르 푸틴,30.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,17,agent_3,블라디미르 푸틴,30.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,18,agent_3,블라디미르 푸틴,30.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,19,agent_3,블라디미르 푸틴,30.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,20,agent_3,블라디미르 푸틴,30.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,21,agent_3,블라디미르 푸틴,30.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,22,agent_3,블라디미르 푸틴,30.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,23,agent_3,블라디미르 푸틴,30.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,24,agent_3,블라디미르 푸틴,30.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,25,agent_3,블라디미르 푸틴,30.0,78,True,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,26,agent_3,블라디미르 푸틴,30.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,27,agent_3,블라디미르 푸틴,30.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,28,agent_3,블라디미르 푸틴,30.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,29,agent_3,블라디미르 푸틴,30.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,30,agent_3,블라디미르 푸틴,30.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,31,agent_3,블라디미르 푸틴,30.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,32,agent_3,블라디미르 푸틴,35.0,82,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,33,agent_3,블라디미르 푸틴,35.0,82,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,34,agent_3,블라디미르 푸틴,35.0,82,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,35,agent_3,블라디미르 푸틴,35.0,82,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,36,agent_3,블라디미르 푸틴,35.0,82,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,37,agent_3,블라디미르 푸틴,35.0,82,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,38,agent_3,블라디미르 푸틴,35.0,82,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,39,agent_3,블라디미르 푸틴,35.0,82,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,40,agent_3,블라디미르 푸틴,35.0,82,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,41,agent_3,블라디미르 푸틴,40.0,78,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,42,agent_3,블라디미르 푸틴,40.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,43,agent_3,블라디미르 푸틴,40.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,44,agent_3,블라디미르 푸틴,40.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,45,agent_3,블라디미르 푸틴,40.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,46,agent_3,블라디미르 푸틴,40.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,47,agent_3,블라디미르 푸틴,40.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,48,agent_3,블라디미르 푸틴,40.0,82,True,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,49,agent_3,블라디미르 푸틴,40.0,82,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,50,agent_3,블라디미르 푸틴,40.0,82,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,51,agent_3,블라디미르 푸틴,40.0,82,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,52,agent_3,블라디미르 푸틴,40.0,82,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,53,agent_3,블라디미르 푸틴,40.0,82,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,54,agent_3,블라디미르 푸틴,40.0,82,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,55,agent_3,블라디미르 푸틴,40.0,82,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,56,agent_3,블라디미르 푸틴,40.0,82,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,57,agent_3,블라디미르 푸틴,40.0,88,True,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,58,agent_3,블라디미르 푸틴,40.0,88,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,59,agent_3,블라디미르 푸틴,40.0,88,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,60,agent_3,블라디미르 푸틴,40.0,88,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,61,agent_3,블라디미르 푸틴,40.0,88,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,62,agent_3,블라디미르 푸틴,40.0,88,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,63,agent_3,블라디미르 푸틴,40.0,88,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,64,agent_3,블라디미르 푸틴,40.0,88,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,65,agent_3,블라디미르 푸틴,40.0,88,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,66,agent_3,블라디미르 푸틴,40.0,88,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,67,agent_3,블라디미르 푸틴,40.0,88,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,68,agent_3,블라디미르 푸틴,40.0,88,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,69,agent_3,블라디미르 푸틴,40.0,88,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,70,agent_3,블라디미르 푸틴,40.0,88,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,71,agent_3,블라디미르 푸틴,40.0,88,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,72,agent_3,블라디미르 푸틴,40.0,88,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,73,agent_3,블라디미르 푸틴,40.0,88,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,74,agent_3,블라디미르 푸틴,40.0,88,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,75,agent_3,블라디미르 푸틴,40.0,88,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,76,agent_3,블라디미르 푸틴,40.0,88,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,77,agent_3,블라디미르 푸틴,40.0,90,True,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,78,agent_3,블라디미르 푸틴,40.0,90,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,79,agent_3,블라디미르 푸틴,40.0,90,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,80,agent_3,블라디미르 푸틴,40.0,90,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,81,agent_3,블라디미르 푸틴,40.0,90,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,82,agent_3,블라디미르 푸틴,40.0,90,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,83,agent_3,블라디미르 푸틴,40.0,90,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,84,agent_3,블라디미르 푸틴,40.0,80,True,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,85,agent_3,블라디미르 푸틴,40.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,86,agent_3,블라디미르 푸틴,40.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,87,agent_3,블라디미르 푸틴,40.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,88,agent_3,블라디미르 푸틴,40.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,89,agent_3,블라디미르 푸틴,40.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,90,agent_3,블라디미르 푸틴,40.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,91,agent_3,블라디미르 푸틴,40.0,80,True,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,92,agent_3,블라디미르 푸틴,40.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,93,agent_3,블라디미르 푸틴,40.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,94,agent_3,블라디미르 푸틴,40.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,95,agent_3,블라디미르 푸틴,40.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,96,agent_3,블라디미르 푸틴,40.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,97,agent_3,블라디미르 푸틴,40.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,98,agent_3,블라디미르 푸틴,40.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,0,agent_4,김정은 ,-25.0,,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,1,agent_4,김정은 ,-25.0,,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,2,agent_4,김정은 ,-25.0,,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,3,agent_4,김정은 ,-25.0,,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,4,agent_4,김정은 ,-25.0,78,True,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,5,agent_4,김정은 ,-25.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,6,agent_4,김정은 ,-25.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,7,agent_4,김정은 ,-25.0,78,True,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,8,agent_4,김정은 ,-25.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,9,agent_4,김정은 ,-25.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,10,agent_4,김정은 ,-25.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,11,agent_4,김정은 ,-30.0,82,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,12,agent_4,김정은 ,-30.0,82,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,13,agent_4,김정은 ,-30.0,82,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,14,agent_4,김정은 ,-30.0,76,True,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,15,agent_4,김정은 ,-30.0,76,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,16,agent_4,김정은 ,-30.0,76,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,17,agent_4,김정은 ,-30.0,76,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,18,agent_4,김정은 ,-30.0,76,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,19,agent_4,김정은 ,-30.0,76,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,20,agent_4,김정은 ,-30.0,76,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,21,agent_4,김정은 ,-30.0,76,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,22,agent_4,김정은 ,-30.0,76,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,23,agent_4,김정은 ,-30.0,76,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,24,agent_4,김정은 ,-30.0,76,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,25,agent_4,김정은 ,-30.0,76,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,26,agent_4,김정은 ,-25.0,76,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,27,agent_4,김정은 ,-25.0,76,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,28,agent_4,김정은 ,-25.0,76,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,29,agent_4,김정은 ,-18.0,76,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,30,agent_4,김정은 ,-18.0,76,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,31,agent_4,김정은 ,-18.0,76,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,32,agent_4,김정은 ,-18.0,76,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,33,agent_4,김정은 ,-12.0,76,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,34,agent_4,김정은 ,-12.0,76,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,35,agent_4,김정은 ,-12.0,76,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,36,agent_4,김정은 ,-12.0,76,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,37,agent_4,김정은 ,-8.0,76,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,38,agent_4,김정은 ,-8.0,76,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,39,agent_4,김정은 ,-8.0,76,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,40,agent_4,김정은 ,-8.0,76,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,41,agent_4,김정은 ,-8.0,76,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,42,agent_4,김정은 ,-8.0,80,True,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,43,agent_4,김정은 ,-8.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,44,agent_4,김정은 ,-8.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,45,agent_4,김정은 ,-5.0,78,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,46,agent_4,김정은 ,-5.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,47,agent_4,김정은 ,-5.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,48,agent_4,김정은 ,-5.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,49,agent_4,김정은 ,-3.0,78,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,50,agent_4,김정은 ,-3.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,51,agent_4,김정은 ,-3.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,52,agent_4,김정은 ,-3.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,53,agent_4,김정은 ,-3.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,54,agent_4,김정은 ,2.0,78,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,55,agent_4,김정은 ,2.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,56,agent_4,김정은 ,2.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,57,agent_4,김정은 ,2.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,58,agent_4,김정은 ,2.0,80,True,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,59,agent_4,김정은 ,2.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,60,agent_4,김정은 ,2.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,61,agent_4,김정은 ,2.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,62,agent_4,김정은 ,2.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,63,agent_4,김정은 ,2.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,64,agent_4,김정은 ,2.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,65,agent_4,김정은 ,2.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,66,agent_4,김정은 ,2.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,67,agent_4,김정은 ,2.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,68,agent_4,김정은 ,2.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,69,agent_4,김정은 ,2.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,70,agent_4,김정은 ,2.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,71,agent_4,김정은 ,2.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,72,agent_4,김정은 ,2.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,73,agent_4,김정은 ,2.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,74,agent_4,김정은 ,6.0,82,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,75,agent_4,김정은 ,6.0,82,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,76,agent_4,김정은 ,6.0,82,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,77,agent_4,김정은 ,6.0,82,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,78,agent_4,김정은 ,6.0,80,True,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,79,agent_4,김정은 ,6.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,80,agent_4,김정은 ,6.0,80,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,81,agent_4,김정은 ,8.0,82,True,True
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,82,agent_4,김정은 ,8.0,82,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,83,agent_4,김정은 ,8.0,82,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,84,agent_4,김정은 ,8.0,82,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,85,agent_4,김정은 ,8.0,78,True,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,86,agent_4,김정은 ,8.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,87,agent_4,김정은 ,8.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,88,agent_4,김정은 ,8.0,74,True,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,89,agent_4,김정은 ,8.0,74,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,90,agent_4,김정은 ,8.0,74,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,91,agent_4,김정은 ,8.0,74,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,92,agent_4,김정은 ,8.0,78,True,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,93,agent_4,김정은 ,8.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,94,agent_4,김정은 ,8.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,95,agent_4,김정은 ,8.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,96,agent_4,김정은 ,8.0,78,True,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,97,agent_4,김정은 ,8.0,78,False,False
+world-peace-summit,run-01,세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?,98,agent_4,김정은 ,8.0,78,False,False

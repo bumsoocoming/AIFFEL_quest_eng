@@ -1,0 +1,2690 @@
+{
+  "generatedAt": "2026-08-28T08:16:13.842Z",
+  "topic": "오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",
+  "configuration": {
+    "identicalAcrossRuns": true,
+    "fingerprint": "c5779d6ab4a80049ca234ed8bfc8bd631507b93dc79a19c40782cdadb4299f93",
+    "mode": "spicy_roast",
+    "goal": "pro_con",
+    "maxTurns": 30,
+    "agents": [
+      {
+        "id": "agent_gen_1",
+        "name": "김민석",
+        "job": "VAR·스포츠 데이터 엔지니어",
+        "persona": "VAR과 AI 보조판정 확대에 강하게 찬성한다. 한 번의 오심이 선수의 경력과 구단의 시즌을 박살낼 수 있는데 ‘축구의 맛’이라는 말로 오류를 방치하는 건 무책임하다고 본다. 자동 오프사이드, 다중 카메라, 판정 로그 공개와 시간 제한을 결합하면 흐름 손실도 줄일 수 있다고 주장한다. 상대가 감성론으로 피하면 구체적인 오심 피해와 개선안을 집요하게 요구하며 3문장 안에서 직설적으로 말한다.",
+        "initialStance": 100,
+        "model": "openai/gpt-5.5",
+        "chatCharacterStyle": "fiery"
+      },
+      {
+        "id": "agent_gen_2",
+        "name": "윤서아",
+        "job": "전직 국제심판·심판 교육관",
+        "persona": "AI는 최종 심판을 대체할 수 없지만 중대한 오심을 발견하는 보조 수단으로 더 자주 개입해야 한다고 본다. 현장 경험을 근거로 인간의 시야 한계와 순간 판단 오류를 인정하며, 명백한 오류·중대한 누락에 한정한 신속 개입과 심판의 최종 설명 책임을 주장한다. ‘심판 권위’를 오판을 숨기는 방패로 쓰는 주장에는 강하게 반발하고 짧고 단호하게 말한다.",
+        "initialStance": 100,
+        "model": "x-ai/grok-4.20",
+        "chatCharacterStyle": "deadpan"
+      },
+      {
+        "id": "agent_gen_3",
+        "name": "박도현",
+        "job": "프로축구 선수 출신 해설위원",
+        "persona": "VAR과 AI의 잦은 개입에 강하게 반대한다. 골을 넣고도 몇 분씩 환호하지 못하고 모든 접촉을 프레임 단위로 재판하면 축구가 살아 있는 경기가 아니라 멈춰 세운 영상 판독 시험이 된다고 본다. 명백한 장면만 최소 개입하고 애매한 상황은 현장 주심 판단을 존중해야 한다고 주장한다. 기술 만능론이 나오면 ‘직접 90분 뛰어봤냐’고 몰아붙이며 거칠고 짧게 말한다.",
+        "initialStance": -100,
+        "model": "anthropic/claude-sonnet-5",
+        "chatCharacterStyle": "contrarian"
+      },
+      {
+        "id": "agent_gen_4",
+        "name": "한지우",
+        "job": "스포츠법·AI 책임 연구자",
+        "persona": "VAR과 AI 개입 확대에 반대한다. AI가 객관적이라는 환상을 경계하며 학습 데이터, 카메라 각도, 임계값, 운영 업체의 알고리즘과 이의 제기 절차가 공개되지 않으면 오심을 없애는 것이 아니라 책임자를 숨길 뿐이라고 본다. 판정 자동화가 심판·리그·기술회사의 책임 떠넘기기가 되는 순간을 집요하게 공격하고, 정확도 수치를 근거 없이 말하면 즉시 따져 묻는다. 냉소적이고 날카롭게 3문장 이내로 말한다.",
+        "initialStance": -100,
+        "model": "google/gemini-3.5-flash",
+        "chatCharacterStyle": "blunt_slang"
+      }
+    ],
+    "moderator": {
+      "name": "서진",
+      "persona": "국제축구 규정과 VAR 논쟁을 잘 아는 시사 토론 진행자. 양측의 약한 논리를 즉시 파고들고 ‘정확성 대 흐름’이라는 구호에서 도망치지 못하게 개입 기준, 판정 시간, 책임 소재와 실제 사례를 요구한다. 감정적인 반박과 거친 속어는 허용하지만 선수·심판 개인에 대한 혐오, 협박, 근거 없는 조작 단정은 차단한다.",
+      "model": "anthropic/claude-sonnet-5",
+      "toneStyle": "provocateur"
+    }
+  },
+  "totals": {
+    "runs": 5,
+    "total_turns": 150,
+    "panel_turns": 89,
+    "moderator_turns": 61,
+    "rebuttals": 76,
+    "rebuttal_rate": 85.4,
+    "concessions": 1,
+    "evidence_turns": 55,
+    "evidence_rate": 61.8,
+    "heated_turns": 11,
+    "heated_rate": 12.4,
+    "profanity_turns": 1,
+    "profanity_rate": 1.1,
+    "mean_confidence": 85.7,
+    "mean_group_final": -1.45,
+    "mean_absolute_final_stance": 95.55,
+    "consensus_reached_runs": 0,
+    "mean_final_agreement_ratio": 0.5,
+    "stance_shift_events": 8,
+    "total_tokens": 22792,
+    "mean_speaking_hhi": 0.288,
+    "mean_effective_speakers": 3.5
+  },
+  "agentSummary": [
+    {
+      "agent": "김민석",
+      "job": "VAR·스포츠 데이터 엔지니어",
+      "model": "openai/gpt-5.5",
+      "initial_stance": 100,
+      "mean_final": 100,
+      "sample_sd": 0,
+      "min_final": 100,
+      "max_final": 100,
+      "mean_delta": 0,
+      "total_turns": 27,
+      "turn_share": 30.3,
+      "rebuttal_rate": 85.2,
+      "evidence_rate": 66.7,
+      "mean_confidence": 88.9,
+      "heated_turns": 4,
+      "profanity_turns": 0,
+      "mean_tokens": 313.2,
+      "mean_latency_ms": 14001
+    },
+    {
+      "agent": "윤서아",
+      "job": "전직 국제심판·심판 교육관",
+      "model": "x-ai/grok-4.20",
+      "initial_stance": 100,
+      "mean_final": 88.2,
+      "sample_sd": 11.14,
+      "min_final": 78,
+      "max_final": 100,
+      "mean_delta": -11.8,
+      "total_turns": 16,
+      "turn_share": 18,
+      "rebuttal_rate": 68.8,
+      "evidence_rate": 93.8,
+      "mean_confidence": 73.2,
+      "heated_turns": 3,
+      "profanity_turns": 0,
+      "mean_tokens": 240.3,
+      "mean_latency_ms": 56051
+    },
+    {
+      "agent": "박도현",
+      "job": "프로축구 선수 출신 해설위원",
+      "model": "anthropic/claude-sonnet-5",
+      "initial_stance": -100,
+      "mean_final": -94,
+      "sample_sd": 8.22,
+      "min_final": -100,
+      "max_final": -85,
+      "mean_delta": 6,
+      "total_turns": 16,
+      "turn_share": 18,
+      "rebuttal_rate": 81.3,
+      "evidence_rate": 43.8,
+      "mean_confidence": 78.1,
+      "heated_turns": 0,
+      "profanity_turns": 0,
+      "mean_tokens": 178.2,
+      "mean_latency_ms": 14924
+    },
+    {
+      "agent": "한지우",
+      "job": "스포츠법·AI 책임 연구자",
+      "model": "google/gemini-3.5-flash",
+      "initial_stance": -100,
+      "mean_final": -100,
+      "sample_sd": 0,
+      "min_final": -100,
+      "max_final": -100,
+      "mean_delta": 0,
+      "total_turns": 30,
+      "turn_share": 33.7,
+      "rebuttal_rate": 96.7,
+      "evidence_rate": 50,
+      "mean_confidence": 94.7,
+      "heated_turns": 4,
+      "profanity_turns": 1,
+      "mean_tokens": 253.6,
+      "mean_latency_ms": 5723
+    }
+  ],
+  "runMetrics": [
+    {
+      "run": 1,
+      "total_turns": 30,
+      "panel_turns": 19,
+      "moderator_turns": 11,
+      "extracted_claims": 18,
+      "rebuttals": 14,
+      "rebuttal_rate": 73.7,
+      "concessions": 1,
+      "evidence_turns": 10,
+      "evidence_rate": 52.6,
+      "heated_turns": 2,
+      "heated_rate": 10.5,
+      "profanity_turns": 0,
+      "profanity_rate": 0,
+      "mean_confidence": 84.9,
+      "token_total": 4930,
+      "mean_tokens": 259.5,
+      "mean_latency_ms": 15669,
+      "final_group_mean": 3.75,
+      "final_mean_absolute_stance": 96.25,
+      "final_stance_spread": 200,
+      "stance_shift_events": 1,
+      "consensus_reached": false,
+      "final_agreement_ratio": 0.5,
+      "speaking_hhi": 0.269,
+      "effective_speakers": 3.72,
+      "max_speaker_share": 31.6
+    },
+    {
+      "run": 2,
+      "total_turns": 30,
+      "panel_turns": 18,
+      "moderator_turns": 12,
+      "extracted_claims": 20,
+      "rebuttals": 15,
+      "rebuttal_rate": 83.3,
+      "concessions": 0,
+      "evidence_turns": 11,
+      "evidence_rate": 61.1,
+      "heated_turns": 6,
+      "heated_rate": 33.3,
+      "profanity_turns": 1,
+      "profanity_rate": 5.6,
+      "mean_confidence": 85.5,
+      "token_total": 4789,
+      "mean_tokens": 266.1,
+      "mean_latency_ms": 41868,
+      "final_group_mean": -5.5,
+      "final_mean_absolute_stance": 94.5,
+      "final_stance_spread": 200,
+      "stance_shift_events": 2,
+      "consensus_reached": false,
+      "final_agreement_ratio": 0.5,
+      "speaking_hhi": 0.29,
+      "effective_speakers": 3.45,
+      "max_speaker_share": 38.9
+    },
+    {
+      "run": 3,
+      "total_turns": 30,
+      "panel_turns": 17,
+      "moderator_turns": 13,
+      "extracted_claims": 21,
+      "rebuttals": 16,
+      "rebuttal_rate": 94.1,
+      "concessions": 0,
+      "evidence_turns": 11,
+      "evidence_rate": 64.7,
+      "heated_turns": 0,
+      "heated_rate": 0,
+      "profanity_turns": 0,
+      "profanity_rate": 0,
+      "mean_confidence": 89.1,
+      "token_total": 4481,
+      "mean_tokens": 263.6,
+      "mean_latency_ms": 13427,
+      "final_group_mean": 0,
+      "final_mean_absolute_stance": 100,
+      "final_stance_spread": 200,
+      "stance_shift_events": 0,
+      "consensus_reached": false,
+      "final_agreement_ratio": 0.5,
+      "speaking_hhi": 0.343,
+      "effective_speakers": 2.92,
+      "max_speaker_share": 47.1
+    },
+    {
+      "run": 4,
+      "total_turns": 30,
+      "panel_turns": 17,
+      "moderator_turns": 13,
+      "extracted_claims": 21,
+      "rebuttals": 14,
+      "rebuttal_rate": 82.4,
+      "concessions": 0,
+      "evidence_turns": 10,
+      "evidence_rate": 58.8,
+      "heated_turns": 1,
+      "heated_rate": 5.9,
+      "profanity_turns": 0,
+      "profanity_rate": 0,
+      "mean_confidence": 85.8,
+      "token_total": 4139,
+      "mean_tokens": 243.5,
+      "mean_latency_ms": 13554,
+      "final_group_mean": 0,
+      "final_mean_absolute_stance": 92.5,
+      "final_stance_spread": 200,
+      "stance_shift_events": 2,
+      "consensus_reached": false,
+      "final_agreement_ratio": 0.5,
+      "speaking_hhi": 0.273,
+      "effective_speakers": 3.66,
+      "max_speaker_share": 35.3
+    },
+    {
+      "run": 5,
+      "total_turns": 30,
+      "panel_turns": 18,
+      "moderator_turns": 12,
+      "extracted_claims": 18,
+      "rebuttals": 17,
+      "rebuttal_rate": 94.4,
+      "concessions": 0,
+      "evidence_turns": 13,
+      "evidence_rate": 72.2,
+      "heated_turns": 2,
+      "heated_rate": 11.1,
+      "profanity_turns": 0,
+      "profanity_rate": 0,
+      "mean_confidence": 83.1,
+      "token_total": 4453,
+      "mean_tokens": 247.4,
+      "mean_latency_ms": 16001,
+      "final_group_mean": -5.5,
+      "final_mean_absolute_stance": 94.5,
+      "final_stance_spread": 200,
+      "stance_shift_events": 3,
+      "consensus_reached": false,
+      "final_agreement_ratio": 0.5,
+      "speaking_hhi": 0.265,
+      "effective_speakers": 3.77,
+      "max_speaker_share": 33.3
+    }
+  ],
+  "speakerRunMetrics": [
+    {
+      "run": 1,
+      "agent": "김민석",
+      "job": "VAR·스포츠 데이터 엔지니어",
+      "model": "openai/gpt-5.5",
+      "turns": 6,
+      "rebuttals": 5,
+      "rebuttal_rate": 83.3,
+      "evidence_turns": 4,
+      "evidence_rate": 66.7,
+      "heated_turns": 1,
+      "profanity_turns": 0,
+      "mean_confidence": 89.5,
+      "mean_tokens": 325.2,
+      "mean_latency_ms": 14842
+    },
+    {
+      "run": 1,
+      "agent": "윤서아",
+      "job": "전직 국제심판·심판 교육관",
+      "model": "x-ai/grok-4.20",
+      "turns": 3,
+      "rebuttals": 1,
+      "rebuttal_rate": 33.3,
+      "evidence_turns": 3,
+      "evidence_rate": 100,
+      "heated_turns": 0,
+      "profanity_turns": 0,
+      "mean_confidence": 78.3,
+      "mean_tokens": 319.3,
+      "mean_latency_ms": 30751
+    },
+    {
+      "run": 1,
+      "agent": "박도현",
+      "job": "프로축구 선수 출신 해설위원",
+      "model": "anthropic/claude-sonnet-5",
+      "turns": 6,
+      "rebuttals": 4,
+      "rebuttal_rate": 66.7,
+      "evidence_turns": 2,
+      "evidence_rate": 33.3,
+      "heated_turns": 0,
+      "profanity_turns": 0,
+      "mean_confidence": 76.8,
+      "mean_tokens": 180,
+      "mean_latency_ms": 16023
+    },
+    {
+      "run": 1,
+      "agent": "한지우",
+      "job": "스포츠법·AI 책임 연구자",
+      "model": "google/gemini-3.5-flash",
+      "turns": 4,
+      "rebuttals": 4,
+      "rebuttal_rate": 100,
+      "evidence_turns": 1,
+      "evidence_rate": 25,
+      "heated_turns": 1,
+      "profanity_turns": 0,
+      "mean_confidence": 95,
+      "mean_tokens": 235.3,
+      "mean_latency_ms": 5064
+    },
+    {
+      "run": 2,
+      "agent": "김민석",
+      "job": "VAR·스포츠 데이터 엔지니어",
+      "model": "openai/gpt-5.5",
+      "turns": 5,
+      "rebuttals": 4,
+      "rebuttal_rate": 80,
+      "evidence_turns": 4,
+      "evidence_rate": 80,
+      "heated_turns": 1,
+      "profanity_turns": 0,
+      "mean_confidence": 91,
+      "mean_tokens": 324.6,
+      "mean_latency_ms": 11834
+    },
+    {
+      "run": 2,
+      "agent": "윤서아",
+      "job": "전직 국제심판·심판 교육관",
+      "model": "x-ai/grok-4.20",
+      "turns": 4,
+      "rebuttals": 3,
+      "rebuttal_rate": 75,
+      "evidence_turns": 3,
+      "evidence_rate": 75,
+      "heated_turns": 2,
+      "profanity_turns": 0,
+      "mean_confidence": 67.5,
+      "mean_tokens": 265,
+      "mean_latency_ms": 156736
+    },
+    {
+      "run": 2,
+      "agent": "박도현",
+      "job": "프로축구 선수 출신 해설위원",
+      "model": "anthropic/claude-sonnet-5",
+      "turns": 2,
+      "rebuttals": 2,
+      "rebuttal_rate": 100,
+      "evidence_turns": 1,
+      "evidence_rate": 50,
+      "heated_turns": 0,
+      "profanity_turns": 0,
+      "mean_confidence": 82,
+      "mean_tokens": 199,
+      "mean_latency_ms": 14993
+    },
+    {
+      "run": 2,
+      "agent": "한지우",
+      "job": "스포츠법·AI 책임 연구자",
+      "model": "google/gemini-3.5-flash",
+      "turns": 7,
+      "rebuttals": 6,
+      "rebuttal_rate": 85.7,
+      "evidence_turns": 3,
+      "evidence_rate": 42.9,
+      "heated_turns": 3,
+      "profanity_turns": 1,
+      "mean_confidence": 92.9,
+      "mean_tokens": 244,
+      "mean_latency_ms": 5361
+    },
+    {
+      "run": 3,
+      "agent": "김민석",
+      "job": "VAR·스포츠 데이터 엔지니어",
+      "model": "openai/gpt-5.5",
+      "turns": 5,
+      "rebuttals": 4,
+      "rebuttal_rate": 80,
+      "evidence_turns": 3,
+      "evidence_rate": 60,
+      "heated_turns": 0,
+      "profanity_turns": 0,
+      "mean_confidence": 86.4,
+      "mean_tokens": 337.8,
+      "mean_latency_ms": 15497
+    },
+    {
+      "run": 3,
+      "agent": "윤서아",
+      "job": "전직 국제심판·심판 교육관",
+      "model": "x-ai/grok-4.20",
+      "turns": 3,
+      "rebuttals": 3,
+      "rebuttal_rate": 100,
+      "evidence_turns": 3,
+      "evidence_rate": 100,
+      "heated_turns": 0,
+      "profanity_turns": 0,
+      "mean_confidence": 76.7,
+      "mean_tokens": 177.3,
+      "mean_latency_ms": 31570
+    },
+    {
+      "run": 3,
+      "agent": "박도현",
+      "job": "프로축구 선수 출신 해설위원",
+      "model": "anthropic/claude-sonnet-5",
+      "turns": 1,
+      "rebuttals": 1,
+      "rebuttal_rate": 100,
+      "evidence_turns": 0,
+      "evidence_rate": 0,
+      "heated_turns": 0,
+      "profanity_turns": 0,
+      "mean_confidence": 88,
+      "mean_tokens": 177,
+      "mean_latency_ms": 12351
+    },
+    {
+      "run": 3,
+      "agent": "한지우",
+      "job": "스포츠법·AI 책임 연구자",
+      "model": "google/gemini-3.5-flash",
+      "turns": 8,
+      "rebuttals": 8,
+      "rebuttal_rate": 100,
+      "evidence_turns": 5,
+      "evidence_rate": 62.5,
+      "heated_turns": 0,
+      "profanity_turns": 0,
+      "mean_confidence": 95.6,
+      "mean_tokens": 260.4,
+      "mean_latency_ms": 5463
+    },
+    {
+      "run": 4,
+      "agent": "김민석",
+      "job": "VAR·스포츠 데이터 엔지니어",
+      "model": "openai/gpt-5.5",
+      "turns": 5,
+      "rebuttals": 4,
+      "rebuttal_rate": 80,
+      "evidence_turns": 4,
+      "evidence_rate": 80,
+      "heated_turns": 1,
+      "profanity_turns": 0,
+      "mean_confidence": 89.8,
+      "mean_tokens": 299.2,
+      "mean_latency_ms": 11632
+    },
+    {
+      "run": 4,
+      "agent": "윤서아",
+      "job": "전직 국제심판·심판 교육관",
+      "model": "x-ai/grok-4.20",
+      "turns": 3,
+      "rebuttals": 1,
+      "rebuttal_rate": 33.3,
+      "evidence_turns": 3,
+      "evidence_rate": 100,
+      "heated_turns": 0,
+      "profanity_turns": 0,
+      "mean_confidence": 75,
+      "mean_tokens": 230.7,
+      "mean_latency_ms": 29694
+    },
+    {
+      "run": 4,
+      "agent": "박도현",
+      "job": "프로축구 선수 출신 해설위원",
+      "model": "anthropic/claude-sonnet-5",
+      "turns": 3,
+      "rebuttals": 3,
+      "rebuttal_rate": 100,
+      "evidence_turns": 1,
+      "evidence_rate": 33.3,
+      "heated_turns": 0,
+      "profanity_turns": 0,
+      "mean_confidence": 71.7,
+      "mean_tokens": 136,
+      "mean_latency_ms": 15357
+    },
+    {
+      "run": 4,
+      "agent": "한지우",
+      "job": "스포츠법·AI 책임 연구자",
+      "model": "google/gemini-3.5-flash",
+      "turns": 6,
+      "rebuttals": 6,
+      "rebuttal_rate": 100,
+      "evidence_turns": 2,
+      "evidence_rate": 33.3,
+      "heated_turns": 0,
+      "profanity_turns": 0,
+      "mean_confidence": 95,
+      "mean_tokens": 257.2,
+      "mean_latency_ms": 6183
+    },
+    {
+      "run": 5,
+      "agent": "김민석",
+      "job": "VAR·스포츠 데이터 엔지니어",
+      "model": "openai/gpt-5.5",
+      "turns": 6,
+      "rebuttals": 6,
+      "rebuttal_rate": 100,
+      "evidence_turns": 3,
+      "evidence_rate": 50,
+      "heated_turns": 1,
+      "profanity_turns": 0,
+      "mean_confidence": 88,
+      "mean_tokens": 279,
+      "mean_latency_ms": 16199
+    },
+    {
+      "run": 5,
+      "agent": "윤서아",
+      "job": "전직 국제심판·심판 교육관",
+      "model": "x-ai/grok-4.20",
+      "turns": 3,
+      "rebuttals": 3,
+      "rebuttal_rate": 100,
+      "evidence_turns": 3,
+      "evidence_rate": 100,
+      "heated_turns": 1,
+      "profanity_turns": 0,
+      "mean_confidence": 68.3,
+      "mean_tokens": 209.3,
+      "mean_latency_ms": 31505
+    },
+    {
+      "run": 5,
+      "agent": "박도현",
+      "job": "프로축구 선수 출신 해설위원",
+      "model": "anthropic/claude-sonnet-5",
+      "turns": 4,
+      "rebuttals": 3,
+      "rebuttal_rate": 75,
+      "evidence_turns": 3,
+      "evidence_rate": 75,
+      "heated_turns": 0,
+      "profanity_turns": 0,
+      "mean_confidence": 71.8,
+      "mean_tokens": 198.8,
+      "mean_latency_ms": 15897
+    },
+    {
+      "run": 5,
+      "agent": "한지우",
+      "job": "스포츠법·AI 책임 연구자",
+      "model": "google/gemini-3.5-flash",
+      "turns": 5,
+      "rebuttals": 5,
+      "rebuttal_rate": 100,
+      "evidence_turns": 4,
+      "evidence_rate": 80,
+      "heated_turns": 0,
+      "profanity_turns": 0,
+      "mean_confidence": 95,
+      "mean_tokens": 271.2,
+      "mean_latency_ms": 6545
+    }
+  ],
+  "finalStances": [
+    {
+      "run": 1,
+      "agent": "김민석",
+      "job": "VAR·스포츠 데이터 엔지니어",
+      "model": "openai/gpt-5.5",
+      "initial_stance": 100,
+      "final_stance": 100,
+      "delta": 0
+    },
+    {
+      "run": 1,
+      "agent": "윤서아",
+      "job": "전직 국제심판·심판 교육관",
+      "model": "x-ai/grok-4.20",
+      "initial_stance": 100,
+      "final_stance": 100,
+      "delta": 0
+    },
+    {
+      "run": 1,
+      "agent": "박도현",
+      "job": "프로축구 선수 출신 해설위원",
+      "model": "anthropic/claude-sonnet-5",
+      "initial_stance": -100,
+      "final_stance": -85,
+      "delta": 15
+    },
+    {
+      "run": 1,
+      "agent": "한지우",
+      "job": "스포츠법·AI 책임 연구자",
+      "model": "google/gemini-3.5-flash",
+      "initial_stance": -100,
+      "final_stance": -100,
+      "delta": 0
+    },
+    {
+      "run": 2,
+      "agent": "김민석",
+      "job": "VAR·스포츠 데이터 엔지니어",
+      "model": "openai/gpt-5.5",
+      "initial_stance": 100,
+      "final_stance": 100,
+      "delta": 0
+    },
+    {
+      "run": 2,
+      "agent": "윤서아",
+      "job": "전직 국제심판·심판 교육관",
+      "model": "x-ai/grok-4.20",
+      "initial_stance": 100,
+      "final_stance": 78,
+      "delta": -22
+    },
+    {
+      "run": 2,
+      "agent": "박도현",
+      "job": "프로축구 선수 출신 해설위원",
+      "model": "anthropic/claude-sonnet-5",
+      "initial_stance": -100,
+      "final_stance": -100,
+      "delta": 0
+    },
+    {
+      "run": 2,
+      "agent": "한지우",
+      "job": "스포츠법·AI 책임 연구자",
+      "model": "google/gemini-3.5-flash",
+      "initial_stance": -100,
+      "final_stance": -100,
+      "delta": 0
+    },
+    {
+      "run": 3,
+      "agent": "김민석",
+      "job": "VAR·스포츠 데이터 엔지니어",
+      "model": "openai/gpt-5.5",
+      "initial_stance": 100,
+      "final_stance": 100,
+      "delta": 0
+    },
+    {
+      "run": 3,
+      "agent": "윤서아",
+      "job": "전직 국제심판·심판 교육관",
+      "model": "x-ai/grok-4.20",
+      "initial_stance": 100,
+      "final_stance": 100,
+      "delta": 0
+    },
+    {
+      "run": 3,
+      "agent": "박도현",
+      "job": "프로축구 선수 출신 해설위원",
+      "model": "anthropic/claude-sonnet-5",
+      "initial_stance": -100,
+      "final_stance": -100,
+      "delta": 0
+    },
+    {
+      "run": 3,
+      "agent": "한지우",
+      "job": "스포츠법·AI 책임 연구자",
+      "model": "google/gemini-3.5-flash",
+      "initial_stance": -100,
+      "final_stance": -100,
+      "delta": 0
+    },
+    {
+      "run": 4,
+      "agent": "김민석",
+      "job": "VAR·스포츠 데이터 엔지니어",
+      "model": "openai/gpt-5.5",
+      "initial_stance": 100,
+      "final_stance": 100,
+      "delta": 0
+    },
+    {
+      "run": 4,
+      "agent": "윤서아",
+      "job": "전직 국제심판·심판 교육관",
+      "model": "x-ai/grok-4.20",
+      "initial_stance": 100,
+      "final_stance": 85,
+      "delta": -15
+    },
+    {
+      "run": 4,
+      "agent": "박도현",
+      "job": "프로축구 선수 출신 해설위원",
+      "model": "anthropic/claude-sonnet-5",
+      "initial_stance": -100,
+      "final_stance": -85,
+      "delta": 15
+    },
+    {
+      "run": 4,
+      "agent": "한지우",
+      "job": "스포츠법·AI 책임 연구자",
+      "model": "google/gemini-3.5-flash",
+      "initial_stance": -100,
+      "final_stance": -100,
+      "delta": 0
+    },
+    {
+      "run": 5,
+      "agent": "김민석",
+      "job": "VAR·스포츠 데이터 엔지니어",
+      "model": "openai/gpt-5.5",
+      "initial_stance": 100,
+      "final_stance": 100,
+      "delta": 0
+    },
+    {
+      "run": 5,
+      "agent": "윤서아",
+      "job": "전직 국제심판·심판 교육관",
+      "model": "x-ai/grok-4.20",
+      "initial_stance": 100,
+      "final_stance": 78,
+      "delta": -22
+    },
+    {
+      "run": 5,
+      "agent": "박도현",
+      "job": "프로축구 선수 출신 해설위원",
+      "model": "anthropic/claude-sonnet-5",
+      "initial_stance": -100,
+      "final_stance": -100,
+      "delta": 0
+    },
+    {
+      "run": 5,
+      "agent": "한지우",
+      "job": "스포츠법·AI 책임 연구자",
+      "model": "google/gemini-3.5-flash",
+      "initial_stance": -100,
+      "final_stance": -100,
+      "delta": 0
+    }
+  ],
+  "speechActs": [
+    {
+      "run": 1,
+      "speech_act": "claim",
+      "count": 4
+    },
+    {
+      "run": 1,
+      "speech_act": "rebuttal",
+      "count": 14
+    },
+    {
+      "run": 1,
+      "speech_act": "concession",
+      "count": 1
+    },
+    {
+      "run": 2,
+      "speech_act": "claim",
+      "count": 3
+    },
+    {
+      "run": 2,
+      "speech_act": "rebuttal",
+      "count": 15
+    },
+    {
+      "run": 3,
+      "speech_act": "claim",
+      "count": 1
+    },
+    {
+      "run": 3,
+      "speech_act": "rebuttal",
+      "count": 16
+    },
+    {
+      "run": 4,
+      "speech_act": "claim",
+      "count": 3
+    },
+    {
+      "run": 4,
+      "speech_act": "rebuttal",
+      "count": 14
+    },
+    {
+      "run": 5,
+      "speech_act": "claim",
+      "count": 1
+    },
+    {
+      "run": 5,
+      "speech_act": "rebuttal",
+      "count": 17
+    }
+  ],
+  "themeTotals": [
+    {
+      "theme": "투명성·책임",
+      "utterances_with_theme": 71
+    },
+    {
+      "theme": "AI·자동화 기술",
+      "utterances_with_theme": 69
+    },
+    {
+      "theme": "인간 심판·현장 판단",
+      "utterances_with_theme": 53
+    },
+    {
+      "theme": "정확성·공정성",
+      "utterances_with_theme": 52
+    },
+    {
+      "theme": "개입 범위·프로토콜",
+      "utterances_with_theme": 51
+    },
+    {
+      "theme": "경기 흐름·감정",
+      "utterances_with_theme": 34
+    },
+    {
+      "theme": "비용·리그 격차",
+      "utterances_with_theme": 32
+    },
+    {
+      "theme": "선수 안전",
+      "utterances_with_theme": 16
+    }
+  ],
+  "themesByRun": [
+    {
+      "run": 1,
+      "theme": "정확성·공정성",
+      "utterances_with_theme": 7
+    },
+    {
+      "run": 1,
+      "theme": "경기 흐름·감정",
+      "utterances_with_theme": 6
+    },
+    {
+      "run": 1,
+      "theme": "인간 심판·현장 판단",
+      "utterances_with_theme": 11
+    },
+    {
+      "run": 1,
+      "theme": "AI·자동화 기술",
+      "utterances_with_theme": 15
+    },
+    {
+      "run": 1,
+      "theme": "투명성·책임",
+      "utterances_with_theme": 13
+    },
+    {
+      "run": 1,
+      "theme": "개입 범위·프로토콜",
+      "utterances_with_theme": 10
+    },
+    {
+      "run": 1,
+      "theme": "비용·리그 격차",
+      "utterances_with_theme": 2
+    },
+    {
+      "run": 1,
+      "theme": "선수 안전",
+      "utterances_with_theme": 5
+    },
+    {
+      "run": 2,
+      "theme": "정확성·공정성",
+      "utterances_with_theme": 10
+    },
+    {
+      "run": 2,
+      "theme": "경기 흐름·감정",
+      "utterances_with_theme": 6
+    },
+    {
+      "run": 2,
+      "theme": "인간 심판·현장 판단",
+      "utterances_with_theme": 16
+    },
+    {
+      "run": 2,
+      "theme": "AI·자동화 기술",
+      "utterances_with_theme": 17
+    },
+    {
+      "run": 2,
+      "theme": "투명성·책임",
+      "utterances_with_theme": 14
+    },
+    {
+      "run": 2,
+      "theme": "개입 범위·프로토콜",
+      "utterances_with_theme": 7
+    },
+    {
+      "run": 2,
+      "theme": "비용·리그 격차",
+      "utterances_with_theme": 6
+    },
+    {
+      "run": 2,
+      "theme": "선수 안전",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 3,
+      "theme": "정확성·공정성",
+      "utterances_with_theme": 9
+    },
+    {
+      "run": 3,
+      "theme": "경기 흐름·감정",
+      "utterances_with_theme": 4
+    },
+    {
+      "run": 3,
+      "theme": "인간 심판·현장 판단",
+      "utterances_with_theme": 8
+    },
+    {
+      "run": 3,
+      "theme": "AI·자동화 기술",
+      "utterances_with_theme": 12
+    },
+    {
+      "run": 3,
+      "theme": "투명성·책임",
+      "utterances_with_theme": 13
+    },
+    {
+      "run": 3,
+      "theme": "개입 범위·프로토콜",
+      "utterances_with_theme": 11
+    },
+    {
+      "run": 3,
+      "theme": "비용·리그 격차",
+      "utterances_with_theme": 12
+    },
+    {
+      "run": 3,
+      "theme": "선수 안전",
+      "utterances_with_theme": 0
+    },
+    {
+      "run": 4,
+      "theme": "정확성·공정성",
+      "utterances_with_theme": 12
+    },
+    {
+      "run": 4,
+      "theme": "경기 흐름·감정",
+      "utterances_with_theme": 12
+    },
+    {
+      "run": 4,
+      "theme": "인간 심판·현장 판단",
+      "utterances_with_theme": 10
+    },
+    {
+      "run": 4,
+      "theme": "AI·자동화 기술",
+      "utterances_with_theme": 11
+    },
+    {
+      "run": 4,
+      "theme": "투명성·책임",
+      "utterances_with_theme": 15
+    },
+    {
+      "run": 4,
+      "theme": "개입 범위·프로토콜",
+      "utterances_with_theme": 14
+    },
+    {
+      "run": 4,
+      "theme": "비용·리그 격차",
+      "utterances_with_theme": 8
+    },
+    {
+      "run": 4,
+      "theme": "선수 안전",
+      "utterances_with_theme": 0
+    },
+    {
+      "run": 5,
+      "theme": "정확성·공정성",
+      "utterances_with_theme": 14
+    },
+    {
+      "run": 5,
+      "theme": "경기 흐름·감정",
+      "utterances_with_theme": 6
+    },
+    {
+      "run": 5,
+      "theme": "인간 심판·현장 판단",
+      "utterances_with_theme": 8
+    },
+    {
+      "run": 5,
+      "theme": "AI·자동화 기술",
+      "utterances_with_theme": 14
+    },
+    {
+      "run": 5,
+      "theme": "투명성·책임",
+      "utterances_with_theme": 16
+    },
+    {
+      "run": 5,
+      "theme": "개입 범위·프로토콜",
+      "utterances_with_theme": 9
+    },
+    {
+      "run": 5,
+      "theme": "비용·리그 격차",
+      "utterances_with_theme": 4
+    },
+    {
+      "run": 5,
+      "theme": "선수 안전",
+      "utterances_with_theme": 8
+    }
+  ],
+  "themesByAgent": [
+    {
+      "run": 1,
+      "agent": "김민석",
+      "theme": "정확성·공정성",
+      "utterances_with_theme": 1
+    },
+    {
+      "run": 1,
+      "agent": "김민석",
+      "theme": "경기 흐름·감정",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 1,
+      "agent": "김민석",
+      "theme": "인간 심판·현장 판단",
+      "utterances_with_theme": 4
+    },
+    {
+      "run": 1,
+      "agent": "김민석",
+      "theme": "AI·자동화 기술",
+      "utterances_with_theme": 4
+    },
+    {
+      "run": 1,
+      "agent": "김민석",
+      "theme": "투명성·책임",
+      "utterances_with_theme": 5
+    },
+    {
+      "run": 1,
+      "agent": "김민석",
+      "theme": "개입 범위·프로토콜",
+      "utterances_with_theme": 2
+    },
+    {
+      "run": 1,
+      "agent": "김민석",
+      "theme": "비용·리그 격차",
+      "utterances_with_theme": 1
+    },
+    {
+      "run": 1,
+      "agent": "김민석",
+      "theme": "선수 안전",
+      "utterances_with_theme": 2
+    },
+    {
+      "run": 1,
+      "agent": "윤서아",
+      "theme": "정확성·공정성",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 1,
+      "agent": "윤서아",
+      "theme": "경기 흐름·감정",
+      "utterances_with_theme": 1
+    },
+    {
+      "run": 1,
+      "agent": "윤서아",
+      "theme": "인간 심판·현장 판단",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 1,
+      "agent": "윤서아",
+      "theme": "AI·자동화 기술",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 1,
+      "agent": "윤서아",
+      "theme": "투명성·책임",
+      "utterances_with_theme": 1
+    },
+    {
+      "run": 1,
+      "agent": "윤서아",
+      "theme": "개입 범위·프로토콜",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 1,
+      "agent": "윤서아",
+      "theme": "비용·리그 격차",
+      "utterances_with_theme": 0
+    },
+    {
+      "run": 1,
+      "agent": "윤서아",
+      "theme": "선수 안전",
+      "utterances_with_theme": 0
+    },
+    {
+      "run": 1,
+      "agent": "박도현",
+      "theme": "정확성·공정성",
+      "utterances_with_theme": 1
+    },
+    {
+      "run": 1,
+      "agent": "박도현",
+      "theme": "경기 흐름·감정",
+      "utterances_with_theme": 2
+    },
+    {
+      "run": 1,
+      "agent": "박도현",
+      "theme": "인간 심판·현장 판단",
+      "utterances_with_theme": 1
+    },
+    {
+      "run": 1,
+      "agent": "박도현",
+      "theme": "AI·자동화 기술",
+      "utterances_with_theme": 4
+    },
+    {
+      "run": 1,
+      "agent": "박도현",
+      "theme": "투명성·책임",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 1,
+      "agent": "박도현",
+      "theme": "개입 범위·프로토콜",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 1,
+      "agent": "박도현",
+      "theme": "비용·리그 격차",
+      "utterances_with_theme": 1
+    },
+    {
+      "run": 1,
+      "agent": "박도현",
+      "theme": "선수 안전",
+      "utterances_with_theme": 2
+    },
+    {
+      "run": 1,
+      "agent": "한지우",
+      "theme": "정확성·공정성",
+      "utterances_with_theme": 2
+    },
+    {
+      "run": 1,
+      "agent": "한지우",
+      "theme": "경기 흐름·감정",
+      "utterances_with_theme": 0
+    },
+    {
+      "run": 1,
+      "agent": "한지우",
+      "theme": "인간 심판·현장 판단",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 1,
+      "agent": "한지우",
+      "theme": "AI·자동화 기술",
+      "utterances_with_theme": 4
+    },
+    {
+      "run": 1,
+      "agent": "한지우",
+      "theme": "투명성·책임",
+      "utterances_with_theme": 4
+    },
+    {
+      "run": 1,
+      "agent": "한지우",
+      "theme": "개입 범위·프로토콜",
+      "utterances_with_theme": 2
+    },
+    {
+      "run": 1,
+      "agent": "한지우",
+      "theme": "비용·리그 격차",
+      "utterances_with_theme": 0
+    },
+    {
+      "run": 1,
+      "agent": "한지우",
+      "theme": "선수 안전",
+      "utterances_with_theme": 1
+    },
+    {
+      "run": 2,
+      "agent": "김민석",
+      "theme": "정확성·공정성",
+      "utterances_with_theme": 1
+    },
+    {
+      "run": 2,
+      "agent": "김민석",
+      "theme": "경기 흐름·감정",
+      "utterances_with_theme": 1
+    },
+    {
+      "run": 2,
+      "agent": "김민석",
+      "theme": "인간 심판·현장 판단",
+      "utterances_with_theme": 5
+    },
+    {
+      "run": 2,
+      "agent": "김민석",
+      "theme": "AI·자동화 기술",
+      "utterances_with_theme": 5
+    },
+    {
+      "run": 2,
+      "agent": "김민석",
+      "theme": "투명성·책임",
+      "utterances_with_theme": 5
+    },
+    {
+      "run": 2,
+      "agent": "김민석",
+      "theme": "개입 범위·프로토콜",
+      "utterances_with_theme": 2
+    },
+    {
+      "run": 2,
+      "agent": "김민석",
+      "theme": "비용·리그 격차",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 2,
+      "agent": "김민석",
+      "theme": "선수 안전",
+      "utterances_with_theme": 2
+    },
+    {
+      "run": 2,
+      "agent": "윤서아",
+      "theme": "정확성·공정성",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 2,
+      "agent": "윤서아",
+      "theme": "경기 흐름·감정",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 2,
+      "agent": "윤서아",
+      "theme": "인간 심판·현장 판단",
+      "utterances_with_theme": 4
+    },
+    {
+      "run": 2,
+      "agent": "윤서아",
+      "theme": "AI·자동화 기술",
+      "utterances_with_theme": 4
+    },
+    {
+      "run": 2,
+      "agent": "윤서아",
+      "theme": "투명성·책임",
+      "utterances_with_theme": 2
+    },
+    {
+      "run": 2,
+      "agent": "윤서아",
+      "theme": "개입 범위·프로토콜",
+      "utterances_with_theme": 4
+    },
+    {
+      "run": 2,
+      "agent": "윤서아",
+      "theme": "비용·리그 격차",
+      "utterances_with_theme": 0
+    },
+    {
+      "run": 2,
+      "agent": "윤서아",
+      "theme": "선수 안전",
+      "utterances_with_theme": 1
+    },
+    {
+      "run": 2,
+      "agent": "박도현",
+      "theme": "정확성·공정성",
+      "utterances_with_theme": 0
+    },
+    {
+      "run": 2,
+      "agent": "박도현",
+      "theme": "경기 흐름·감정",
+      "utterances_with_theme": 1
+    },
+    {
+      "run": 2,
+      "agent": "박도현",
+      "theme": "인간 심판·현장 판단",
+      "utterances_with_theme": 2
+    },
+    {
+      "run": 2,
+      "agent": "박도현",
+      "theme": "AI·자동화 기술",
+      "utterances_with_theme": 2
+    },
+    {
+      "run": 2,
+      "agent": "박도현",
+      "theme": "투명성·책임",
+      "utterances_with_theme": 0
+    },
+    {
+      "run": 2,
+      "agent": "박도현",
+      "theme": "개입 범위·프로토콜",
+      "utterances_with_theme": 0
+    },
+    {
+      "run": 2,
+      "agent": "박도현",
+      "theme": "비용·리그 격차",
+      "utterances_with_theme": 0
+    },
+    {
+      "run": 2,
+      "agent": "박도현",
+      "theme": "선수 안전",
+      "utterances_with_theme": 0
+    },
+    {
+      "run": 2,
+      "agent": "한지우",
+      "theme": "정확성·공정성",
+      "utterances_with_theme": 6
+    },
+    {
+      "run": 2,
+      "agent": "한지우",
+      "theme": "경기 흐름·감정",
+      "utterances_with_theme": 1
+    },
+    {
+      "run": 2,
+      "agent": "한지우",
+      "theme": "인간 심판·현장 판단",
+      "utterances_with_theme": 5
+    },
+    {
+      "run": 2,
+      "agent": "한지우",
+      "theme": "AI·자동화 기술",
+      "utterances_with_theme": 6
+    },
+    {
+      "run": 2,
+      "agent": "한지우",
+      "theme": "투명성·책임",
+      "utterances_with_theme": 7
+    },
+    {
+      "run": 2,
+      "agent": "한지우",
+      "theme": "개입 범위·프로토콜",
+      "utterances_with_theme": 1
+    },
+    {
+      "run": 2,
+      "agent": "한지우",
+      "theme": "비용·리그 격차",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 2,
+      "agent": "한지우",
+      "theme": "선수 안전",
+      "utterances_with_theme": 0
+    },
+    {
+      "run": 3,
+      "agent": "김민석",
+      "theme": "정확성·공정성",
+      "utterances_with_theme": 2
+    },
+    {
+      "run": 3,
+      "agent": "김민석",
+      "theme": "경기 흐름·감정",
+      "utterances_with_theme": 1
+    },
+    {
+      "run": 3,
+      "agent": "김민석",
+      "theme": "인간 심판·현장 판단",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 3,
+      "agent": "김민석",
+      "theme": "AI·자동화 기술",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 3,
+      "agent": "김민석",
+      "theme": "투명성·책임",
+      "utterances_with_theme": 5
+    },
+    {
+      "run": 3,
+      "agent": "김민석",
+      "theme": "개입 범위·프로토콜",
+      "utterances_with_theme": 5
+    },
+    {
+      "run": 3,
+      "agent": "김민석",
+      "theme": "비용·리그 격차",
+      "utterances_with_theme": 4
+    },
+    {
+      "run": 3,
+      "agent": "김민석",
+      "theme": "선수 안전",
+      "utterances_with_theme": 0
+    },
+    {
+      "run": 3,
+      "agent": "윤서아",
+      "theme": "정확성·공정성",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 3,
+      "agent": "윤서아",
+      "theme": "경기 흐름·감정",
+      "utterances_with_theme": 1
+    },
+    {
+      "run": 3,
+      "agent": "윤서아",
+      "theme": "인간 심판·현장 판단",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 3,
+      "agent": "윤서아",
+      "theme": "AI·자동화 기술",
+      "utterances_with_theme": 2
+    },
+    {
+      "run": 3,
+      "agent": "윤서아",
+      "theme": "투명성·책임",
+      "utterances_with_theme": 2
+    },
+    {
+      "run": 3,
+      "agent": "윤서아",
+      "theme": "개입 범위·프로토콜",
+      "utterances_with_theme": 1
+    },
+    {
+      "run": 3,
+      "agent": "윤서아",
+      "theme": "비용·리그 격차",
+      "utterances_with_theme": 1
+    },
+    {
+      "run": 3,
+      "agent": "윤서아",
+      "theme": "선수 안전",
+      "utterances_with_theme": 0
+    },
+    {
+      "run": 3,
+      "agent": "박도현",
+      "theme": "정확성·공정성",
+      "utterances_with_theme": 0
+    },
+    {
+      "run": 3,
+      "agent": "박도현",
+      "theme": "경기 흐름·감정",
+      "utterances_with_theme": 1
+    },
+    {
+      "run": 3,
+      "agent": "박도현",
+      "theme": "인간 심판·현장 판단",
+      "utterances_with_theme": 0
+    },
+    {
+      "run": 3,
+      "agent": "박도현",
+      "theme": "AI·자동화 기술",
+      "utterances_with_theme": 1
+    },
+    {
+      "run": 3,
+      "agent": "박도현",
+      "theme": "투명성·책임",
+      "utterances_with_theme": 0
+    },
+    {
+      "run": 3,
+      "agent": "박도현",
+      "theme": "개입 범위·프로토콜",
+      "utterances_with_theme": 1
+    },
+    {
+      "run": 3,
+      "agent": "박도현",
+      "theme": "비용·리그 격차",
+      "utterances_with_theme": 0
+    },
+    {
+      "run": 3,
+      "agent": "박도현",
+      "theme": "선수 안전",
+      "utterances_with_theme": 0
+    },
+    {
+      "run": 3,
+      "agent": "한지우",
+      "theme": "정확성·공정성",
+      "utterances_with_theme": 4
+    },
+    {
+      "run": 3,
+      "agent": "한지우",
+      "theme": "경기 흐름·감정",
+      "utterances_with_theme": 1
+    },
+    {
+      "run": 3,
+      "agent": "한지우",
+      "theme": "인간 심판·현장 판단",
+      "utterances_with_theme": 2
+    },
+    {
+      "run": 3,
+      "agent": "한지우",
+      "theme": "AI·자동화 기술",
+      "utterances_with_theme": 6
+    },
+    {
+      "run": 3,
+      "agent": "한지우",
+      "theme": "투명성·책임",
+      "utterances_with_theme": 6
+    },
+    {
+      "run": 3,
+      "agent": "한지우",
+      "theme": "개입 범위·프로토콜",
+      "utterances_with_theme": 4
+    },
+    {
+      "run": 3,
+      "agent": "한지우",
+      "theme": "비용·리그 격차",
+      "utterances_with_theme": 7
+    },
+    {
+      "run": 3,
+      "agent": "한지우",
+      "theme": "선수 안전",
+      "utterances_with_theme": 0
+    },
+    {
+      "run": 4,
+      "agent": "김민석",
+      "theme": "정확성·공정성",
+      "utterances_with_theme": 5
+    },
+    {
+      "run": 4,
+      "agent": "김민석",
+      "theme": "경기 흐름·감정",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 4,
+      "agent": "김민석",
+      "theme": "인간 심판·현장 판단",
+      "utterances_with_theme": 2
+    },
+    {
+      "run": 4,
+      "agent": "김민석",
+      "theme": "AI·자동화 기술",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 4,
+      "agent": "김민석",
+      "theme": "투명성·책임",
+      "utterances_with_theme": 5
+    },
+    {
+      "run": 4,
+      "agent": "김민석",
+      "theme": "개입 범위·프로토콜",
+      "utterances_with_theme": 4
+    },
+    {
+      "run": 4,
+      "agent": "김민석",
+      "theme": "비용·리그 격차",
+      "utterances_with_theme": 5
+    },
+    {
+      "run": 4,
+      "agent": "김민석",
+      "theme": "선수 안전",
+      "utterances_with_theme": 0
+    },
+    {
+      "run": 4,
+      "agent": "윤서아",
+      "theme": "정확성·공정성",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 4,
+      "agent": "윤서아",
+      "theme": "경기 흐름·감정",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 4,
+      "agent": "윤서아",
+      "theme": "인간 심판·현장 판단",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 4,
+      "agent": "윤서아",
+      "theme": "AI·자동화 기술",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 4,
+      "agent": "윤서아",
+      "theme": "투명성·책임",
+      "utterances_with_theme": 2
+    },
+    {
+      "run": 4,
+      "agent": "윤서아",
+      "theme": "개입 범위·프로토콜",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 4,
+      "agent": "윤서아",
+      "theme": "비용·리그 격차",
+      "utterances_with_theme": 0
+    },
+    {
+      "run": 4,
+      "agent": "윤서아",
+      "theme": "선수 안전",
+      "utterances_with_theme": 0
+    },
+    {
+      "run": 4,
+      "agent": "박도현",
+      "theme": "정확성·공정성",
+      "utterances_with_theme": 2
+    },
+    {
+      "run": 4,
+      "agent": "박도현",
+      "theme": "경기 흐름·감정",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 4,
+      "agent": "박도현",
+      "theme": "인간 심판·현장 판단",
+      "utterances_with_theme": 1
+    },
+    {
+      "run": 4,
+      "agent": "박도현",
+      "theme": "AI·자동화 기술",
+      "utterances_with_theme": 2
+    },
+    {
+      "run": 4,
+      "agent": "박도현",
+      "theme": "투명성·책임",
+      "utterances_with_theme": 2
+    },
+    {
+      "run": 4,
+      "agent": "박도현",
+      "theme": "개입 범위·프로토콜",
+      "utterances_with_theme": 2
+    },
+    {
+      "run": 4,
+      "agent": "박도현",
+      "theme": "비용·리그 격차",
+      "utterances_with_theme": 2
+    },
+    {
+      "run": 4,
+      "agent": "박도현",
+      "theme": "선수 안전",
+      "utterances_with_theme": 0
+    },
+    {
+      "run": 4,
+      "agent": "한지우",
+      "theme": "정확성·공정성",
+      "utterances_with_theme": 2
+    },
+    {
+      "run": 4,
+      "agent": "한지우",
+      "theme": "경기 흐름·감정",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 4,
+      "agent": "한지우",
+      "theme": "인간 심판·현장 판단",
+      "utterances_with_theme": 4
+    },
+    {
+      "run": 4,
+      "agent": "한지우",
+      "theme": "AI·자동화 기술",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 4,
+      "agent": "한지우",
+      "theme": "투명성·책임",
+      "utterances_with_theme": 6
+    },
+    {
+      "run": 4,
+      "agent": "한지우",
+      "theme": "개입 범위·프로토콜",
+      "utterances_with_theme": 5
+    },
+    {
+      "run": 4,
+      "agent": "한지우",
+      "theme": "비용·리그 격차",
+      "utterances_with_theme": 1
+    },
+    {
+      "run": 4,
+      "agent": "한지우",
+      "theme": "선수 안전",
+      "utterances_with_theme": 0
+    },
+    {
+      "run": 5,
+      "agent": "김민석",
+      "theme": "정확성·공정성",
+      "utterances_with_theme": 5
+    },
+    {
+      "run": 5,
+      "agent": "김민석",
+      "theme": "경기 흐름·감정",
+      "utterances_with_theme": 4
+    },
+    {
+      "run": 5,
+      "agent": "김민석",
+      "theme": "인간 심판·현장 판단",
+      "utterances_with_theme": 1
+    },
+    {
+      "run": 5,
+      "agent": "김민석",
+      "theme": "AI·자동화 기술",
+      "utterances_with_theme": 5
+    },
+    {
+      "run": 5,
+      "agent": "김민석",
+      "theme": "투명성·책임",
+      "utterances_with_theme": 6
+    },
+    {
+      "run": 5,
+      "agent": "김민석",
+      "theme": "개입 범위·프로토콜",
+      "utterances_with_theme": 5
+    },
+    {
+      "run": 5,
+      "agent": "김민석",
+      "theme": "비용·리그 격차",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 5,
+      "agent": "김민석",
+      "theme": "선수 안전",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 5,
+      "agent": "윤서아",
+      "theme": "정확성·공정성",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 5,
+      "agent": "윤서아",
+      "theme": "경기 흐름·감정",
+      "utterances_with_theme": 1
+    },
+    {
+      "run": 5,
+      "agent": "윤서아",
+      "theme": "인간 심판·현장 판단",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 5,
+      "agent": "윤서아",
+      "theme": "AI·자동화 기술",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 5,
+      "agent": "윤서아",
+      "theme": "투명성·책임",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 5,
+      "agent": "윤서아",
+      "theme": "개입 범위·프로토콜",
+      "utterances_with_theme": 1
+    },
+    {
+      "run": 5,
+      "agent": "윤서아",
+      "theme": "비용·리그 격차",
+      "utterances_with_theme": 0
+    },
+    {
+      "run": 5,
+      "agent": "윤서아",
+      "theme": "선수 안전",
+      "utterances_with_theme": 2
+    },
+    {
+      "run": 5,
+      "agent": "박도현",
+      "theme": "정확성·공정성",
+      "utterances_with_theme": 1
+    },
+    {
+      "run": 5,
+      "agent": "박도현",
+      "theme": "경기 흐름·감정",
+      "utterances_with_theme": 1
+    },
+    {
+      "run": 5,
+      "agent": "박도현",
+      "theme": "인간 심판·현장 판단",
+      "utterances_with_theme": 1
+    },
+    {
+      "run": 5,
+      "agent": "박도현",
+      "theme": "AI·자동화 기술",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 5,
+      "agent": "박도현",
+      "theme": "투명성·책임",
+      "utterances_with_theme": 2
+    },
+    {
+      "run": 5,
+      "agent": "박도현",
+      "theme": "개입 범위·프로토콜",
+      "utterances_with_theme": 1
+    },
+    {
+      "run": 5,
+      "agent": "박도현",
+      "theme": "비용·리그 격차",
+      "utterances_with_theme": 0
+    },
+    {
+      "run": 5,
+      "agent": "박도현",
+      "theme": "선수 안전",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 5,
+      "agent": "한지우",
+      "theme": "정확성·공정성",
+      "utterances_with_theme": 5
+    },
+    {
+      "run": 5,
+      "agent": "한지우",
+      "theme": "경기 흐름·감정",
+      "utterances_with_theme": 0
+    },
+    {
+      "run": 5,
+      "agent": "한지우",
+      "theme": "인간 심판·현장 판단",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 5,
+      "agent": "한지우",
+      "theme": "AI·자동화 기술",
+      "utterances_with_theme": 3
+    },
+    {
+      "run": 5,
+      "agent": "한지우",
+      "theme": "투명성·책임",
+      "utterances_with_theme": 5
+    },
+    {
+      "run": 5,
+      "agent": "한지우",
+      "theme": "개입 범위·프로토콜",
+      "utterances_with_theme": 2
+    },
+    {
+      "run": 5,
+      "agent": "한지우",
+      "theme": "비용·리그 격차",
+      "utterances_with_theme": 1
+    },
+    {
+      "run": 5,
+      "agent": "한지우",
+      "theme": "선수 안전",
+      "utterances_with_theme": 0
+    }
+  ],
+  "replyMatrix": [
+    {
+      "from_agent": "김민석",
+      "to_agent": "김민석",
+      "replies": 0
+    },
+    {
+      "from_agent": "김민석",
+      "to_agent": "윤서아",
+      "replies": 2
+    },
+    {
+      "from_agent": "김민석",
+      "to_agent": "박도현",
+      "replies": 1
+    },
+    {
+      "from_agent": "김민석",
+      "to_agent": "한지우",
+      "replies": 3
+    },
+    {
+      "from_agent": "윤서아",
+      "to_agent": "김민석",
+      "replies": 4
+    },
+    {
+      "from_agent": "윤서아",
+      "to_agent": "윤서아",
+      "replies": 0
+    },
+    {
+      "from_agent": "윤서아",
+      "to_agent": "박도현",
+      "replies": 1
+    },
+    {
+      "from_agent": "윤서아",
+      "to_agent": "한지우",
+      "replies": 0
+    },
+    {
+      "from_agent": "박도현",
+      "to_agent": "김민석",
+      "replies": 5
+    },
+    {
+      "from_agent": "박도현",
+      "to_agent": "윤서아",
+      "replies": 2
+    },
+    {
+      "from_agent": "박도현",
+      "to_agent": "박도현",
+      "replies": 0
+    },
+    {
+      "from_agent": "박도현",
+      "to_agent": "한지우",
+      "replies": 0
+    },
+    {
+      "from_agent": "한지우",
+      "to_agent": "김민석",
+      "replies": 9
+    },
+    {
+      "from_agent": "한지우",
+      "to_agent": "윤서아",
+      "replies": 5
+    },
+    {
+      "from_agent": "한지우",
+      "to_agent": "박도현",
+      "replies": 0
+    },
+    {
+      "from_agent": "한지우",
+      "to_agent": "한지우",
+      "replies": 0
+    }
+  ],
+  "consensus": [
+    {
+      "run": 1,
+      "turn": 1,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 1,
+      "turn": 2,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 1,
+      "turn": 3,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 1,
+      "turn": 4,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 1,
+      "turn": 5,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 1,
+      "turn": 7,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 1,
+      "turn": 8,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 1,
+      "turn": 10,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 1,
+      "turn": 12,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 1,
+      "turn": 14,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 1,
+      "turn": 16,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 1,
+      "turn": 18,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 1,
+      "turn": 20,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 1,
+      "turn": 22,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 1,
+      "turn": 24,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 1,
+      "turn": 26,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 1,
+      "turn": 28,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 1,
+      "turn": 29,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 1,
+      "turn": 30,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 2,
+      "turn": 2,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 2,
+      "turn": 3,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 2,
+      "turn": 4,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 2,
+      "turn": 5,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 2,
+      "turn": 7,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 2,
+      "turn": 9,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 2,
+      "turn": 11,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 2,
+      "turn": 13,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 2,
+      "turn": 14,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 2,
+      "turn": 16,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 2,
+      "turn": 17,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 2,
+      "turn": 19,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 2,
+      "turn": 21,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 2,
+      "turn": 23,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 2,
+      "turn": 24,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 2,
+      "turn": 26,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 2,
+      "turn": 28,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 2,
+      "turn": 30,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 3,
+      "turn": 2,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 3,
+      "turn": 3,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 3,
+      "turn": 4,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 3,
+      "turn": 5,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 3,
+      "turn": 7,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 3,
+      "turn": 9,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 3,
+      "turn": 11,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 3,
+      "turn": 13,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 3,
+      "turn": 15,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 3,
+      "turn": 17,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 3,
+      "turn": 19,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 3,
+      "turn": 21,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 3,
+      "turn": 23,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 3,
+      "turn": 25,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 3,
+      "turn": 27,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 3,
+      "turn": 29,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 3,
+      "turn": 30,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 4,
+      "turn": 2,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 4,
+      "turn": 3,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 4,
+      "turn": 4,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 4,
+      "turn": 5,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 4,
+      "turn": 7,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 4,
+      "turn": 9,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 4,
+      "turn": 11,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 4,
+      "turn": 13,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 4,
+      "turn": 15,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 4,
+      "turn": 17,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 4,
+      "turn": 18,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 4,
+      "turn": 20,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 4,
+      "turn": 22,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 4,
+      "turn": 23,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 4,
+      "turn": 25,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 4,
+      "turn": 27,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 4,
+      "turn": 29,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 5,
+      "turn": 1,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 5,
+      "turn": 2,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 5,
+      "turn": 3,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 5,
+      "turn": 4,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 5,
+      "turn": 5,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 5,
+      "turn": 7,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 5,
+      "turn": 9,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 5,
+      "turn": 11,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 5,
+      "turn": 13,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 5,
+      "turn": 15,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 5,
+      "turn": 17,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 5,
+      "turn": 19,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 5,
+      "turn": 21,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 5,
+      "turn": 23,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 5,
+      "turn": 24,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 5,
+      "turn": 26,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 5,
+      "turn": 28,
+      "agreement_ratio": 0.5,
+      "reached": false
+    },
+    {
+      "run": 5,
+      "turn": 30,
+      "agreement_ratio": 0.5,
+      "reached": false
+    }
+  ],
+  "notes": [
+    "Theme and heated-language counts are deterministic keyword-based utterance counts; categories can overlap.",
+    "Evidence rate means messages whose export metadata contained at least one evidence entry; it does not verify factual correctness.",
+    "Raw exports contained a credential field. Sanitized analysis copies remove credential-like keys recursively."
+  ]
+}

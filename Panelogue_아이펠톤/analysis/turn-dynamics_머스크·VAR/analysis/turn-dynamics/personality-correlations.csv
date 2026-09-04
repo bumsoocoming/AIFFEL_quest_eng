@@ -1,0 +1,31 @@
+﻿configured_feature,configured_feature_ko,observed_outcome,observed_outcome_ko,pearson_r,n_run_agent_rows,warning
+configured_stance_shift_probability,설정 입장변화 확률,event_rate_per_speech,실제 변화율,-0.4638,40,반복 실행의 동일 페르소나가 중복된 기술통계이며 독립 표본 추론이 아님
+configured_stance_shift_probability,설정 입장변화 확률,mean_absolute_delta,변화폭 평균,-0.3937,40,반복 실행의 동일 페르소나가 중복된 기술통계이며 독립 표본 추론이 아님
+configured_stance_shift_probability,설정 입장변화 확률,total_volatility,총 변동성,-0.5267,40,반복 실행의 동일 페르소나가 중복된 기술통계이며 독립 표본 추론이 아님
+configured_concession_probability,설정 양보 확률,event_rate_per_speech,실제 변화율,0.0384,40,반복 실행의 동일 페르소나가 중복된 기술통계이며 독립 표본 추론이 아님
+configured_concession_probability,설정 양보 확률,mean_absolute_delta,변화폭 평균,0.4564,40,반복 실행의 동일 페르소나가 중복된 기술통계이며 독립 표본 추론이 아님
+configured_concession_probability,설정 양보 확률,total_volatility,총 변동성,0.0297,40,반복 실행의 동일 페르소나가 중복된 기술통계이며 독립 표본 추론이 아님
+configured_aggressiveness,설정 공격성,event_rate_per_speech,실제 변화율,0.1696,40,반복 실행의 동일 페르소나가 중복된 기술통계이며 독립 표본 추론이 아님
+configured_aggressiveness,설정 공격성,mean_absolute_delta,변화폭 평균,0.1963,40,반복 실행의 동일 페르소나가 중복된 기술통계이며 독립 표본 추론이 아님
+configured_aggressiveness,설정 공격성,total_volatility,총 변동성,0.1875,40,반복 실행의 동일 페르소나가 중복된 기술통계이며 독립 표본 추론이 아님
+configured_evidence_demand,설정 근거 요구,event_rate_per_speech,실제 변화율,0.1841,40,반복 실행의 동일 페르소나가 중복된 기술통계이며 독립 표본 추론이 아님
+configured_evidence_demand,설정 근거 요구,mean_absolute_delta,변화폭 평균,-0.1617,40,반복 실행의 동일 페르소나가 중복된 기술통계이며 독립 표본 추론이 아님
+configured_evidence_demand,설정 근거 요구,total_volatility,총 변동성,0.2219,40,반복 실행의 동일 페르소나가 중복된 기술통계이며 독립 표본 추론이 아님
+configured_independent_judgment,설정 독립 판단,event_rate_per_speech,실제 변화율,,40,반복 실행의 동일 페르소나가 중복된 기술통계이며 독립 표본 추론이 아님
+configured_independent_judgment,설정 독립 판단,mean_absolute_delta,변화폭 평균,,40,반복 실행의 동일 페르소나가 중복된 기술통계이며 독립 표본 추론이 아님
+configured_independent_judgment,설정 독립 판단,total_volatility,총 변동성,,40,반복 실행의 동일 페르소나가 중복된 기술통계이며 독립 표본 추론이 아님
+personality_assertiveness,성격 주장성,event_rate_per_speech,실제 변화율,-0.3923,40,반복 실행의 동일 페르소나가 중복된 기술통계이며 독립 표본 추론이 아님
+personality_assertiveness,성격 주장성,mean_absolute_delta,변화폭 평균,-0.6315,40,반복 실행의 동일 페르소나가 중복된 기술통계이며 독립 표본 추론이 아님
+personality_assertiveness,성격 주장성,total_volatility,총 변동성,-0.441,40,반복 실행의 동일 페르소나가 중복된 기술통계이며 독립 표본 추론이 아님
+personality_agreeableness,성격 친화성,event_rate_per_speech,실제 변화율,0.1056,40,반복 실행의 동일 페르소나가 중복된 기술통계이며 독립 표본 추론이 아님
+personality_agreeableness,성격 친화성,mean_absolute_delta,변화폭 평균,0.5665,40,반복 실행의 동일 페르소나가 중복된 기술통계이며 독립 표본 추론이 아님
+personality_agreeableness,성격 친화성,total_volatility,총 변동성,0.1064,40,반복 실행의 동일 페르소나가 중복된 기술통계이며 독립 표본 추론이 아님
+personality_skepticism,성격 회의성,event_rate_per_speech,실제 변화율,-0.0268,40,반복 실행의 동일 페르소나가 중복된 기술통계이며 독립 표본 추론이 아님
+personality_skepticism,성격 회의성,mean_absolute_delta,변화폭 평균,0.2152,40,반복 실행의 동일 페르소나가 중복된 기술통계이며 독립 표본 추론이 아님
+personality_skepticism,성격 회의성,total_volatility,총 변동성,-0.0329,40,반복 실행의 동일 페르소나가 중복된 기술통계이며 독립 표본 추론이 아님
+personality_emotionality,성격 감정성,event_rate_per_speech,실제 변화율,-0.1356,40,반복 실행의 동일 페르소나가 중복된 기술통계이며 독립 표본 추론이 아님
+personality_emotionality,성격 감정성,mean_absolute_delta,변화폭 평균,0.3165,40,반복 실행의 동일 페르소나가 중복된 기술통계이며 독립 표본 추론이 아님
+personality_emotionality,성격 감정성,total_volatility,총 변동성,-0.1649,40,반복 실행의 동일 페르소나가 중복된 기술통계이며 독립 표본 추론이 아님
+stance_flexibility,입장 유연성,event_rate_per_speech,실제 변화율,0.4768,40,반복 실행의 동일 페르소나가 중복된 기술통계이며 독립 표본 추론이 아님
+stance_flexibility,입장 유연성,mean_absolute_delta,변화폭 평균,0.4518,40,반복 실행의 동일 페르소나가 중복된 기술통계이며 독립 표본 추론이 아님
+stance_flexibility,입장 유연성,total_volatility,총 변동성,0.5404,40,반복 실행의 동일 페르소나가 중복된 기술통계이며 독립 표본 추론이 아님

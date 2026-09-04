@@ -1,0 +1,12 @@
+run,speech_act,count
+1,claim,4
+1,rebuttal,14
+1,concession,1
+2,claim,3
+2,rebuttal,15
+3,claim,1
+3,rebuttal,16
+4,claim,3
+4,rebuttal,14
+5,claim,1
+5,rebuttal,17

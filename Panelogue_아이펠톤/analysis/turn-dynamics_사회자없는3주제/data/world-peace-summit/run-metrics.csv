@@ -1,0 +1,2 @@
+﻿run,total_turns,panel_turns,extracted_claims,claims,rebuttals,concessions,mean_confidence,stance_events,final_group_mean,final_mean_absolute_stance,final_stance_spread,consensus_reached,final_agreement_ratio,moderator_present
+1,72,72,39,20,48,3,78.0,44,26.25,43.75,127,false,0.5,false

@@ -1,0 +1,1241 @@
+﻿dataset,run,topic,turn,agent_id,agent_name,stance,confidence,speaker_this_turn,stance_changed
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",0,agent_gen_1,김태훈,100.0,,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",1,agent_gen_1,김태훈,100.0,,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",2,agent_gen_1,김태훈,100.0,92,True,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",3,agent_gen_1,김태훈,100.0,92,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",4,agent_gen_1,김태훈,100.0,92,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",5,agent_gen_1,김태훈,100.0,92,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",6,agent_gen_1,김태훈,100.0,92,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",7,agent_gen_1,김태훈,85.0,88,True,True
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",8,agent_gen_1,김태훈,85.0,88,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",9,agent_gen_1,김태훈,85.0,88,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",10,agent_gen_1,김태훈,85.0,88,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",11,agent_gen_1,김태훈,82.0,87,True,True
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",12,agent_gen_1,김태훈,82.0,87,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",13,agent_gen_1,김태훈,82.0,87,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",14,agent_gen_1,김태훈,82.0,87,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",15,agent_gen_1,김태훈,82.0,87,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",16,agent_gen_1,김태훈,82.0,87,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",17,agent_gen_1,김태훈,76.0,84,True,True
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",18,agent_gen_1,김태훈,76.0,84,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",19,agent_gen_1,김태훈,76.0,84,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",20,agent_gen_1,김태훈,76.0,84,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",21,agent_gen_1,김태훈,76.0,84,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",22,agent_gen_1,김태훈,76.0,84,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",23,agent_gen_1,김태훈,74.0,86,True,True
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",24,agent_gen_1,김태훈,74.0,86,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",25,agent_gen_1,김태훈,72.0,84,True,True
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",26,agent_gen_1,김태훈,72.0,84,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",27,agent_gen_1,김태훈,68.0,82,True,True
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",28,agent_gen_1,김태훈,68.0,82,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",29,agent_gen_1,김태훈,68.0,82,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",30,agent_gen_1,김태훈,68.0,82,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",0,agent_gen_2,박서연,100.0,,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",1,agent_gen_2,박서연,100.0,,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",2,agent_gen_2,박서연,100.0,,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",3,agent_gen_2,박서연,75.0,65,True,True
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",4,agent_gen_2,박서연,75.0,65,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",5,agent_gen_2,박서연,75.0,65,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",6,agent_gen_2,박서연,75.0,65,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",7,agent_gen_2,박서연,75.0,65,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",8,agent_gen_2,박서연,75.0,65,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",9,agent_gen_2,박서연,68.0,75,True,True
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",10,agent_gen_2,박서연,68.0,75,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",11,agent_gen_2,박서연,68.0,75,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",12,agent_gen_2,박서연,68.0,75,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",13,agent_gen_2,박서연,68.0,75,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",14,agent_gen_2,박서연,68.0,75,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",15,agent_gen_2,박서연,68.0,75,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",16,agent_gen_2,박서연,68.0,75,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",17,agent_gen_2,박서연,68.0,75,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",18,agent_gen_2,박서연,68.0,75,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",19,agent_gen_2,박서연,68.0,75,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",20,agent_gen_2,박서연,68.0,75,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",21,agent_gen_2,박서연,68.0,75,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",22,agent_gen_2,박서연,68.0,75,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",23,agent_gen_2,박서연,68.0,75,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",24,agent_gen_2,박서연,68.0,75,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",25,agent_gen_2,박서연,68.0,75,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",26,agent_gen_2,박서연,68.0,75,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",27,agent_gen_2,박서연,68.0,75,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",28,agent_gen_2,박서연,68.0,75,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",29,agent_gen_2,박서연,68.0,75,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",30,agent_gen_2,박서연,68.0,75,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",0,agent_gen_3,이준호,-100.0,,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",1,agent_gen_3,이준호,-100.0,,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",2,agent_gen_3,이준호,-100.0,,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",3,agent_gen_3,이준호,-100.0,,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",4,agent_gen_3,이준호,-100.0,82,True,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",5,agent_gen_3,이준호,-100.0,82,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",6,agent_gen_3,이준호,-100.0,82,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",7,agent_gen_3,이준호,-100.0,82,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",8,agent_gen_3,이준호,-100.0,82,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",9,agent_gen_3,이준호,-100.0,82,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",10,agent_gen_3,이준호,-100.0,82,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",11,agent_gen_3,이준호,-100.0,82,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",12,agent_gen_3,이준호,-100.0,82,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",13,agent_gen_3,이준호,-85.0,78,True,True
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",14,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",15,agent_gen_3,이준호,-85.0,72,True,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",16,agent_gen_3,이준호,-85.0,72,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",17,agent_gen_3,이준호,-85.0,72,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",18,agent_gen_3,이준호,-85.0,72,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",19,agent_gen_3,이준호,-85.0,72,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",20,agent_gen_3,이준호,-85.0,72,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",21,agent_gen_3,이준호,-85.0,72,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",22,agent_gen_3,이준호,-85.0,72,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",23,agent_gen_3,이준호,-85.0,72,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",24,agent_gen_3,이준호,-85.0,72,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",25,agent_gen_3,이준호,-85.0,72,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",26,agent_gen_3,이준호,-85.0,72,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",27,agent_gen_3,이준호,-85.0,72,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",28,agent_gen_3,이준호,-85.0,72,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",29,agent_gen_3,이준호,-85.0,72,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",30,agent_gen_3,이준호,-85.0,72,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",0,agent_gen_4,최유진,-100.0,,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",1,agent_gen_4,최유진,-100.0,,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",2,agent_gen_4,최유진,-100.0,,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",3,agent_gen_4,최유진,-100.0,,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",4,agent_gen_4,최유진,-100.0,,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",5,agent_gen_4,최유진,-95.0,95,True,True
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",6,agent_gen_4,최유진,-95.0,95,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",7,agent_gen_4,최유진,-95.0,95,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",8,agent_gen_4,최유진,-95.0,95,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",9,agent_gen_4,최유진,-95.0,95,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",10,agent_gen_4,최유진,-95.0,95,True,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",11,agent_gen_4,최유진,-95.0,95,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",12,agent_gen_4,최유진,-95.0,95,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",13,agent_gen_4,최유진,-95.0,95,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",14,agent_gen_4,최유진,-95.0,95,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",15,agent_gen_4,최유진,-95.0,95,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",16,agent_gen_4,최유진,-95.0,95,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",17,agent_gen_4,최유진,-95.0,95,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",18,agent_gen_4,최유진,-95.0,95,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",19,agent_gen_4,최유진,-98.0,95,True,True
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",20,agent_gen_4,최유진,-98.0,95,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",21,agent_gen_4,최유진,-99.0,95,True,True
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",22,agent_gen_4,최유진,-99.0,95,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",23,agent_gen_4,최유진,-99.0,95,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",24,agent_gen_4,최유진,-99.0,95,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",25,agent_gen_4,최유진,-99.0,95,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",26,agent_gen_4,최유진,-99.0,95,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",27,agent_gen_4,최유진,-99.0,95,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",28,agent_gen_4,최유진,-99.0,95,False,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",29,agent_gen_4,최유진,-99.0,95,True,False
+elon-musk-five-runs,run-01,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",30,agent_gen_4,최유진,-99.0,95,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",0,agent_gen_1,김태훈,100.0,,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",1,agent_gen_1,김태훈,100.0,,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",2,agent_gen_1,김태훈,100.0,88,True,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",3,agent_gen_1,김태훈,100.0,88,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",4,agent_gen_1,김태훈,100.0,88,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",5,agent_gen_1,김태훈,100.0,88,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",6,agent_gen_1,김태훈,100.0,88,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",7,agent_gen_1,김태훈,100.0,88,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",8,agent_gen_1,김태훈,95.0,82,True,True
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",9,agent_gen_1,김태훈,95.0,82,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",10,agent_gen_1,김태훈,95.0,82,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",11,agent_gen_1,김태훈,95.0,82,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",12,agent_gen_1,김태훈,95.0,86,True,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",13,agent_gen_1,김태훈,95.0,86,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",14,agent_gen_1,김태훈,95.0,86,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",15,agent_gen_1,김태훈,95.0,86,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",16,agent_gen_1,김태훈,95.0,86,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",17,agent_gen_1,김태훈,90.0,88,True,True
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",18,agent_gen_1,김태훈,90.0,88,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",19,agent_gen_1,김태훈,90.0,88,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",20,agent_gen_1,김태훈,90.0,88,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",21,agent_gen_1,김태훈,85.0,86,True,True
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",22,agent_gen_1,김태훈,85.0,86,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",23,agent_gen_1,김태훈,85.0,86,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",24,agent_gen_1,김태훈,85.0,86,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",25,agent_gen_1,김태훈,85.0,86,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",26,agent_gen_1,김태훈,85.0,86,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",27,agent_gen_1,김태훈,85.0,86,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",28,agent_gen_1,김태훈,82.0,86,True,True
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",29,agent_gen_1,김태훈,82.0,86,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",30,agent_gen_1,김태훈,82.0,86,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",0,agent_gen_2,박서연,100.0,,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",1,agent_gen_2,박서연,100.0,75,True,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",2,agent_gen_2,박서연,100.0,75,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",3,agent_gen_2,박서연,100.0,75,True,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",4,agent_gen_2,박서연,100.0,75,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",5,agent_gen_2,박서연,100.0,75,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",6,agent_gen_2,박서연,100.0,75,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",7,agent_gen_2,박서연,100.0,75,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",8,agent_gen_2,박서연,100.0,75,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",9,agent_gen_2,박서연,100.0,75,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",10,agent_gen_2,박서연,85.0,65,True,True
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",11,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",12,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",13,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",14,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",15,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",16,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",17,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",18,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",19,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",20,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",21,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",22,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",23,agent_gen_2,박서연,78.0,70,True,True
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",24,agent_gen_2,박서연,78.0,70,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",25,agent_gen_2,박서연,78.0,70,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",26,agent_gen_2,박서연,78.0,70,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",27,agent_gen_2,박서연,78.0,70,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",28,agent_gen_2,박서연,78.0,70,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",29,agent_gen_2,박서연,78.0,70,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",30,agent_gen_2,박서연,78.0,70,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",0,agent_gen_3,이준호,-100.0,,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",1,agent_gen_3,이준호,-100.0,,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",2,agent_gen_3,이준호,-100.0,,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",3,agent_gen_3,이준호,-100.0,,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",4,agent_gen_3,이준호,-85.0,78,True,True
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",5,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",6,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",7,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",8,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",9,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",10,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",11,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",12,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",13,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",14,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",15,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",16,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",17,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",18,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",19,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",20,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",21,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",22,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",23,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",24,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",25,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",26,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",27,agent_gen_3,이준호,-85.0,80,True,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",28,agent_gen_3,이준호,-85.0,80,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",29,agent_gen_3,이준호,-85.0,80,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",30,agent_gen_3,이준호,-85.0,80,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",0,agent_gen_4,최유진,-100.0,,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",1,agent_gen_4,최유진,-100.0,,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",2,agent_gen_4,최유진,-100.0,,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",3,agent_gen_4,최유진,-100.0,,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",4,agent_gen_4,최유진,-100.0,,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",5,agent_gen_4,최유진,-100.0,95,True,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",6,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",7,agent_gen_4,최유진,-100.0,95,True,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",8,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",9,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",10,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",11,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",12,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",13,agent_gen_4,최유진,-100.0,100,True,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",14,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",15,agent_gen_4,최유진,-100.0,100,True,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",16,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",17,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",18,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",19,agent_gen_4,최유진,-100.0,100,True,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",20,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",21,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",22,agent_gen_4,최유진,-100.0,95,True,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",23,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",24,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",25,agent_gen_4,최유진,-100.0,95,True,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",26,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",27,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",28,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",29,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-02,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",30,agent_gen_4,최유진,-100.0,100,True,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",0,agent_gen_1,김태훈,100.0,,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",1,agent_gen_1,김태훈,100.0,,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",2,agent_gen_1,김태훈,100.0,92,True,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",3,agent_gen_1,김태훈,100.0,92,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",4,agent_gen_1,김태훈,100.0,92,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",5,agent_gen_1,김태훈,100.0,92,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",6,agent_gen_1,김태훈,100.0,92,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",7,agent_gen_1,김태훈,100.0,92,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",8,agent_gen_1,김태훈,100.0,92,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",9,agent_gen_1,김태훈,82.0,84,True,True
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",10,agent_gen_1,김태훈,82.0,84,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",11,agent_gen_1,김태훈,82.0,84,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",12,agent_gen_1,김태훈,82.0,84,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",13,agent_gen_1,김태훈,82.0,84,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",14,agent_gen_1,김태훈,82.0,84,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",15,agent_gen_1,김태훈,82.0,84,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",16,agent_gen_1,김태훈,82.0,84,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",17,agent_gen_1,김태훈,78.0,86,True,True
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",18,agent_gen_1,김태훈,78.0,86,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",19,agent_gen_1,김태훈,78.0,86,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",20,agent_gen_1,김태훈,78.0,86,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",21,agent_gen_1,김태훈,78.0,86,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",22,agent_gen_1,김태훈,78.0,86,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",23,agent_gen_1,김태훈,78.0,86,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",24,agent_gen_1,김태훈,76.0,82,True,True
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",25,agent_gen_1,김태훈,76.0,82,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",26,agent_gen_1,김태훈,76.0,82,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",27,agent_gen_1,김태훈,76.0,82,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",28,agent_gen_1,김태훈,74.0,82,True,True
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",29,agent_gen_1,김태훈,74.0,82,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",30,agent_gen_1,김태훈,74.0,82,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",0,agent_gen_2,박서연,100.0,,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",1,agent_gen_2,박서연,100.0,,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",2,agent_gen_2,박서연,100.0,,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",3,agent_gen_2,박서연,85.0,65,True,True
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",4,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",5,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",6,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",7,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",8,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",9,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",10,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",11,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",12,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",13,agent_gen_2,박서연,72.0,75,True,True
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",14,agent_gen_2,박서연,72.0,75,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",15,agent_gen_2,박서연,72.0,75,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",16,agent_gen_2,박서연,72.0,75,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",17,agent_gen_2,박서연,72.0,75,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",18,agent_gen_2,박서연,72.0,75,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",19,agent_gen_2,박서연,72.0,75,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",20,agent_gen_2,박서연,72.0,75,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",21,agent_gen_2,박서연,72.0,75,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",22,agent_gen_2,박서연,72.0,75,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",23,agent_gen_2,박서연,65.0,75,True,True
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",24,agent_gen_2,박서연,65.0,75,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",25,agent_gen_2,박서연,65.0,75,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",26,agent_gen_2,박서연,65.0,75,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",27,agent_gen_2,박서연,65.0,75,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",28,agent_gen_2,박서연,65.0,75,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",29,agent_gen_2,박서연,65.0,75,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",30,agent_gen_2,박서연,65.0,75,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",0,agent_gen_3,이준호,-100.0,,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",1,agent_gen_3,이준호,-100.0,,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",2,agent_gen_3,이준호,-100.0,,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",3,agent_gen_3,이준호,-100.0,,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",4,agent_gen_3,이준호,-85.0,78,True,True
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",5,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",6,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",7,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",8,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",9,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",10,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",11,agent_gen_3,이준호,-85.0,82,True,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",12,agent_gen_3,이준호,-85.0,82,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",13,agent_gen_3,이준호,-85.0,82,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",14,agent_gen_3,이준호,-85.0,82,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",15,agent_gen_3,이준호,-85.0,82,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",16,agent_gen_3,이준호,-85.0,82,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",17,agent_gen_3,이준호,-85.0,82,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",18,agent_gen_3,이준호,-85.0,82,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",19,agent_gen_3,이준호,-85.0,82,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",20,agent_gen_3,이준호,-85.0,82,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",21,agent_gen_3,이준호,-85.0,82,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",22,agent_gen_3,이준호,-85.0,82,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",23,agent_gen_3,이준호,-85.0,82,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",24,agent_gen_3,이준호,-85.0,82,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",25,agent_gen_3,이준호,-85.0,82,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",26,agent_gen_3,이준호,-85.0,82,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",27,agent_gen_3,이준호,-85.0,82,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",28,agent_gen_3,이준호,-85.0,82,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",29,agent_gen_3,이준호,-85.0,82,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",30,agent_gen_3,이준호,-85.0,82,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",0,agent_gen_4,최유진,-100.0,,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",1,agent_gen_4,최유진,-100.0,,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",2,agent_gen_4,최유진,-100.0,,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",3,agent_gen_4,최유진,-100.0,,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",4,agent_gen_4,최유진,-100.0,,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",5,agent_gen_4,최유진,-100.0,95,True,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",6,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",7,agent_gen_4,최유진,-100.0,100,True,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",8,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",9,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",10,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",11,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",12,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",13,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",14,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",15,agent_gen_4,최유진,-100.0,100,True,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",16,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",17,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",18,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",19,agent_gen_4,최유진,-100.0,95,True,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",20,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",21,agent_gen_4,최유진,-100.0,100,True,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",22,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",23,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",24,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",25,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",26,agent_gen_4,최유진,-100.0,95,True,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",27,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",28,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",29,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-03,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",30,agent_gen_4,최유진,-100.0,95,True,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",0,agent_gen_1,김태훈,100.0,,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",1,agent_gen_1,김태훈,100.0,,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",2,agent_gen_1,김태훈,100.0,88,True,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",3,agent_gen_1,김태훈,100.0,88,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",4,agent_gen_1,김태훈,100.0,88,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",5,agent_gen_1,김태훈,100.0,88,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",6,agent_gen_1,김태훈,100.0,88,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",7,agent_gen_1,김태훈,100.0,88,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",8,agent_gen_1,김태훈,90.0,82,True,True
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",9,agent_gen_1,김태훈,90.0,82,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",10,agent_gen_1,김태훈,85.0,88,True,True
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",11,agent_gen_1,김태훈,85.0,88,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",12,agent_gen_1,김태훈,84.0,86,True,True
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",13,agent_gen_1,김태훈,84.0,86,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",14,agent_gen_1,김태훈,84.0,86,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",15,agent_gen_1,김태훈,84.0,86,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",16,agent_gen_1,김태훈,84.0,86,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",17,agent_gen_1,김태훈,82.0,76,True,True
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",18,agent_gen_1,김태훈,82.0,76,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",19,agent_gen_1,김태훈,82.0,76,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",20,agent_gen_1,김태훈,82.0,76,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",21,agent_gen_1,김태훈,82.0,76,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",22,agent_gen_1,김태훈,82.0,76,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",23,agent_gen_1,김태훈,76.0,82,True,True
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",24,agent_gen_1,김태훈,76.0,82,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",25,agent_gen_1,김태훈,72.0,86,True,True
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",26,agent_gen_1,김태훈,72.0,86,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",27,agent_gen_1,김태훈,72.0,86,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",28,agent_gen_1,김태훈,72.0,86,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",29,agent_gen_1,김태훈,72.0,86,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",30,agent_gen_1,김태훈,72.0,86,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",0,agent_gen_2,박서연,100.0,,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",1,agent_gen_2,박서연,100.0,,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",2,agent_gen_2,박서연,100.0,,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",3,agent_gen_2,박서연,85.0,65,True,True
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",4,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",5,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",6,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",7,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",8,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",9,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",10,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",11,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",12,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",13,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",14,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",15,agent_gen_2,박서연,85.0,65,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",16,agent_gen_2,박서연,78.0,70,True,True
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",17,agent_gen_2,박서연,78.0,70,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",18,agent_gen_2,박서연,78.0,70,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",19,agent_gen_2,박서연,78.0,70,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",20,agent_gen_2,박서연,78.0,70,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",21,agent_gen_2,박서연,78.0,70,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",22,agent_gen_2,박서연,78.0,70,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",23,agent_gen_2,박서연,78.0,70,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",24,agent_gen_2,박서연,78.0,70,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",25,agent_gen_2,박서연,78.0,70,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",26,agent_gen_2,박서연,78.0,70,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",27,agent_gen_2,박서연,65.0,70,True,True
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",28,agent_gen_2,박서연,65.0,70,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",29,agent_gen_2,박서연,65.0,70,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",30,agent_gen_2,박서연,65.0,70,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",0,agent_gen_3,이준호,-100.0,,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",1,agent_gen_3,이준호,-100.0,,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",2,agent_gen_3,이준호,-100.0,,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",3,agent_gen_3,이준호,-100.0,,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",4,agent_gen_3,이준호,-85.0,78,True,True
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",5,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",6,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",7,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",8,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",9,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",10,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",11,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",12,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",13,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",14,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",15,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",16,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",17,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",18,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",19,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",20,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",21,agent_gen_3,이준호,-85.0,80,True,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",22,agent_gen_3,이준호,-85.0,80,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",23,agent_gen_3,이준호,-85.0,80,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",24,agent_gen_3,이준호,-85.0,80,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",25,agent_gen_3,이준호,-85.0,80,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",26,agent_gen_3,이준호,-85.0,80,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",27,agent_gen_3,이준호,-85.0,80,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",28,agent_gen_3,이준호,-85.0,80,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",29,agent_gen_3,이준호,-85.0,80,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",30,agent_gen_3,이준호,-85.0,80,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",0,agent_gen_4,최유진,-100.0,,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",1,agent_gen_4,최유진,-100.0,,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",2,agent_gen_4,최유진,-100.0,,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",3,agent_gen_4,최유진,-100.0,,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",4,agent_gen_4,최유진,-100.0,,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",5,agent_gen_4,최유진,-100.0,95,True,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",6,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",7,agent_gen_4,최유진,-100.0,100,True,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",8,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",9,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",10,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",11,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",12,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",13,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",14,agent_gen_4,최유진,-100.0,100,True,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",15,agent_gen_4,최유진,-100.0,95,True,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",16,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",17,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",18,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",19,agent_gen_4,최유진,-100.0,95,True,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",20,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",21,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",22,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",23,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",24,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",25,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",26,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",27,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",28,agent_gen_4,최유진,-100.0,100,True,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",29,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-04,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",30,agent_gen_4,최유진,-100.0,100,True,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",0,agent_gen_1,김태훈,100.0,,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",1,agent_gen_1,김태훈,100.0,,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",2,agent_gen_1,김태훈,100.0,92,True,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",3,agent_gen_1,김태훈,100.0,92,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",4,agent_gen_1,김태훈,100.0,92,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",5,agent_gen_1,김태훈,100.0,92,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",6,agent_gen_1,김태훈,100.0,92,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",7,agent_gen_1,김태훈,100.0,92,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",8,agent_gen_1,김태훈,100.0,92,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",9,agent_gen_1,김태훈,85.0,82,True,True
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",10,agent_gen_1,김태훈,80.0,82,True,True
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",11,agent_gen_1,김태훈,80.0,82,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",12,agent_gen_1,김태훈,80.0,82,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",13,agent_gen_1,김태훈,80.0,82,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",14,agent_gen_1,김태훈,80.0,82,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",15,agent_gen_1,김태훈,80.0,82,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",16,agent_gen_1,김태훈,80.0,82,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",17,agent_gen_1,김태훈,80.0,82,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",18,agent_gen_1,김태훈,80.0,82,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",19,agent_gen_1,김태훈,80.0,82,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",20,agent_gen_1,김태훈,80.0,82,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",21,agent_gen_1,김태훈,80.0,82,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",22,agent_gen_1,김태훈,78.0,86,True,True
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",23,agent_gen_1,김태훈,78.0,86,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",24,agent_gen_1,김태훈,78.0,86,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",25,agent_gen_1,김태훈,78.0,86,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",26,agent_gen_1,김태훈,78.0,86,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",27,agent_gen_1,김태훈,78.0,86,True,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",28,agent_gen_1,김태훈,78.0,86,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",29,agent_gen_1,김태훈,78.0,86,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",30,agent_gen_1,김태훈,78.0,86,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",0,agent_gen_2,박서연,100.0,,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",1,agent_gen_2,박서연,100.0,,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",2,agent_gen_2,박서연,100.0,,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",3,agent_gen_2,박서연,85.0,75,True,True
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",4,agent_gen_2,박서연,85.0,75,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",5,agent_gen_2,박서연,85.0,75,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",6,agent_gen_2,박서연,85.0,75,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",7,agent_gen_2,박서연,85.0,75,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",8,agent_gen_2,박서연,85.0,75,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",9,agent_gen_2,박서연,85.0,75,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",10,agent_gen_2,박서연,85.0,75,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",11,agent_gen_2,박서연,85.0,75,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",12,agent_gen_2,박서연,85.0,75,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",13,agent_gen_2,박서연,85.0,75,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",14,agent_gen_2,박서연,85.0,75,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",15,agent_gen_2,박서연,72.0,65,True,True
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",16,agent_gen_2,박서연,72.0,65,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",17,agent_gen_2,박서연,72.0,65,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",18,agent_gen_2,박서연,72.0,65,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",19,agent_gen_2,박서연,68.0,75,True,True
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",20,agent_gen_2,박서연,68.0,75,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",21,agent_gen_2,박서연,68.0,75,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",22,agent_gen_2,박서연,68.0,75,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",23,agent_gen_2,박서연,68.0,75,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",24,agent_gen_2,박서연,68.0,75,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",25,agent_gen_2,박서연,68.0,75,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",26,agent_gen_2,박서연,68.0,75,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",27,agent_gen_2,박서연,68.0,75,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",28,agent_gen_2,박서연,68.0,75,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",29,agent_gen_2,박서연,68.0,75,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",30,agent_gen_2,박서연,68.0,75,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",0,agent_gen_3,이준호,-100.0,,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",1,agent_gen_3,이준호,-100.0,,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",2,agent_gen_3,이준호,-100.0,,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",3,agent_gen_3,이준호,-100.0,,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",4,agent_gen_3,이준호,-85.0,78,True,True
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",5,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",6,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",7,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",8,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",9,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",10,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",11,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",12,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",13,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",14,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",15,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",16,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",17,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",18,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",19,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",20,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",21,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",22,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",23,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",24,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",25,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",26,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",27,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",28,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",29,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",30,agent_gen_3,이준호,-85.0,78,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",0,agent_gen_4,최유진,-100.0,,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",1,agent_gen_4,최유진,-100.0,,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",2,agent_gen_4,최유진,-100.0,,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",3,agent_gen_4,최유진,-100.0,,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",4,agent_gen_4,최유진,-100.0,,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",5,agent_gen_4,최유진,-100.0,95,True,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",6,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",7,agent_gen_4,최유진,-100.0,100,True,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",8,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",9,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",10,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",11,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",12,agent_gen_4,최유진,-100.0,95,True,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",13,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",14,agent_gen_4,최유진,-100.0,100,True,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",15,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",16,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",17,agent_gen_4,최유진,-100.0,100,True,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",18,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",19,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",20,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",21,agent_gen_4,최유진,-100.0,95,True,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",22,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",23,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",24,agent_gen_4,최유진,-100.0,100,True,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",25,agent_gen_4,최유진,-100.0,100,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",26,agent_gen_4,최유진,-100.0,95,True,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",27,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",28,agent_gen_4,최유진,-100.0,95,False,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",29,agent_gen_4,최유진,-100.0,95,True,False
+elon-musk-five-runs,run-05,"일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",30,agent_gen_4,최유진,-100.0,95,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",0,agent_gen_1,김민석,100.0,,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",1,agent_gen_1,김민석,100.0,,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",2,agent_gen_1,김민석,100.0,92,True,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",3,agent_gen_1,김민석,100.0,92,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",4,agent_gen_1,김민석,100.0,92,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",5,agent_gen_1,김민석,100.0,92,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",6,agent_gen_1,김민석,100.0,92,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",7,agent_gen_1,김민석,100.0,92,True,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",8,agent_gen_1,김민석,100.0,92,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",9,agent_gen_1,김민석,100.0,92,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",10,agent_gen_1,김민석,100.0,88,True,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",11,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",12,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",13,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",14,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",15,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",16,agent_gen_1,김민석,100.0,82,True,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",17,agent_gen_1,김민석,100.0,82,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",18,agent_gen_1,김민석,100.0,82,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",19,agent_gen_1,김민석,100.0,82,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",20,agent_gen_1,김민석,100.0,91,True,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",21,agent_gen_1,김민석,100.0,91,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",22,agent_gen_1,김민석,100.0,91,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",23,agent_gen_1,김민석,100.0,91,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",24,agent_gen_1,김민석,100.0,91,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",25,agent_gen_1,김민석,100.0,91,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",26,agent_gen_1,김민석,100.0,91,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",27,agent_gen_1,김민석,100.0,91,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",28,agent_gen_1,김민석,100.0,92,True,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",29,agent_gen_1,김민석,100.0,92,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",30,agent_gen_1,김민석,100.0,92,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",0,agent_gen_2,윤서아,100.0,,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",1,agent_gen_2,윤서아,100.0,75,True,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",2,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",3,agent_gen_2,윤서아,100.0,85,True,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",4,agent_gen_2,윤서아,100.0,85,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",5,agent_gen_2,윤서아,100.0,85,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",6,agent_gen_2,윤서아,100.0,85,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",7,agent_gen_2,윤서아,100.0,85,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",8,agent_gen_2,윤서아,100.0,85,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",9,agent_gen_2,윤서아,100.0,85,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",10,agent_gen_2,윤서아,100.0,85,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",11,agent_gen_2,윤서아,100.0,85,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",12,agent_gen_2,윤서아,100.0,85,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",13,agent_gen_2,윤서아,100.0,85,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",14,agent_gen_2,윤서아,100.0,85,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",15,agent_gen_2,윤서아,100.0,85,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",16,agent_gen_2,윤서아,100.0,85,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",17,agent_gen_2,윤서아,100.0,85,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",18,agent_gen_2,윤서아,100.0,85,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",19,agent_gen_2,윤서아,100.0,85,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",20,agent_gen_2,윤서아,100.0,85,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",21,agent_gen_2,윤서아,100.0,85,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",22,agent_gen_2,윤서아,100.0,85,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",23,agent_gen_2,윤서아,100.0,85,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",24,agent_gen_2,윤서아,100.0,75,True,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",25,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",26,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",27,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",28,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",29,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",30,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",0,agent_gen_3,박도현,-100.0,,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",1,agent_gen_3,박도현,-100.0,,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",2,agent_gen_3,박도현,-100.0,,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",3,agent_gen_3,박도현,-100.0,,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",4,agent_gen_3,박도현,-100.0,85,True,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",5,agent_gen_3,박도현,-100.0,85,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",6,agent_gen_3,박도현,-100.0,85,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",7,agent_gen_3,박도현,-100.0,85,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",8,agent_gen_3,박도현,-100.0,85,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",9,agent_gen_3,박도현,-100.0,85,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",10,agent_gen_3,박도현,-100.0,85,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",11,agent_gen_3,박도현,-100.0,85,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",12,agent_gen_3,박도현,-85.0,78,True,True
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",13,agent_gen_3,박도현,-85.0,78,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",14,agent_gen_3,박도현,-85.0,62,True,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",15,agent_gen_3,박도현,-85.0,62,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",16,agent_gen_3,박도현,-85.0,62,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",17,agent_gen_3,박도현,-85.0,62,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",18,agent_gen_3,박도현,-85.0,78,True,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",19,agent_gen_3,박도현,-85.0,78,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",20,agent_gen_3,박도현,-85.0,78,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",21,agent_gen_3,박도현,-85.0,78,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",22,agent_gen_3,박도현,-85.0,78,True,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",23,agent_gen_3,박도현,-85.0,78,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",24,agent_gen_3,박도현,-85.0,78,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",25,agent_gen_3,박도현,-85.0,78,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",26,agent_gen_3,박도현,-85.0,80,True,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",27,agent_gen_3,박도현,-85.0,80,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",28,agent_gen_3,박도현,-85.0,80,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",29,agent_gen_3,박도현,-85.0,80,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",30,agent_gen_3,박도현,-85.0,80,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",0,agent_gen_4,한지우,-100.0,,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",1,agent_gen_4,한지우,-100.0,,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",2,agent_gen_4,한지우,-100.0,,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",3,agent_gen_4,한지우,-100.0,,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",4,agent_gen_4,한지우,-100.0,,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",5,agent_gen_4,한지우,-100.0,95,True,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",6,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",7,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",8,agent_gen_4,한지우,-100.0,95,True,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",9,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",10,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",11,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",12,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",13,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",14,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",15,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",16,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",17,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",18,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",19,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",20,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",21,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",22,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",23,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",24,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",25,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",26,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",27,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",28,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",29,agent_gen_4,한지우,-100.0,95,True,False
+var-ai-referee-five-runs,run-01,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",30,agent_gen_4,한지우,-100.0,95,True,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",0,agent_gen_1,김민석,100.0,,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",1,agent_gen_1,김민석,100.0,,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",2,agent_gen_1,김민석,100.0,95,True,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",3,agent_gen_1,김민석,100.0,95,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",4,agent_gen_1,김민석,100.0,95,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",5,agent_gen_1,김민석,100.0,95,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",6,agent_gen_1,김민석,100.0,95,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",7,agent_gen_1,김민석,100.0,95,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",8,agent_gen_1,김민석,100.0,95,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",9,agent_gen_1,김민석,100.0,93,True,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",10,agent_gen_1,김민석,100.0,93,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",11,agent_gen_1,김민석,100.0,93,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",12,agent_gen_1,김민석,100.0,93,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",13,agent_gen_1,김민석,100.0,93,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",14,agent_gen_1,김민석,100.0,93,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",15,agent_gen_1,김민석,100.0,93,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",16,agent_gen_1,김민석,100.0,93,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",17,agent_gen_1,김민석,100.0,92,True,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",18,agent_gen_1,김민석,100.0,92,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",19,agent_gen_1,김민석,100.0,92,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",20,agent_gen_1,김민석,100.0,92,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",21,agent_gen_1,김민석,100.0,87,True,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",22,agent_gen_1,김민석,100.0,87,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",23,agent_gen_1,김민석,100.0,87,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",24,agent_gen_1,김민석,100.0,87,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",25,agent_gen_1,김민석,100.0,87,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",26,agent_gen_1,김민석,100.0,87,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",27,agent_gen_1,김민석,100.0,87,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",28,agent_gen_1,김민석,100.0,88,True,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",29,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",30,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",0,agent_gen_2,윤서아,100.0,,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",1,agent_gen_2,윤서아,100.0,,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",2,agent_gen_2,윤서아,100.0,,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",3,agent_gen_2,윤서아,100.0,75,True,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",4,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",5,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",6,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",7,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",8,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",9,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",10,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",11,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",12,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",13,agent_gen_2,윤서아,100.0,65,True,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",14,agent_gen_2,윤서아,100.0,65,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",15,agent_gen_2,윤서아,100.0,65,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",16,agent_gen_2,윤서아,85.0,65,True,True
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",17,agent_gen_2,윤서아,85.0,65,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",18,agent_gen_2,윤서아,85.0,65,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",19,agent_gen_2,윤서아,85.0,65,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",20,agent_gen_2,윤서아,85.0,65,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",21,agent_gen_2,윤서아,85.0,65,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",22,agent_gen_2,윤서아,85.0,65,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",23,agent_gen_2,윤서아,85.0,65,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",24,agent_gen_2,윤서아,85.0,65,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",25,agent_gen_2,윤서아,85.0,65,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",26,agent_gen_2,윤서아,78.0,65,True,True
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",27,agent_gen_2,윤서아,78.0,65,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",28,agent_gen_2,윤서아,78.0,65,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",29,agent_gen_2,윤서아,78.0,65,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",30,agent_gen_2,윤서아,78.0,65,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",0,agent_gen_3,박도현,-100.0,,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",1,agent_gen_3,박도현,-100.0,,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",2,agent_gen_3,박도현,-100.0,,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",3,agent_gen_3,박도현,-100.0,,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",4,agent_gen_3,박도현,-100.0,82,True,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",5,agent_gen_3,박도현,-100.0,82,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",6,agent_gen_3,박도현,-100.0,82,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",7,agent_gen_3,박도현,-100.0,82,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",8,agent_gen_3,박도현,-100.0,82,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",9,agent_gen_3,박도현,-100.0,82,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",10,agent_gen_3,박도현,-100.0,82,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",11,agent_gen_3,박도현,-100.0,82,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",12,agent_gen_3,박도현,-100.0,82,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",13,agent_gen_3,박도현,-100.0,82,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",14,agent_gen_3,박도현,-100.0,82,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",15,agent_gen_3,박도현,-100.0,82,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",16,agent_gen_3,박도현,-100.0,82,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",17,agent_gen_3,박도현,-100.0,82,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",18,agent_gen_3,박도현,-100.0,82,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",19,agent_gen_3,박도현,-100.0,82,True,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",20,agent_gen_3,박도현,-100.0,82,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",21,agent_gen_3,박도현,-100.0,82,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",22,agent_gen_3,박도현,-100.0,82,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",23,agent_gen_3,박도현,-100.0,82,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",24,agent_gen_3,박도현,-100.0,82,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",25,agent_gen_3,박도현,-100.0,82,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",26,agent_gen_3,박도현,-100.0,82,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",27,agent_gen_3,박도현,-100.0,82,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",28,agent_gen_3,박도현,-100.0,82,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",29,agent_gen_3,박도현,-100.0,82,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",30,agent_gen_3,박도현,-100.0,82,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",0,agent_gen_4,한지우,-100.0,,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",1,agent_gen_4,한지우,-100.0,,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",2,agent_gen_4,한지우,-100.0,,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",3,agent_gen_4,한지우,-100.0,,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",4,agent_gen_4,한지우,-100.0,,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",5,agent_gen_4,한지우,-100.0,95,True,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",6,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",7,agent_gen_4,한지우,-100.0,80,True,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",8,agent_gen_4,한지우,-100.0,80,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",9,agent_gen_4,한지우,-100.0,80,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",10,agent_gen_4,한지우,-100.0,80,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",11,agent_gen_4,한지우,-100.0,95,True,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",12,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",13,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",14,agent_gen_4,한지우,-100.0,95,True,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",15,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",16,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",17,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",18,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",19,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",20,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",21,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",22,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",23,agent_gen_4,한지우,-100.0,95,True,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",24,agent_gen_4,한지우,-100.0,95,True,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",25,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",26,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",27,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",28,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",29,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-02,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",30,agent_gen_4,한지우,-100.0,95,True,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",0,agent_gen_1,김민석,100.0,,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",1,agent_gen_1,김민석,100.0,,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",2,agent_gen_1,김민석,100.0,88,True,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",3,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",4,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",5,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",6,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",7,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",8,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",9,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",10,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",11,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",12,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",13,agent_gen_1,김민석,100.0,84,True,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",14,agent_gen_1,김민석,100.0,84,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",15,agent_gen_1,김민석,100.0,84,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",16,agent_gen_1,김민석,100.0,84,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",17,agent_gen_1,김민석,100.0,84,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",18,agent_gen_1,김민석,100.0,84,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",19,agent_gen_1,김민석,100.0,84,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",20,agent_gen_1,김민석,100.0,84,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",21,agent_gen_1,김민석,100.0,88,True,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",22,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",23,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",24,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",25,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",26,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",27,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",28,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",29,agent_gen_1,김민석,100.0,86,True,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",30,agent_gen_1,김민석,100.0,86,True,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",0,agent_gen_2,윤서아,100.0,,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",1,agent_gen_2,윤서아,100.0,,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",2,agent_gen_2,윤서아,100.0,,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",3,agent_gen_2,윤서아,100.0,75,True,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",4,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",5,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",6,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",7,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",8,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",9,agent_gen_2,윤서아,100.0,75,True,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",10,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",11,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",12,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",13,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",14,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",15,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",16,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",17,agent_gen_2,윤서아,100.0,80,True,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",18,agent_gen_2,윤서아,100.0,80,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",19,agent_gen_2,윤서아,100.0,80,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",20,agent_gen_2,윤서아,100.0,80,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",21,agent_gen_2,윤서아,100.0,80,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",22,agent_gen_2,윤서아,100.0,80,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",23,agent_gen_2,윤서아,100.0,80,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",24,agent_gen_2,윤서아,100.0,80,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",25,agent_gen_2,윤서아,100.0,80,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",26,agent_gen_2,윤서아,100.0,80,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",27,agent_gen_2,윤서아,100.0,80,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",28,agent_gen_2,윤서아,100.0,80,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",29,agent_gen_2,윤서아,100.0,80,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",30,agent_gen_2,윤서아,100.0,80,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",0,agent_gen_3,박도현,-100.0,,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",1,agent_gen_3,박도현,-100.0,,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",2,agent_gen_3,박도현,-100.0,,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",3,agent_gen_3,박도현,-100.0,,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",4,agent_gen_3,박도현,-100.0,88,True,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",5,agent_gen_3,박도현,-100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",6,agent_gen_3,박도현,-100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",7,agent_gen_3,박도현,-100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",8,agent_gen_3,박도현,-100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",9,agent_gen_3,박도현,-100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",10,agent_gen_3,박도현,-100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",11,agent_gen_3,박도현,-100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",12,agent_gen_3,박도현,-100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",13,agent_gen_3,박도현,-100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",14,agent_gen_3,박도현,-100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",15,agent_gen_3,박도현,-100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",16,agent_gen_3,박도현,-100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",17,agent_gen_3,박도현,-100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",18,agent_gen_3,박도현,-100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",19,agent_gen_3,박도현,-100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",20,agent_gen_3,박도현,-100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",21,agent_gen_3,박도현,-100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",22,agent_gen_3,박도현,-100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",23,agent_gen_3,박도현,-100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",24,agent_gen_3,박도현,-100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",25,agent_gen_3,박도현,-100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",26,agent_gen_3,박도현,-100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",27,agent_gen_3,박도현,-100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",28,agent_gen_3,박도현,-100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",29,agent_gen_3,박도현,-100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",30,agent_gen_3,박도현,-100.0,88,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",0,agent_gen_4,한지우,-100.0,,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",1,agent_gen_4,한지우,-100.0,,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",2,agent_gen_4,한지우,-100.0,,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",3,agent_gen_4,한지우,-100.0,,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",4,agent_gen_4,한지우,-100.0,,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",5,agent_gen_4,한지우,-100.0,95,True,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",6,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",7,agent_gen_4,한지우,-100.0,100,True,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",8,agent_gen_4,한지우,-100.0,100,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",9,agent_gen_4,한지우,-100.0,100,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",10,agent_gen_4,한지우,-100.0,100,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",11,agent_gen_4,한지우,-100.0,95,True,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",12,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",13,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",14,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",15,agent_gen_4,한지우,-100.0,95,True,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",16,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",17,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",18,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",19,agent_gen_4,한지우,-100.0,95,True,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",20,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",21,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",22,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",23,agent_gen_4,한지우,-100.0,95,True,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",24,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",25,agent_gen_4,한지우,-100.0,95,True,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",26,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",27,agent_gen_4,한지우,-100.0,95,True,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",28,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",29,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-03,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",30,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",0,agent_gen_1,김민석,100.0,,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",1,agent_gen_1,김민석,100.0,,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",2,agent_gen_1,김민석,100.0,92,True,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",3,agent_gen_1,김민석,100.0,92,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",4,agent_gen_1,김민석,100.0,92,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",5,agent_gen_1,김민석,100.0,92,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",6,agent_gen_1,김민석,100.0,92,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",7,agent_gen_1,김민석,100.0,86,True,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",8,agent_gen_1,김민석,100.0,86,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",9,agent_gen_1,김민석,100.0,86,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",10,agent_gen_1,김민석,100.0,86,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",11,agent_gen_1,김민석,100.0,86,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",12,agent_gen_1,김민석,100.0,86,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",13,agent_gen_1,김민석,100.0,86,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",14,agent_gen_1,김민석,100.0,86,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",15,agent_gen_1,김민석,100.0,92,True,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",16,agent_gen_1,김민석,100.0,92,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",17,agent_gen_1,김민석,100.0,92,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",18,agent_gen_1,김민석,100.0,92,True,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",19,agent_gen_1,김민석,100.0,92,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",20,agent_gen_1,김민석,100.0,92,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",21,agent_gen_1,김민석,100.0,92,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",22,agent_gen_1,김민석,100.0,87,True,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",23,agent_gen_1,김민석,100.0,87,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",24,agent_gen_1,김민석,100.0,87,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",25,agent_gen_1,김민석,100.0,87,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",26,agent_gen_1,김민석,100.0,87,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",27,agent_gen_1,김민석,100.0,87,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",28,agent_gen_1,김민석,100.0,87,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",29,agent_gen_1,김민석,100.0,87,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",30,agent_gen_1,김민석,100.0,87,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",0,agent_gen_2,윤서아,100.0,,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",1,agent_gen_2,윤서아,100.0,,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",2,agent_gen_2,윤서아,100.0,,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",3,agent_gen_2,윤서아,100.0,75,True,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",4,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",5,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",6,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",7,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",8,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",9,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",10,agent_gen_2,윤서아,100.0,75,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",11,agent_gen_2,윤서아,100.0,80,True,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",12,agent_gen_2,윤서아,100.0,80,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",13,agent_gen_2,윤서아,100.0,80,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",14,agent_gen_2,윤서아,100.0,80,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",15,agent_gen_2,윤서아,100.0,80,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",16,agent_gen_2,윤서아,100.0,80,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",17,agent_gen_2,윤서아,100.0,80,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",18,agent_gen_2,윤서아,100.0,80,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",19,agent_gen_2,윤서아,100.0,80,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",20,agent_gen_2,윤서아,100.0,80,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",21,agent_gen_2,윤서아,100.0,80,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",22,agent_gen_2,윤서아,100.0,80,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",23,agent_gen_2,윤서아,100.0,80,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",24,agent_gen_2,윤서아,100.0,80,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",25,agent_gen_2,윤서아,100.0,80,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",26,agent_gen_2,윤서아,100.0,80,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",27,agent_gen_2,윤서아,85.0,70,True,True
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",28,agent_gen_2,윤서아,85.0,70,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",29,agent_gen_2,윤서아,85.0,70,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",30,agent_gen_2,윤서아,85.0,70,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",0,agent_gen_3,박도현,-100.0,,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",1,agent_gen_3,박도현,-100.0,,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",2,agent_gen_3,박도현,-100.0,,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",3,agent_gen_3,박도현,-100.0,,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",4,agent_gen_3,박도현,-100.0,85,True,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",5,agent_gen_3,박도현,-100.0,85,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",6,agent_gen_3,박도현,-100.0,85,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",7,agent_gen_3,박도현,-100.0,85,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",8,agent_gen_3,박도현,-100.0,85,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",9,agent_gen_3,박도현,-85.0,68,True,True
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",10,agent_gen_3,박도현,-85.0,68,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",11,agent_gen_3,박도현,-85.0,68,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",12,agent_gen_3,박도현,-85.0,68,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",13,agent_gen_3,박도현,-85.0,68,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",14,agent_gen_3,박도현,-85.0,68,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",15,agent_gen_3,박도현,-85.0,68,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",16,agent_gen_3,박도현,-85.0,68,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",17,agent_gen_3,박도현,-85.0,68,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",18,agent_gen_3,박도현,-85.0,68,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",19,agent_gen_3,박도현,-85.0,68,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",20,agent_gen_3,박도현,-85.0,62,True,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",21,agent_gen_3,박도현,-85.0,62,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",22,agent_gen_3,박도현,-85.0,62,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",23,agent_gen_3,박도현,-85.0,62,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",24,agent_gen_3,박도현,-85.0,62,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",25,agent_gen_3,박도현,-85.0,62,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",26,agent_gen_3,박도현,-85.0,62,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",27,agent_gen_3,박도현,-85.0,62,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",28,agent_gen_3,박도현,-85.0,62,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",29,agent_gen_3,박도현,-85.0,62,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",30,agent_gen_3,박도현,-85.0,62,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",0,agent_gen_4,한지우,-100.0,,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",1,agent_gen_4,한지우,-100.0,,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",2,agent_gen_4,한지우,-100.0,,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",3,agent_gen_4,한지우,-100.0,,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",4,agent_gen_4,한지우,-100.0,,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",5,agent_gen_4,한지우,-100.0,95,True,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",6,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",7,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",8,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",9,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",10,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",11,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",12,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",13,agent_gen_4,한지우,-100.0,95,True,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",14,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",15,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",16,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",17,agent_gen_4,한지우,-100.0,95,True,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",18,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",19,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",20,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",21,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",22,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",23,agent_gen_4,한지우,-100.0,95,True,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",24,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",25,agent_gen_4,한지우,-100.0,95,True,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",26,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",27,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",28,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",29,agent_gen_4,한지우,-100.0,95,True,False
+var-ai-referee-five-runs,run-04,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",30,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",0,agent_gen_1,김민석,100.0,,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",1,agent_gen_1,김민석,100.0,,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",2,agent_gen_1,김민석,100.0,92,True,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",3,agent_gen_1,김민석,100.0,92,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",4,agent_gen_1,김민석,100.0,92,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",5,agent_gen_1,김민석,100.0,92,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",6,agent_gen_1,김민석,100.0,92,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",7,agent_gen_1,김민석,100.0,88,True,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",8,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",9,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",10,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",11,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",12,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",13,agent_gen_1,김민석,100.0,88,True,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",14,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",15,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",16,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",17,agent_gen_1,김민석,100.0,88,True,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",18,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",19,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",20,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",21,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",22,agent_gen_1,김민석,100.0,88,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",23,agent_gen_1,김민석,100.0,86,True,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",24,agent_gen_1,김민석,100.0,86,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",25,agent_gen_1,김민석,100.0,86,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",26,agent_gen_1,김민석,100.0,86,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",27,agent_gen_1,김민석,100.0,86,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",28,agent_gen_1,김민석,100.0,86,True,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",29,agent_gen_1,김민석,100.0,86,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",30,agent_gen_1,김민석,100.0,86,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",0,agent_gen_2,윤서아,100.0,,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",1,agent_gen_2,윤서아,100.0,,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",2,agent_gen_2,윤서아,100.0,,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",3,agent_gen_2,윤서아,85.0,75,True,True
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",4,agent_gen_2,윤서아,85.0,75,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",5,agent_gen_2,윤서아,85.0,75,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",6,agent_gen_2,윤서아,85.0,75,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",7,agent_gen_2,윤서아,85.0,75,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",8,agent_gen_2,윤서아,85.0,75,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",9,agent_gen_2,윤서아,85.0,75,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",10,agent_gen_2,윤서아,85.0,75,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",11,agent_gen_2,윤서아,82.0,70,True,True
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",12,agent_gen_2,윤서아,82.0,70,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",13,agent_gen_2,윤서아,82.0,70,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",14,agent_gen_2,윤서아,82.0,70,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",15,agent_gen_2,윤서아,82.0,70,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",16,agent_gen_2,윤서아,82.0,70,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",17,agent_gen_2,윤서아,82.0,70,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",18,agent_gen_2,윤서아,82.0,70,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",19,agent_gen_2,윤서아,82.0,70,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",20,agent_gen_2,윤서아,82.0,70,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",21,agent_gen_2,윤서아,78.0,60,True,True
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",22,agent_gen_2,윤서아,78.0,60,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",23,agent_gen_2,윤서아,78.0,60,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",24,agent_gen_2,윤서아,78.0,60,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",25,agent_gen_2,윤서아,78.0,60,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",26,agent_gen_2,윤서아,78.0,60,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",27,agent_gen_2,윤서아,78.0,60,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",28,agent_gen_2,윤서아,78.0,60,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",29,agent_gen_2,윤서아,78.0,60,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",30,agent_gen_2,윤서아,78.0,60,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",0,agent_gen_3,박도현,-100.0,,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",1,agent_gen_3,박도현,-100.0,85,True,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",2,agent_gen_3,박도현,-100.0,85,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",3,agent_gen_3,박도현,-100.0,85,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",4,agent_gen_3,박도현,-100.0,78,True,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",5,agent_gen_3,박도현,-100.0,78,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",6,agent_gen_3,박도현,-100.0,78,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",7,agent_gen_3,박도현,-100.0,78,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",8,agent_gen_3,박도현,-100.0,78,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",9,agent_gen_3,박도현,-100.0,62,True,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",10,agent_gen_3,박도현,-100.0,62,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",11,agent_gen_3,박도현,-100.0,62,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",12,agent_gen_3,박도현,-100.0,62,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",13,agent_gen_3,박도현,-100.0,62,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",14,agent_gen_3,박도현,-100.0,62,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",15,agent_gen_3,박도현,-100.0,62,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",16,agent_gen_3,박도현,-100.0,62,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",17,agent_gen_3,박도현,-100.0,62,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",18,agent_gen_3,박도현,-100.0,62,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",19,agent_gen_3,박도현,-100.0,62,True,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",20,agent_gen_3,박도현,-100.0,62,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",21,agent_gen_3,박도현,-100.0,62,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",22,agent_gen_3,박도현,-100.0,62,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",23,agent_gen_3,박도현,-100.0,62,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",24,agent_gen_3,박도현,-100.0,62,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",25,agent_gen_3,박도현,-100.0,62,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",26,agent_gen_3,박도현,-100.0,62,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",27,agent_gen_3,박도현,-100.0,62,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",28,agent_gen_3,박도현,-100.0,62,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",29,agent_gen_3,박도현,-100.0,62,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",30,agent_gen_3,박도현,-100.0,62,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",0,agent_gen_4,한지우,-100.0,,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",1,agent_gen_4,한지우,-100.0,,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",2,agent_gen_4,한지우,-100.0,,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",3,agent_gen_4,한지우,-100.0,,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",4,agent_gen_4,한지우,-100.0,,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",5,agent_gen_4,한지우,-100.0,95,True,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",6,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",7,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",8,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",9,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",10,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",11,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",12,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",13,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",14,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",15,agent_gen_4,한지우,-100.0,95,True,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",16,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",17,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",18,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",19,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",20,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",21,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",22,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",23,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",24,agent_gen_4,한지우,-100.0,95,True,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",25,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",26,agent_gen_4,한지우,-100.0,95,True,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",27,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",28,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",29,agent_gen_4,한지우,-100.0,95,False,False
+var-ai-referee-five-runs,run-05,"오심을 줄일 수 있다면 VAR과 AI 판정을 경기 중 더 자주 개입시켜야 하는가, 아니면 축구의 흐름과 인간 심판의 판단을 존중해야 하는가?",30,agent_gen_4,한지우,-100.0,95,True,False

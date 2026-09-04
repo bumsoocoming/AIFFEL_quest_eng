@@ -1,0 +1,33 @@
+# ── 비밀값 (절대 커밋 금지) ──────────────────────────────
+.env
+.env.*
+!.env.example
+*api*key*
+*_secret*
+credentials*
+
+# 정제되지 않은 원본 토론 로그 (평문 API 키가 들어 있음)
+**/raw/
+debate_report.json
+debate_report*.json
+!**/sanitized/*.json
+
+# ── 대용량 · 저작권 ──────────────────────────────────────
+*.mp4
+*.mov
+*.avi
+
+# ── 작업 부산물 ──────────────────────────────────────────
+__pycache__/
+*.pyc
+node_modules/
+.venv/
+venv/
+~$*
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── 대용량 산출물 (GitHub 파일당 100MB 한도) ─────────────
+*.wav
+prototypes/**/outputs/*.wav

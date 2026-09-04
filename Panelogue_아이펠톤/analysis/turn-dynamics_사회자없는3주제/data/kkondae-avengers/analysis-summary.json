@@ -1,0 +1,121 @@
+{
+  "generatedAt": "2026-09-01T03:00:00Z",
+  "topic": "대한민국 꼰대 어벤져스\n「요즘 젊은이들은 왜 우리 말을 안 듣는가?」",
+  "configuration": {
+    "identicalAcrossRuns": true,
+    "fingerprint": "3b6e30aa0bbee1e79578c6d390ede37211b9b36c8b7ac1b89e7321b4746fe6e9",
+    "mode": "standard",
+    "goal": "",
+    "maxTurns": 100,
+    "noModeratorMode": true
+  },
+  "totals": {
+    "runs": 1,
+    "total_turns": 100,
+    "panel_turns": 100,
+    "extracted_claims": 61,
+    "rebuttals": 61,
+    "concessions": 0,
+    "mean_confidence": 79.5,
+    "stance_events": 23,
+    "mean_group_final": 3.5,
+    "mean_absolute_final": 74.5,
+    "consensusReached": 0
+  },
+  "agentSummary": [
+    {
+      "name": "잔소리많은 아버지",
+      "job": "은퇴후 집안일",
+      "model": "openai/gpt-5",
+      "initialStance": 71,
+      "finalStance": 80,
+      "delta": 9,
+      "speeches": 29
+    },
+    {
+      "name": "아파트 관리 소장",
+      "job": "아파트 관리 소장",
+      "model": "anthropic/claude-opus-5",
+      "initialStance": -71,
+      "finalStance": -82,
+      "delta": -11,
+      "speeches": 29
+    },
+    {
+      "name": "동네 통장",
+      "job": "동네 통장",
+      "model": "openai/gpt-5",
+      "initialStance": 0,
+      "finalStance": -60,
+      "delta": -60,
+      "speeches": 14
+    },
+    {
+      "name": "회사 부장",
+      "job": "회사 부장",
+      "model": "x-ai/grok-4.6",
+      "initialStance": -25,
+      "finalStance": 76,
+      "delta": 101,
+      "speeches": 28
+    }
+  ],
+  "runMetrics": [
+    {
+      "run": 1,
+      "total_turns": 100,
+      "panel_turns": 100,
+      "extracted_claims": 61,
+      "claims": 39,
+      "rebuttals": 61,
+      "concessions": 0,
+      "mean_confidence": 79.5,
+      "stance_events": 23,
+      "final_group_mean": 3.5,
+      "final_mean_absolute_stance": 74.5,
+      "final_stance_spread": 162,
+      "consensus_reached": "false",
+      "final_agreement_ratio": 0.5,
+      "moderator_present": "false"
+    }
+  ],
+  "finalStances": [
+    {
+      "run": 1,
+      "agent": "잔소리많은 아버지",
+      "job": "은퇴후 집안일",
+      "model": "openai/gpt-5",
+      "initial_stance": 71,
+      "final_stance": 80,
+      "delta": 9
+    },
+    {
+      "run": 1,
+      "agent": "아파트 관리 소장",
+      "job": "아파트 관리 소장",
+      "model": "anthropic/claude-opus-5",
+      "initial_stance": -71,
+      "final_stance": -82,
+      "delta": -11
+    },
+    {
+      "run": 1,
+      "agent": "동네 통장",
+      "job": "동네 통장",
+      "model": "openai/gpt-5",
+      "initial_stance": 0,
+      "final_stance": -60,
+      "delta": -60
+    },
+    {
+      "run": 1,
+      "agent": "회사 부장",
+      "job": "회사 부장",
+      "model": "x-ai/grok-4.6",
+      "initial_stance": -25,
+      "final_stance": 76,
+      "delta": 101
+    }
+  ],
+  "note": "사회자 없는 단일 실행 세션. 반복 실행이 없으므로 회차 간 안정성은 평가 불가. 원본에서 API 키를 제거한 sanitized 사본 기준."
+}

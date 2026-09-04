@@ -1,0 +1,5 @@
+﻿run,agent,job,model,initial_stance,final_stance,delta
+1,도널드 트럼프,미국 대통,nvidia/nemotron-3-ultra-550b-a55b,71,92,21
+1,이재명,대한민국 대통,x-ai/grok-4.20,-71,-35,36
+1,블라디미르 푸틴,러시아 대통령,deepseek/deepseek-v4-pro-0813,0,40,40
+1,김정은,조선민주주의인민공화국 위원,anthropic/claude-opus-5,-25,8,33

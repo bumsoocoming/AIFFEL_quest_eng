@@ -1,0 +1,121 @@
+{
+  "generatedAt": "2026-09-01T03:00:00Z",
+  "topic": "사람을 속이는 가장 좋은 방법은 무엇인가?",
+  "configuration": {
+    "identicalAcrossRuns": true,
+    "fingerprint": "7e56d614371b57f936ee0efbe89be391e60f1c36eac95467f491f593a506ff47",
+    "mode": "standard",
+    "goal": "",
+    "maxTurns": 100,
+    "noModeratorMode": true
+  },
+  "totals": {
+    "runs": 1,
+    "total_turns": 100,
+    "panel_turns": 100,
+    "extracted_claims": 74,
+    "rebuttals": 86,
+    "concessions": 0,
+    "mean_confidence": 73.2,
+    "stance_events": 66,
+    "mean_group_final": -3.75,
+    "mean_absolute_final": 66.25,
+    "consensusReached": 0
+  },
+  "agentSummary": [
+    {
+      "name": "고유정",
+      "job": "주부",
+      "model": "x-ai/grok-4.20",
+      "initialStance": 71,
+      "finalStance": 55,
+      "delta": -16,
+      "speeches": 29
+    },
+    {
+      "name": "이은해",
+      "job": "사기꾼",
+      "model": "x-ai/grok-4.20",
+      "initialStance": -71,
+      "finalStance": -45,
+      "delta": 26,
+      "speeches": 29
+    },
+    {
+      "name": "전청조",
+      "job": "사기꾼",
+      "model": "deepseek/deepseek-v4-pro-0813",
+      "initialStance": 0,
+      "finalStance": 70,
+      "delta": 70,
+      "speeches": 14
+    },
+    {
+      "name": "정유정",
+      "job": "백수",
+      "model": "anthropic/claude-opus-5",
+      "initialStance": -25,
+      "finalStance": -95,
+      "delta": -70,
+      "speeches": 28
+    }
+  ],
+  "runMetrics": [
+    {
+      "run": 1,
+      "total_turns": 100,
+      "panel_turns": 100,
+      "extracted_claims": 74,
+      "claims": 12,
+      "rebuttals": 86,
+      "concessions": 0,
+      "mean_confidence": 73.2,
+      "stance_events": 66,
+      "final_group_mean": -3.75,
+      "final_mean_absolute_stance": 66.25,
+      "final_stance_spread": 165,
+      "consensus_reached": "false",
+      "final_agreement_ratio": 0.5,
+      "moderator_present": "false"
+    }
+  ],
+  "finalStances": [
+    {
+      "run": 1,
+      "agent": "고유정",
+      "job": "주부",
+      "model": "x-ai/grok-4.20",
+      "initial_stance": 71,
+      "final_stance": 55,
+      "delta": -16
+    },
+    {
+      "run": 1,
+      "agent": "이은해",
+      "job": "사기꾼",
+      "model": "x-ai/grok-4.20",
+      "initial_stance": -71,
+      "final_stance": -45,
+      "delta": 26
+    },
+    {
+      "run": 1,
+      "agent": "전청조",
+      "job": "사기꾼",
+      "model": "deepseek/deepseek-v4-pro-0813",
+      "initial_stance": 0,
+      "final_stance": 70,
+      "delta": 70
+    },
+    {
+      "run": 1,
+      "agent": "정유정",
+      "job": "백수",
+      "model": "anthropic/claude-opus-5",
+      "initial_stance": -25,
+      "final_stance": -95,
+      "delta": -70
+    }
+  ],
+  "note": "사회자 없는 단일 실행 세션. 반복 실행이 없으므로 회차 간 안정성은 평가 불가. 원본에서 API 키를 제거한 sanitized 사본 기준."
+}

@@ -1,0 +1,121 @@
+{
+  "generatedAt": "2026-09-01T03:00:00Z",
+  "topic": "세계 평화를 위해 누가 가장 현명한 해결책을 제시할 수 있는가?",
+  "configuration": {
+    "identicalAcrossRuns": true,
+    "fingerprint": "c0cf6f918edda9a0cc4a5fd9ff1aa10d459978ce96d199ef9e3b4ef072b81a9f",
+    "mode": "standard",
+    "goal": "",
+    "maxTurns": 100,
+    "noModeratorMode": true
+  },
+  "totals": {
+    "runs": 1,
+    "total_turns": 72,
+    "panel_turns": 72,
+    "extracted_claims": 39,
+    "rebuttals": 48,
+    "concessions": 3,
+    "mean_confidence": 78.0,
+    "stance_events": 44,
+    "mean_group_final": 26.25,
+    "mean_absolute_final": 43.75,
+    "consensusReached": 0
+  },
+  "agentSummary": [
+    {
+      "name": "도널드 트럼프",
+      "job": "미국 대통",
+      "model": "nvidia/nemotron-3-ultra-550b-a55b",
+      "initialStance": 71,
+      "finalStance": 92,
+      "delta": 21,
+      "speeches": 21
+    },
+    {
+      "name": "이재명",
+      "job": "대한민국 대통",
+      "model": "x-ai/grok-4.20",
+      "initialStance": -71,
+      "finalStance": -35,
+      "delta": 36,
+      "speeches": 21
+    },
+    {
+      "name": "블라디미르 푸틴",
+      "job": "러시아 대통령",
+      "model": "deepseek/deepseek-v4-pro-0813",
+      "initialStance": 0,
+      "finalStance": 40,
+      "delta": 40,
+      "speeches": 10
+    },
+    {
+      "name": "김정은",
+      "job": "조선민주주의인민공화국 위원",
+      "model": "anthropic/claude-opus-5",
+      "initialStance": -25,
+      "finalStance": 8,
+      "delta": 33,
+      "speeches": 20
+    }
+  ],
+  "runMetrics": [
+    {
+      "run": 1,
+      "total_turns": 72,
+      "panel_turns": 72,
+      "extracted_claims": 39,
+      "claims": 20,
+      "rebuttals": 48,
+      "concessions": 3,
+      "mean_confidence": 78.0,
+      "stance_events": 44,
+      "final_group_mean": 26.25,
+      "final_mean_absolute_stance": 43.75,
+      "final_stance_spread": 127,
+      "consensus_reached": "false",
+      "final_agreement_ratio": 0.5,
+      "moderator_present": "false"
+    }
+  ],
+  "finalStances": [
+    {
+      "run": 1,
+      "agent": "도널드 트럼프",
+      "job": "미국 대통",
+      "model": "nvidia/nemotron-3-ultra-550b-a55b",
+      "initial_stance": 71,
+      "final_stance": 92,
+      "delta": 21
+    },
+    {
+      "run": 1,
+      "agent": "이재명",
+      "job": "대한민국 대통",
+      "model": "x-ai/grok-4.20",
+      "initial_stance": -71,
+      "final_stance": -35,
+      "delta": 36
+    },
+    {
+      "run": 1,
+      "agent": "블라디미르 푸틴",
+      "job": "러시아 대통령",
+      "model": "deepseek/deepseek-v4-pro-0813",
+      "initial_stance": 0,
+      "final_stance": 40,
+      "delta": 40
+    },
+    {
+      "run": 1,
+      "agent": "김정은",
+      "job": "조선민주주의인민공화국 위원",
+      "model": "anthropic/claude-opus-5",
+      "initial_stance": -25,
+      "final_stance": 8,
+      "delta": 33
+    }
+  ],
+  "note": "사회자 없는 단일 실행 세션. 반복 실행이 없으므로 회차 간 안정성은 평가 불가. 원본에서 API 키를 제거한 sanitized 사본 기준."
+}

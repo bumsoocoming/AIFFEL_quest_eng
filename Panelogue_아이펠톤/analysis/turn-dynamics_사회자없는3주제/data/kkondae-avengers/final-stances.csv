@@ -1,0 +1,5 @@
+﻿run,agent,job,model,initial_stance,final_stance,delta
+1,잔소리많은 아버지,은퇴후 집안일,openai/gpt-5,71,80,9
+1,아파트 관리 소장,아파트 관리 소장,anthropic/claude-opus-5,-71,-82,-11
+1,동네 통장,동네 통장,openai/gpt-5,0,-60,-60
+1,회사 부장,회사 부장,x-ai/grok-4.6,-25,76,101

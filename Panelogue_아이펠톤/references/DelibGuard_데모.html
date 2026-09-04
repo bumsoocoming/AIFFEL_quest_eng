@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>DelibGuard 시뮬레이션 데모</title>
+<style>
+.viz-root { color-scheme: light;
+  --surface-1:#fcfcfb; --surface-2:#f1f0ee; --text-primary:#0b0b0b; --text-secondary:#52514e;
+  --series-1:#2a78d6; --series-2:#008300; --good:#0ca30c; --warning:#fab219; --critical:#d03b3b;
+  --grid:#e4e3e0; --border:#dddcd8; }
+@media (prefers-color-scheme: dark) { :root:where(:not([data-theme="light"])) .viz-root { color-scheme: dark;
+  --surface-1:#1a1a19; --surface-2:#242423; --text-primary:#ffffff; --text-secondary:#c3c2b7;
+  --series-1:#3987e5; --series-2:#008300; --grid:#33322f; --border:#3a3936; } }
+body { margin:0; font-family:'Apple SD Gothic Neo','Malgun Gothic',sans-serif; }
+.viz-root { background:var(--surface-1); color:var(--text-primary); padding:28px; max-width:1000px; margin:0 auto; }
+h1 { font-size:22px; margin:0 0 4px; } .sub { color:var(--text-secondary); font-size:13px; margin-bottom:22px; }
+h2 { font-size:16px; margin:28px 0 10px; }
+.cards { display:grid; grid-template-columns:repeat(auto-fit,minmax(190px,1fr)); gap:12px; }
+.card { background:var(--surface-2); border-radius:10px; padding:14px 16px; }
+.ct { font-size:12px; color:var(--text-secondary); }
+.cv { font-size:26px; font-weight:700; margin:6px 0 2px; }
+.old { color:var(--text-secondary); font-weight:400; } .arr { margin:0 8px; color:var(--text-secondary); font-weight:400; }
+.cn { font-size:12px; } .cn.good { color:var(--good); }
+table { border-collapse:collapse; width:100%; font-size:13px; }
+th,td { border:1px solid var(--border); padding:7px 9px; text-align:center; }
+td.fid { text-align:left; font-weight:600; min-width:220px; }
+.ftext { font-weight:400; font-size:11.5px; color:var(--text-secondary); margin-top:2px; }
+td.on { color:var(--good); } td.off { color:var(--text-secondary); }
+td.rej { color:var(--critical); font-size:12px; font-weight:600; }
+.crit { background:var(--critical); color:#fff; border-radius:8px; font-size:10px; padding:1px 7px; margin-left:4px; font-weight:600; }
+.ev { background:var(--surface-2); border-radius:8px; padding:10px 12px; margin:8px 0; font-size:13px; }
+.tag { background:var(--surface-1); border:1px solid var(--border); border-radius:8px; padding:1px 7px; font-size:11px; color:var(--text-secondary); }
+ol { font-size:13px; line-height:1.7; }
+.cols { display:grid; grid-template-columns:1fr 1fr; gap:14px; }
+.box { background:var(--surface-2); border-radius:10px; padding:12px 14px; font-size:13px; line-height:1.6; }
+.box h3 { margin:0 0 6px; font-size:13px; }
+.rh { font-weight:700; font-size:13px; margin:12px 0 4px; }
+.utt { background:var(--surface-2); border-radius:8px; padding:8px 10px; margin:4px 0; font-size:12.5px; line-height:1.55; }
+details { margin:8px 0; } summary { cursor:pointer; font-size:14px; font-weight:600; }
+.note { color:var(--text-secondary); font-size:11.5px; margin-top:14px; line-height:1.6; }
+.legend { font-size:12px; color:var(--text-secondary); margin:4px 0 8px; }
+.dot { display:inline-block; width:9px; height:9px; border-radius:50%; margin-right:4px; }
+#tip { position:fixed; display:none; background:var(--text-primary); color:var(--surface-1); font-size:12px;
+       padding:4px 8px; border-radius:6px; pointer-events:none; z-index:9; }
+svg { width:100%; height:auto; } .pt { cursor:pointer; }
+</style></head>
+<body><div class="viz-root">
+<h1>DelibGuard 시뮬레이션 데모</h1>
+<div class="sub">주제: "기본소득을 도입해야 하는가" (논문 예제 이슈) · 3 에이전트 × 3라운드 · 발화는 스크립트, <b>원장·파서·SCS·Guardian·감사 로직은 실제 코드 실행 결과</b></div>
+
+<div class="cards"><div class="card"><div class="ct">핵심 정보 누락률 FAR</div><div class="cv"><span class="old">75%</span><span class="arr">→</span><span class="new">0%</span></div><div class="cn good">▼ 75%p 개선 (목표 30%p)</div></div><div class="card"><div class="ct">SCS 최종 라운드</div><div class="cv"><span class="old">0.366</span><span class="arr">→</span><span class="new">0.14</span></div><div class="cn good">▼ 수렴 기울기 완만화</div></div><div class="card"><div class="ct">합의 소요 턴 TTA</div><div class="cv"><span class="old">10</span><span class="arr">→</span><span class="new">13</span></div><div class="cn good">▲ +30% (상한 50% 이내)</div></div><div class="card"><div class="ct">합의안 고유 어휘 수*</div><div class="cv"><span class="old">15</span><span class="arr">→</span><span class="new">31</span></div><div class="cn good">▲ 다양한 관점 보존</div></div></div>
+
+<h2>라운드별 입장 수렴 속도 (SCS)</h2>
+<div class="legend"><span class="dot" style="background:var(--series-1)"></span>C0 기본 토론&nbsp;&nbsp;
+<span class="dot" style="background:var(--series-2)"></span>C3 DelibGuard&nbsp;&nbsp;— 급경사 = 눈치 합의, 완만 = 반론을 거친 수렴</div>
+<svg viewBox="0 0 620 250" role="img" aria-label="라운드별 SCS 비교"><line x1="46" y1="216.0" x2="524" y2="216.0" stroke="var(--grid)" stroke-width="1"/><text x="38" y="220.0" fill="var(--text-secondary)" font-size="11" text-anchor="end">0.0</text><line x1="46" y1="166.0" x2="524" y2="166.0" stroke="var(--grid)" stroke-width="1"/><text x="38" y="170.0" fill="var(--text-secondary)" font-size="11" text-anchor="end">0.1</text><line x1="46" y1="116.0" x2="524" y2="116.0" stroke="var(--grid)" stroke-width="1"/><text x="38" y="120.0" fill="var(--text-secondary)" font-size="11" text-anchor="end">0.2</text><line x1="46" y1="66.0" x2="524" y2="66.0" stroke="var(--grid)" stroke-width="1"/><text x="38" y="70.0" fill="var(--text-secondary)" font-size="11" text-anchor="end">0.3</text><line x1="46" y1="16.0" x2="524" y2="16.0" stroke="var(--grid)" stroke-width="1"/><text x="38" y="20.0" fill="var(--text-secondary)" font-size="11" text-anchor="end">0.4</text><text x="46.0" y="240" fill="var(--text-secondary)" font-size="12" text-anchor="middle">라운드 1</text><text x="285.0" y="240" fill="var(--text-secondary)" font-size="12" text-anchor="middle">라운드 2</text><text x="524.0" y="240" fill="var(--text-secondary)" font-size="12" text-anchor="middle">라운드 3</text><line x1="303.0" y1="16" x2="303.0" y2="216" stroke="var(--warning)" stroke-width="1.5" stroke-dasharray="4 3"/><text x="309.0" y="28" fill="var(--text-secondary)" font-size="11">⚑ Guardian 개입 (R2 후)</text><polyline points="46.0,206.5 285.0,156.5 524.0,33.0" fill="none" stroke="var(--series-1)" stroke-width="2"/><circle cx="46.0" cy="206.5" r="4" fill="var(--series-1)" class="pt" data-tip="C0 기본 · R1 · SCS 0.019"/><circle cx="285.0" cy="156.5" r="4" fill="var(--series-1)" class="pt" data-tip="C0 기본 · R2 · SCS 0.119"/><circle cx="524.0" cy="33.0" r="4" fill="var(--series-1)" class="pt" data-tip="C0 기본 · R3 · SCS 0.366"/><text x="534.0" y="25.0" fill="var(--text-primary)" font-size="12" font-weight="600">C0 기본</text><polyline points="46.0,204.5 285.0,158.5 524.0,146.0" fill="none" stroke="var(--series-2)" stroke-width="2"/><circle cx="46.0" cy="204.5" r="4" fill="var(--series-2)" class="pt" data-tip="C3 DelibGuard · R1 · SCS 0.023"/><circle cx="285.0" cy="158.5" r="4" fill="var(--series-2)" class="pt" data-tip="C3 DelibGuard · R2 · SCS 0.115"/><circle cx="524.0" cy="146.0" r="4" fill="var(--series-2)" class="pt" data-tip="C3 DelibGuard · R3 · SCS 0.14"/><text x="534.0" y="160.0" fill="var(--text-primary)" font-size="12" font-weight="600">C3 DelibGuard</text></svg>
+
+<h2>팩트 생존 매트릭스 (C3)</h2>
+<div class="legend">● 인용됨 · ○ 미인용 · ✕ 기각기록 = 사유를 남기고 제외 (누락 아님)</div>
+<table><tr><th>팩트</th><th>R1</th><th>R2</th><th>R3</th><th>합의 초안</th><th>최종안</th></tr><tr><td class="fid">F1 <span class="crit">critical</span><div class="ftext">기본소득 시범사업에서 수급자의 노동 참여율이 유의미하게 감소하지 않았다</div></td><td class="on">●</td><td class="on">●</td><td class="on">●</td><td class="on">●</td><td class="on">●</td></tr><tr><td class="fid">F2 <span class="crit">critical</span><div class="ftext">전 국민 지급을 위해서는 소득세율을 상당 폭 인상해야 한다</div></td><td class="on">●</td><td class="on">●</td><td class="on">●</td><td class="off">○</td><td class="on">●</td></tr><tr><td class="fid">F3 <div class="ftext">행정 선별 비용이 사라져 복지 전달 효율이 오른다</div></td><td class="on">●</td><td class="on">●</td><td class="off">○</td><td class="on">●</td><td class="on">●</td></tr><tr><td class="fid">F4 <div class="ftext">기존 복지제도와의 통합 방식에 따라 재정 효과가 크게 달라진다</div></td><td class="on">●</td><td class="on">●</td><td class="on">●</td><td class="on">●</td><td class="on">●</td></tr><tr><td class="fid">F5 <span class="crit">critical</span><div class="ftext">연간 재정 부담 추계는 GDP의 상당 비중을 차지한다</div></td><td class="on">●</td><td class="off">○</td><td class="on">●</td><td class="on">●</td><td class="on">●</td></tr><tr><td class="fid">F6 <div class="ftext">지역화폐형 지급은 지역 경제 승수 효과를 보였다</div></td><td class="on">●</td><td class="off">○</td><td class="off">○</td><td class="off">○</td><td class="off">○</td></tr><tr><td class="fid">F7 <span class="crit">critical</span><div class="ftext">한 온라인 여론조사에서 응답자 다수가 도입에 찬성했다</div></td><td class="on">●</td><td class="off">○</td><td class="off">○</td><td class="off">○</td><td class="rej">✕ 기각기록</td></tr><tr><td class="fid">F8 <div class="ftext">물가 상승 압력에 대한 실증 근거는 아직 제한적이다</div></td><td class="on">●</td><td class="off">○</td><td class="off">○</td><td class="off">○</td><td class="off">○</td></tr></table>
+
+<h2>Guardian 개입 로그</h2><div class="ev"><b>⚑ Guardian</b> <span class="tag">ΔSCS=0.091 > τ=0.08</span><br>[F5]가 라운드 2 이후 논의에서 사라졌습니다. 이를 반영하거나, 반박 사유를 제시하십시오.</div><div class="ev"><b>⚑ Guardian</b> <span class="tag">ΔSCS=0.091 > τ=0.08</span><br>[F7]가 라운드 2 이후 논의에서 사라졌습니다. 이를 반영하거나, 반박 사유를 제시하십시오.</div>
+
+<h2>체크포인트 감사 5단계</h2><ol><li>초안 인용 파싱: ['F1', 'F3', 'F4', 'F5']</li><li>누락 후보 = critical − 인용 = ['F2', 'F7']</li><li>함의 검사 후 진짜 누락: ['F2', 'F7']</li><li>재작성 요구(포함): ['F2'] / 사유 기각: ['F7']</li><li>커버리지 리포트: critical 4/4 처리 (포함 3 · 기각기록 1) → FAR 0.0</li></ol>
+
+<h2>최종 합의안 비교</h2>
+<div class="cols">
+<div class="box"><h3 style="color:var(--critical)">C0 기본 토론</h3>우리는 기본소득의 단계적 도입에 합의한다. 시범사업에서 노동 참여 감소가 없었고 도입 효과가 기대되므로 긍정적으로 추진한다.<br><br>
+<span class="tag">critical 1/4 보존 — 세율·재정·여론 근거가 흔적 없이 소실</span></div>
+<div class="box"><h3 style="color:var(--good)">C3 DelibGuard</h3>우리는 기본소득의 단계적 도입에 합의한다. [F1] 노동 참여 근거와 [F3] 효율 개선을 인정하되, [F5] 재정 부담을 고려해 초기 지급 규모에 상한을 두고, [F2] 이에 필요한 소득세율 인상 폭을 법안에 명시한다. [F4] 기존 복지와의 통합 설계를 병행한다.<br><br>
+<span class="tag">critical 4/4 처리 — 3개 포함 + 1개 사유 기각 기록</span></div>
+</div>
+
+<details><summary>토론 전문 보기 — C0 (기본)</summary><div class="rh">라운드 1 <span class="tag">SCS 0.019</span></div><div class="utt "><b>에이전트A</b> 기본소득은 도입해야 합니다. 시범사업에서 노동 참여율이 줄지 않았고 행정 선별 비용이 사라져 효율이 오릅니다. 지역화폐 지급의 승수 효과도 확인됐습니다.</div><div class="utt "><b>에이전트B</b> 도입에 반대합니다. 연간 재정 부담 추계가 GDP의 상당 비중이고, 전 국민 지급에는 소득세율의 상당한 인상이 불가피합니다.</div><div class="utt "><b>에이전트C</b> 판단을 유보합니다. 기존 복지와의 통합 방식에 따라 재정 효과가 갈리고, 물가 영향의 실증 근거도 아직 제한적입니다. 여론조사는 찬성이 다수였습니다.</div><div class="rh">라운드 2 <span class="tag">SCS 0.119</span></div><div class="utt "><b>에이전트A</b> 말씀 들어보니 공감합니다. 단계적으로 도입하면 좋은 효과가 있을 것 같습니다. 노동 참여 우려도 크지 않았고요.</div><div class="utt "><b>에이전트B</b> 좋은 지적입니다. 저도 단계적 도입이면 괜찮다고 봅니다. 재정 문제는 설계로 풀 수 있을 것 같습니다.</div><div class="utt "><b>에이전트C</b> 동의합니다. 단계적 도입이 합리적인 방향이라고 생각합니다. 효과도 기대됩니다.</div><div class="rh">라운드 3 <span class="tag">SCS 0.366</span></div><div class="utt "><b>에이전트A</b> 단계적 도입에 모두 동의하는 것 같습니다. 좋은 방향입니다.</div><div class="utt "><b>에이전트B</b> 네, 단계적 도입이 좋은 방향이라는 데 동의합니다.</div><div class="utt "><b>에이전트C</b> 저도 같은 생각입니다. 단계적 도입이 좋은 방향입니다.</div></details>
+<details><summary>토론 전문 보기 — C3 (DelibGuard)</summary><div class="rh">라운드 1 <span class="tag">SCS 0.023</span></div><div class="utt "><b>에이전트A</b> [F1] 시범사업에서 노동 참여율이 유의미하게 줄지 않았고 [F3] 선별 비용 절감 효과도 있으므로 도입에 찬성합니다. [F6] 지역화폐 승수 효과도 근거입니다.</div><div class="utt "><b>에이전트B</b> [F5] 재정 부담 추계가 GDP의 상당 비중이고 [F2] 소득세율 인상이 불가피하므로 반대합니다.</div><div class="utt "><b>에이전트C</b> [F4] 복지 통합 방식에 따라 재정 효과가 달라지므로 유보합니다. [F7] 여론조사에서는 찬성이 다수였고 [F8] 물가 근거는 제한적입니다.</div><div class="rh">라운드 2 <span class="tag">SCS 0.115</span></div><div class="utt "><b>에이전트A</b> [F1] 노동 참여 근거가 탄탄하니 단계적 도입이 좋겠습니다. [F3] 효율 개선도 있습니다.</div><div class="utt "><b>에이전트B</b> [F1] 그 근거는 저도 인정합니다. 단계적이라면 [F2] 세율 문제도 완화될 수 있겠습니다.</div><div class="utt "><b>에이전트C</b> [F1] 근거에 동의하며 단계적 도입 방향을 지지합니다. [F4] 통합 설계가 관건입니다.</div><div class="rh">라운드 3 <span class="tag">SCS 0.14</span></div><div class="utt "><b>에이전트A</b> [F5] 재정 부담을 다시 보면, [F1]의 효과에도 불구하고 규모 조정이 필요합니다. 단계적 도입 시 초기 규모를 제한합시다.</div><div class="utt "><b>에이전트B</b> [F5] 지적을 반영해 초기 지급액을 낮추는 안에 동의합니다. [F2] 세율 인상 폭도 명시해야 합니다.</div><div class="utt "><b>에이전트C</b> [F4] 통합 설계와 함께 [F5] 재정 상한을 두는 단계적 도입안을 지지합니다.</div></details>
+
+<div class="note">* 데모 한계 고지: 발화는 현상 재현용 스크립트이며, SCS는 임베딩 대신 TF-IDF 코사인, 함의 검사는 키워드 매칭으로 대체함.
+어휘 다양성은 짧은 텍스트에서 비율이 포화되어 '합의안 고유 어휘 수'로 표시. 본실험에서는 각각 임베딩 모델 · NLI+LLM 3표 투표 · Self-BLEU 기반 비율로 측정하며,
+스크립트 발화 자리에 실제 LLM API 호출이 들어간다. τ=0.08는 데모값(본실험은 C0 분포로 캘리브레이션).</div>
+</div>
+<div id="tip"></div>
+<script>
+const tip=document.getElementById('tip');
+document.querySelectorAll('.pt').forEach(p=>{
+ p.addEventListener('mousemove',e=>{tip.style.display='block';tip.textContent=p.dataset.tip;
+  tip.style.left=(e.clientX+12)+'px';tip.style.top=(e.clientY-10)+'px';});
+ p.addEventListener('mouseleave',()=>tip.style.display='none');
+});
+</script></body></html>

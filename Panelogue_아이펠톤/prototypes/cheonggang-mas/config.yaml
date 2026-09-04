@@ -1,0 +1,17 @@
+# 청강 신도시 멀티에이전트 실험 설정
+experiment:
+  title: 청강 신도시 매장유산 발견 대응
+  rounds: 1
+  week_runs: 3
+  temperature: 0.7
+  max_tokens: 4096
+  speaker_max_chars: 380
+
+provider: gemini
+model: gemini-3.6-flash
+
+paths:
+  briefing: scenario/briefing.md
+  agents: scenario/agents.yaml
+  constraints: scenario/constraints.yaml
+  outputs: outputs

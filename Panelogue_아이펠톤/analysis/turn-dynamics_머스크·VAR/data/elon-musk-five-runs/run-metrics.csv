@@ -1,0 +1,6 @@
+run,total_turns,panel_turns,extracted_claims,claims,rebuttals,concessions,mean_confidence,token_total,mean_latency_ms,heated_lexicon_turns,final_group_mean,final_mean_absolute_stance,final_stance_spread,consensus_reached,final_agreement_ratio,kim_turns,park_turns,lee_turns,choi_turns
+1,30,17,19,2,14,1,85.3,6290,11998,1,-12,80,167,false,0.5,7,2,3,5
+2,30,20,25,4,16,0,87,6835,12097,4,-6.25,86.25,182,false,0.5,6,4,2,8
+3,30,17,18,2,15,0,87.1,5613,11974,2,-11.5,81,174,false,0.5,5,3,2,7
+4,30,19,17,2,16,1,86.1,6018,12602,1,-12,80.5,172,false,0.5,7,3,2,7
+5,30,18,21,2,16,0,88.7,6183,11558,3,-9.75,82.75,178,false,0.5,5,3,1,9

@@ -1,0 +1,382 @@
+{
+  "generatedAt": "2026-08-28T05:23:58.314Z",
+  "topic": "일론 머스크는 시대를 앞서간 천재인가, 아니면 돈과 권력으로 세상을 실험하는 무모한 몽상가인가?",
+  "configuration": {
+    "identicalAcrossRuns": true,
+    "fingerprint": "831d3baf565da5e3ff5887e1e73df43dab51ac358dabf448dc27795e7a6466f6",
+    "mode": "spicy_roast",
+    "goal": "pro_con",
+    "maxTurns": 30
+  },
+  "totals": {
+    "runs": 5,
+    "total_turns": 150,
+    "panel_turns": 91,
+    "extracted_claims": 100,
+    "rebuttals": 77,
+    "concessions": 2,
+    "mean_confidence": 86.8,
+    "mean_group_final": -10.3,
+    "mean_absolute_final_stance": 82.1,
+    "heated_lexicon_turns": 11
+  },
+  "agentSummary": [
+    {
+      "agent": "김태훈",
+      "mean_final": 74.8,
+      "sample_sd": 5.4,
+      "min_final": 68,
+      "max_final": 82,
+      "mean_delta": -25.2,
+      "total_speaking_turns": 30
+    },
+    {
+      "agent": "박서연",
+      "mean_final": 68.8,
+      "sample_sd": 5.36,
+      "min_final": 65,
+      "max_final": 78,
+      "mean_delta": -31.2,
+      "total_speaking_turns": 15
+    },
+    {
+      "agent": "이준호",
+      "mean_final": -85,
+      "sample_sd": 0,
+      "min_final": -85,
+      "max_final": -85,
+      "mean_delta": 15,
+      "total_speaking_turns": 10
+    },
+    {
+      "agent": "최유진",
+      "mean_final": -99.8,
+      "sample_sd": 0.45,
+      "min_final": -100,
+      "max_final": -99,
+      "mean_delta": 0.2,
+      "total_speaking_turns": 36
+    }
+  ],
+  "runMetrics": [
+    {
+      "run": 1,
+      "total_turns": 30,
+      "panel_turns": 17,
+      "extracted_claims": 19,
+      "claims": 2,
+      "rebuttals": 14,
+      "concessions": 1,
+      "mean_confidence": 85.3,
+      "token_total": 6290,
+      "mean_latency_ms": 11998,
+      "heated_lexicon_turns": 1,
+      "final_group_mean": -12,
+      "final_mean_absolute_stance": 80,
+      "final_stance_spread": 167,
+      "consensus_reached": false,
+      "final_agreement_ratio": 0.5,
+      "kim_turns": 7,
+      "park_turns": 2,
+      "lee_turns": 3,
+      "choi_turns": 5
+    },
+    {
+      "run": 2,
+      "total_turns": 30,
+      "panel_turns": 20,
+      "extracted_claims": 25,
+      "claims": 4,
+      "rebuttals": 16,
+      "concessions": 0,
+      "mean_confidence": 87,
+      "token_total": 6835,
+      "mean_latency_ms": 12097,
+      "heated_lexicon_turns": 4,
+      "final_group_mean": -6.25,
+      "final_mean_absolute_stance": 86.25,
+      "final_stance_spread": 182,
+      "consensus_reached": false,
+      "final_agreement_ratio": 0.5,
+      "kim_turns": 6,
+      "park_turns": 4,
+      "lee_turns": 2,
+      "choi_turns": 8
+    },
+    {
+      "run": 3,
+      "total_turns": 30,
+      "panel_turns": 17,
+      "extracted_claims": 18,
+      "claims": 2,
+      "rebuttals": 15,
+      "concessions": 0,
+      "mean_confidence": 87.1,
+      "token_total": 5613,
+      "mean_latency_ms": 11974,
+      "heated_lexicon_turns": 2,
+      "final_group_mean": -11.5,
+      "final_mean_absolute_stance": 81,
+      "final_stance_spread": 174,
+      "consensus_reached": false,
+      "final_agreement_ratio": 0.5,
+      "kim_turns": 5,
+      "park_turns": 3,
+      "lee_turns": 2,
+      "choi_turns": 7
+    },
+    {
+      "run": 4,
+      "total_turns": 30,
+      "panel_turns": 19,
+      "extracted_claims": 17,
+      "claims": 2,
+      "rebuttals": 16,
+      "concessions": 1,
+      "mean_confidence": 86.1,
+      "token_total": 6018,
+      "mean_latency_ms": 12602,
+      "heated_lexicon_turns": 1,
+      "final_group_mean": -12,
+      "final_mean_absolute_stance": 80.5,
+      "final_stance_spread": 172,
+      "consensus_reached": false,
+      "final_agreement_ratio": 0.5,
+      "kim_turns": 7,
+      "park_turns": 3,
+      "lee_turns": 2,
+      "choi_turns": 7
+    },
+    {
+      "run": 5,
+      "total_turns": 30,
+      "panel_turns": 18,
+      "extracted_claims": 21,
+      "claims": 2,
+      "rebuttals": 16,
+      "concessions": 0,
+      "mean_confidence": 88.7,
+      "token_total": 6183,
+      "mean_latency_ms": 11558,
+      "heated_lexicon_turns": 3,
+      "final_group_mean": -9.75,
+      "final_mean_absolute_stance": 82.75,
+      "final_stance_spread": 178,
+      "consensus_reached": false,
+      "final_agreement_ratio": 0.5,
+      "kim_turns": 5,
+      "park_turns": 3,
+      "lee_turns": 1,
+      "choi_turns": 9
+    }
+  ],
+  "themeTotals": [
+    {
+      "theme": "기술 성과",
+      "utterances_with_theme": 68
+    },
+    {
+      "theme": "노동·안전",
+      "utterances_with_theme": 57
+    },
+    {
+      "theme": "책임·규제",
+      "utterances_with_theme": 39
+    },
+    {
+      "theme": "공공지원·집단성과",
+      "utterances_with_theme": 33
+    },
+    {
+      "theme": "과장·지연",
+      "utterances_with_theme": 23
+    },
+    {
+      "theme": "권력 집중",
+      "utterances_with_theme": 16
+    }
+  ],
+  "finalStances": [
+    {
+      "run": 1,
+      "agent": "김태훈",
+      "job": "우주항공 엔지니어",
+      "model": "openai/gpt-5.5",
+      "initial_stance": 100,
+      "final_stance": 68,
+      "delta": -32
+    },
+    {
+      "run": 1,
+      "agent": "박서연",
+      "job": "테크기업 투자자",
+      "model": "x-ai/grok-4.20",
+      "initial_stance": 100,
+      "final_stance": 68,
+      "delta": -32
+    },
+    {
+      "run": 1,
+      "agent": "이준호",
+      "job": "AI 윤리·사회정책 연구자",
+      "model": "anthropic/claude-sonnet-5",
+      "initial_stance": -100,
+      "final_stance": -85,
+      "delta": 15
+    },
+    {
+      "run": 1,
+      "agent": "최유진",
+      "job": "노동·환경 전문 기자",
+      "model": "google/gemini-3.5-flash",
+      "initial_stance": -100,
+      "final_stance": -99,
+      "delta": 1
+    },
+    {
+      "run": 2,
+      "agent": "김태훈",
+      "job": "우주항공 엔지니어",
+      "model": "openai/gpt-5.5",
+      "initial_stance": 100,
+      "final_stance": 82,
+      "delta": -18
+    },
+    {
+      "run": 2,
+      "agent": "박서연",
+      "job": "테크기업 투자자",
+      "model": "x-ai/grok-4.20",
+      "initial_stance": 100,
+      "final_stance": 78,
+      "delta": -22
+    },
+    {
+      "run": 2,
+      "agent": "이준호",
+      "job": "AI 윤리·사회정책 연구자",
+      "model": "anthropic/claude-sonnet-5",
+      "initial_stance": -100,
+      "final_stance": -85,
+      "delta": 15
+    },
+    {
+      "run": 2,
+      "agent": "최유진",
+      "job": "노동·환경 전문 기자",
+      "model": "google/gemini-3.5-flash",
+      "initial_stance": -100,
+      "final_stance": -100,
+      "delta": 0
+    },
+    {
+      "run": 3,
+      "agent": "김태훈",
+      "job": "우주항공 엔지니어",
+      "model": "openai/gpt-5.5",
+      "initial_stance": 100,
+      "final_stance": 74,
+      "delta": -26
+    },
+    {
+      "run": 3,
+      "agent": "박서연",
+      "job": "테크기업 투자자",
+      "model": "x-ai/grok-4.20",
+      "initial_stance": 100,
+      "final_stance": 65,
+      "delta": -35
+    },
+    {
+      "run": 3,
+      "agent": "이준호",
+      "job": "AI 윤리·사회정책 연구자",
+      "model": "anthropic/claude-sonnet-5",
+      "initial_stance": -100,
+      "final_stance": -85,
+      "delta": 15
+    },
+    {
+      "run": 3,
+      "agent": "최유진",
+      "job": "노동·환경 전문 기자",
+      "model": "google/gemini-3.5-flash",
+      "initial_stance": -100,
+      "final_stance": -100,
+      "delta": 0
+    },
+    {
+      "run": 4,
+      "agent": "김태훈",
+      "job": "우주항공 엔지니어",
+      "model": "openai/gpt-5.5",
+      "initial_stance": 100,
+      "final_stance": 72,
+      "delta": -28
+    },
+    {
+      "run": 4,
+      "agent": "박서연",
+      "job": "테크기업 투자자",
+      "model": "x-ai/grok-4.20",
+      "initial_stance": 100,
+      "final_stance": 65,
+      "delta": -35
+    },
+    {
+      "run": 4,
+      "agent": "이준호",
+      "job": "AI 윤리·사회정책 연구자",
+      "model": "anthropic/claude-sonnet-5",
+      "initial_stance": -100,
+      "final_stance": -85,
+      "delta": 15
+    },
+    {
+      "run": 4,
+      "agent": "최유진",
+      "job": "노동·환경 전문 기자",
+      "model": "google/gemini-3.5-flash",
+      "initial_stance": -100,
+      "final_stance": -100,
+      "delta": 0
+    },
+    {
+      "run": 5,
+      "agent": "김태훈",
+      "job": "우주항공 엔지니어",
+      "model": "openai/gpt-5.5",
+      "initial_stance": 100,
+      "final_stance": 78,
+      "delta": -22
+    },
+    {
+      "run": 5,
+      "agent": "박서연",
+      "job": "테크기업 투자자",
+      "model": "x-ai/grok-4.20",
+      "initial_stance": 100,
+      "final_stance": 68,
+      "delta": -32
+    },
+    {
+      "run": 5,
+      "agent": "이준호",
+      "job": "AI 윤리·사회정책 연구자",
+      "model": "anthropic/claude-sonnet-5",
+      "initial_stance": -100,
+      "final_stance": -85,
+      "delta": 15
+    },
+    {
+      "run": 5,
+      "agent": "최유진",
+      "job": "노동·환경 전문 기자",
+      "model": "google/gemini-3.5-flash",
+      "initial_stance": -100,
+      "final_stance": -100,
+      "delta": 0
+    }
+  ],
+  "note": "Theme and heated-language counts are deterministic keyword-based utterance counts; categories can overlap."
+}
